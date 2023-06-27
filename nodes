@@ -1,0 +1,1380 @@
+1569 {'name': 'Amsterdam Sloterdijk'}
+970 {'name': 'Stationsweg'}
+484 {'name': 'Koningin Astridplein'}
+439 {'name': 'Bruges (Station Brugge)'}
+513 {'name': 'Adinkerke'}
+2029 {'name': 'Polley Secured Lorry Park (Pre UK Check)'}
+617 {'name': 'CAFO Terminal Eurotunnel - Charles Dickens'}
+890 {'name': 'FOCA (Terminal Folkestone-Calais)'}
+993 {'name': 'Victoria Coach Station'}
+1935 {'name': 'Lisboa (Oriente)'}
+1844 {'name': 'Fatima'}
+2033 {'name': 'Porto'}
+1812 {'name': 'Coimbra'}
+1772 {'name': 'Braga'}
+1878 {'name': 'Guimarães'}
+1737 {'name': 'Aveiro'}
+1847 {'name': 'Figueira da foz'}
+2335 {'name': 'Albufeira (IC)'}
+2396 {'name': 'Faro (IC)'}
+1527 {'name': 'Warszawa (Warschau), ZOB Zachodnia'}
+3971 {'name': 'Warsaw'}
+2464 {'name': 'Lublin'}
+610 {'name': 'Bus station'}
+2768 {'name': 'Nowy Targ'}
+1008 {'name': 'Kraków'}
+1241 {'name': 'Kielce'}
+2533 {'name': 'Radom Dworzec Autobusowy'}
+3571 {'name': 'Warsaw Airport'}
+676 {'name': 'Metro M�?ociny'}
+2838 {'name': 'Sosnowiec Dworzec PKP'}
+369 {'name': 'Busbahnhof'}
+2892 {'name': 'Żory Dworzec Autobusowy'}
+2705 {'name': 'Jastrz�?bie-Zdrój Dworzec Arki Bożka'}
+2888 {'name': 'Zebrzydowice Spó�?dzielnia'}
+496 {'name': 'Slezská pekárna JK'}
+810 {'name': 'Lampugnano bus station'}
+2955 {'name': 'Parma'}
+973 {'name': 'Autostazione'}
+2401 {'name': 'Florence (Villa Costanza)'}
+1668 {'name': 'Poggibonsi'}
+3016 {'name': 'Siena'}
+701 {'name': 'Stazione FS-Trenitalia di Siena'}
+2965 {'name': 'Siena'}
+2943 {'name': 'Bettolle'}
+409 {'name': 'Tiburtina'}
+1335 {'name': 'Caserta'}
+1213 {'name': 'Naples'}
+2054 {'name': 'Rome Fiumicino'}
+2810 {'name': 'Rome Ciampino Airport'}
+1671 {'name': "Porto d'Ascoli"}
+928 {'name': 'Piazza Nardone'}
+2698 {'name': 'Grottammare'}
+2661 {'name': 'Cupra Marittima'}
+2781 {'name': 'Pedaso'}
+2796 {'name': 'Porto San Giorgio'}
+2799 {'name': "Porto Sant'Elpidio (Piazzale Virgilio)"}
+1014 {'name': 'Via Carducci'}
+1947 {'name': 'Macerata'}
+2739 {'name': 'Macerata (Autostazione)'}
+510 {'name': 'Sud Est Bari Centro'}
+1747 {'name': 'Bari - Modugno'}
+1664 {'name': 'Paris (Quai de Bercy)'}
+3128 {'name': 'Paris'}
+650 {'name': 'SNCF Station'}
+1062 {'name': 'Route de Paris'}
+765 {'name': 'Gare SNCF'}
+2622 {'name': 'Auray - Pluneret'}
+734 {'name': 'SNCF Station'}
+527 {'name': 'Arenc'}
+3243 {'name': 'Marseille'}
+359 {'name': 'Les Sabines'}
+3863 {'name': 'Narbonne'}
+907 {'name': 'Barcelona Nord'}
+497 {'name': 'Rue du Luxembourg 19'}
+1012 {'name': 'Tour de Lille'}
+1368 {'name': 'Orly (Arrêt parc autocars groupes)'}
+438 {'name': 'Reims Champagne Ardenne TGV'}
+1022 {'name': 'Paris La Défense (Terminal Jules Verne)'}
+856 {'name': 'SNCF Station'}
+428 {'name': 'Gare Routière'}
+2113 {'name': 'Thiers'}
+1370 {'name': "Lyon (Centre d'Echanges de Perrache)"}
+1944 {'name': 'Lyon Aéroport Saint-Exupéry'}
+730 {'name': 'SNCF Station'}
+696 {'name': 'SNCF Station'}
+748 {'name': 'SNCF Station'}
+2149 {'name': 'Vigo'}
+2524 {'name': 'Porto - Aeroporto Sá Carneiro (IC)'}
+2363 {'name': 'Bucharest Autogara Militari'}
+1159 {'name': 'Ploiesti'}
+1195 {'name': 'Sinaia'}
+1122 {'name': 'Brasov'}
+1312 {'name': 'Fagaras'}
+2302 {'name': 'Sibiu (Str. Europa Unita)'}
+1282 {'name': 'Sebes'}
+1110 {'name': 'Orastie'}
+1332 {'name': 'Deva'}
+2248 {'name': 'Lipova (Pensiunea Mara)'}
+2922 {'name': 'Arad'}
+1686 {'name': 'Sankt Pölten, Mariazeller Str.'}
+1318 {'name': 'Linz'}
+817 {'name': 'Hofgarten'}
+469 {'name': 'Lokremise Kunstzone'}
+1299 {'name': 'Zurich'}
+1060 {'name': 'Car-Terminal'}
+845 {'name': 'Fribourg (Suisse)'}
+592 {'name': 'P+R (Vélodrome)'}
+937 {'name': 'Gare routière'}
+1203 {'name': 'Budapest'}
+586 {'name': 'Mercator Avtobusna'}
+1307 {'name': 'Ljubljana'}
+651 {'name': 'Parking Stazione'}
+614 {'name': 'Parking Piazzale Boschetti'}
+1239 {'name': 'Verona'}
+1049 {'name': 'Autostazione CIBA'}
+578 {'name': 'stazione di ricarica'}
+632 {'name': 'Aéroport Terminal 2'}
+860 {'name': 'Gare Routière de Toulon'}
+1045 {'name': 'Avenue Henry Mouret'}
+2928 {'name': 'Avignon'}
+635 {'name': 'Park relais Parnasse'}
+576 {'name': 'Gare routière'}
+974 {'name': 'Narbonne'}
+519 {'name': 'Gare Routière'}
+802 {'name': 'Agen (Exit A62)'}
+404 {'name': 'Bordeaux'}
+1238 {'name': 'Vienna'}
+2055 {'name': 'Rosenheim'}
+594 {'name': 'Fröttmaning'}
+1177 {'name': 'Strasbourg'}
+932 {'name': 'Gare routière'}
+656 {'name': 'Parking provisoire Avenue Carnot'}
+472 {'name': 'Rue de la Bourie Rouge'}
+980 {'name': 'Paking des Peupliers'}
+565 {'name': 'Hauptbahnhof'}
+1100 {'name': 'Nuremberg'}
+1224 {'name': 'Heilbronn'}
+1123 {'name': 'Mannheim'}
+1126 {'name': 'Frankfurt'}
+1084 {'name': 'Montabaur'}
+670 {'name': 'Bus-Parkplatz Museumsmeile'}
+1085 {'name': 'Cologne'}
+1251 {'name': 'Leverkusen'}
+1181 {'name': 'Dusseldorf'}
+1088 {'name': 'Duisburg'}
+1274 {'name': 'Essen'}
+458 {'name': 'Hauptbahnhof'}
+1311 {'name': 'Dortmund'}
+2109 {'name': 'Szeged'}
+943 {'name': 'Ružinov AS'}
+1439 {'name': 'Brno, Grandhotel Brno'}
+764 {'name': '�?AN Florenc bus station'}
+1229 {'name': 'Dresden'}
+524 {'name': 'Flughafen Schönefeld (SXF)'}
+664 {'name': 'ZOB'}
+1093 {'name': 'Hamburg'}
+1170 {'name': 'Bremen'}
+1078 {'name': 'Salzburg'}
+1324 {'name': 'Munich'}
+4 {'name': 'Augsburg'}
+1083 {'name': 'Ulm'}
+356 {'name': 'Flughafen Busterminal (SAB)'}
+1127 {'name': 'Karlsruhe'}
+739 {'name': 'Hauptbahnhof'}
+1044 {'name': 'Fernbusbahnhof'}
+1309 {'name': 'Merzig'}
+2465 {'name': 'Luxembourg, P+R Bouillon'}
+1982 {'name': 'Namur'}
+539 {'name': 'North Train Station'}
+1297 {'name': 'Varna'}
+2301 {'name': 'Shumen (Avtogara)'}
+2535 {'name': 'Razgrad'}
+2296 {'name': 'Ruse (Centralna Avtogara)'}
+2230 {'name': 'Giurgiu (Ag. Eurolines)'}
+3114 {'name': 'Bucharest Airport Henri Coanda'}
+2322 {'name': 'Tulcea (Autogara Conex Trans)'}
+2208 {'name': 'Constan�?a (Autogara Sud)'}
+2258 {'name': 'Medgidia'}
+2202 {'name': 'Cernavod�? (Gara)'}
+2220 {'name': 'Fete�?ti (statia Catedrala)'}
+3057 {'name': 'Gala�?i'}
+2187 {'name': 'Br�?ila (Gara)'}
+2315 {'name': '�?�?nd�?rei'}
+2307 {'name': 'Slobozia (Bd. Chimiei , nr.2.)'}
+2191 {'name': 'Calarasi'}
+2324 {'name': 'Vaslui'}
+2176 {'name': 'Bârlad (Ag. Eurolines)'}
+2320 {'name': 'Tecuci (Gara de Sud)'}
+3074 {'name': 'Foc�?ani'}
+2287 {'name': 'Râmnicu S�?rat (Gara)'}
+2190 {'name': 'Buz�?u (Ag. Eurolines)'}
+2240 {'name': 'Ia�?i (Vis a vis de statiua Independentei)'}
+2948 {'name': 'Târgu Frumos'}
+2292 {'name': 'Roman (Gara)'}
+3073 {'name': 'Bac�?u'}
+2272 {'name': 'One�?ti (Gara)'}
+2319 {'name': 'Târgu Secuiesc'}
+2300 {'name': 'Sfântu Gheorghe'}
+2314 {'name': 'T�?lmaciu (Parcare Posta)'}
+2288 {'name': 'Râmnicu Vâlcea (Autogara  1 MAI)'}
+2283 {'name': 'Pite�?ti (Autogara)'}
+2225 {'name': 'G�?e�?ti'}
+2316 {'name': 'Târgovi�?te'}
+2168 {'name': 'Alexandria (Autogara)'}
+2293 {'name': 'Ro�?iorii de Vede (Autogara)'}
+2196 {'name': 'Caracal (Autogara)'}
+2306 {'name': 'Slatina (Lidl Steaua)'}
+3062 {'name': 'Bal�?'}
+2211 {'name': 'Craiova (Autogara Pelendava Nord)'}
+2221 {'name': 'Filia�?i (Petrom Gas Station)'}
+2294 {'name': 'Rovinari (Parcare Casa de Cultura)'}
+3093 {'name': 'Târgu Jiu'}
+2189 {'name': 'Bumbe�?ti-Jiu (vis-à-vis de Spital)'}
+2281 {'name': 'Petro�?ani (st. Spital Urgenta)'}
+2239 {'name': 'Hunedoara'}
+3082 {'name': 'Boto�?ani'}
+3088 {'name': 'Suceava'}
+2219 {'name': 'F�?lticeni (Autogara)'}
+2233 {'name': 'Gura Humorului (Autogara Daily Motors)'}
+2947 {'name': 'Câmpulung Moldovenesc'}
+2325 {'name': 'Vatra Dornei (Autogara)'}
+2183 {'name': 'Bistri�?a (Autogara Heniu)'}
+2177 {'name': 'Beclean'}
+2214 {'name': 'Dej'}
+2228 {'name': 'Gherla (Autogara)'}
+1811 {'name': 'Cluj'}
+2130 {'name': 'Turda'}
+2192 {'name': 'Câmpia Turzii (Autogara Daghemana Com)'}
+1715 {'name': 'Aiud'}
+2321 {'name': 'Teiu�? (in fata agentiei Raul Tours)'}
+1718 {'name': 'Alba Iulia'}
+1699 {'name': 'Timi�?oara'}
+1189 {'name': 'Lugoj'}
+2291 {'name': 'Re�?i�?a'}
+2197 {'name': 'Caransebe�?'}
+2172 {'name': 'B�?ile Herculane'}
+2274 {'name': 'Or�?ova'}
+2216 {'name': 'Drobeta-Turnu Severin'}
+3112 {'name': 'Calafat'}
+2593 {'name': 'Vidin'}
+2479 {'name': 'Montana'}
+2599 {'name': 'Vratsa'}
+1166 {'name': 'Sofia'}
+1646 {'name': 'Lwiw train station'}
+1119 {'name': 'Lvov / Lemberg'}
+4296 {'name': 'Ivano-Frankivsk'}
+3960 {'name': 'Kolomyia'}
+4231 {'name': 'Chernivts�?'}
+1107 {'name': 'Zagreb'}
+533 {'name': 'Stazione Corriere'}
+355 {'name': 'Flughafen'}
+507 {'name': 'Vittorio Emanuele'}
+2511 {'name': 'Perugia (P. Partigiani)'}
+870 {'name': 'Tronchetto'}
+969 {'name': 'Lingotto'}
+1063 {'name': 'Orio al Serio aeroporto'}
+396 {'name': 'Zentraler Omnibusbahnhof (ZOB)'}
+394 {'name': 'Bahnhofstra�?e'}
+723 {'name': 'Rosshütte'}
+466 {'name': 'Brennerstra�?e 127'}
+3742 {'name': 'Bozen'}
+853 {'name': 'Lungadige Monte Grappa'}
+3479 {'name': 'Florence'}
+573 {'name': 'Autostazione'}
+1629 {'name': "L'Aquila"}
+747 {'name': 'Piazza San Francesco'}
+1863 {'name': "Giulianova - Mosciano Sant'Angelo"}
+3592 {'name': 'Alba Adriatica'}
+2795 {'name': 'Porto Recanati (Carburanti discount)'}
+2733 {'name': 'Loreto - stazione FS'}
+2775 {'name': 'Osimo stazione'}
+465 {'name': 'Fermata linee autobus internazionali'}
+961 {'name': 'Corso Mazzini'}
+1576 {'name': 'Avezzano'}
+2968 {'name': 'Sora'}
+1597 {'name': 'Cassino'}
+601 {'name': 'Stazione FS'}
+842 {'name': 'Terminal Bus'}
+378 {'name': 'Via Don Luigi Sturzo'}
+358 {'name': 'Altamura'}
+1871 {'name': 'Gravina in Puglia'}
+1926 {'name': 'Lavello'}
+1275 {'name': 'Benevento'}
+1843 {'name': 'Fasano'}
+804 {'name': 'Istituto Professionale Falcone'}
+976 {'name': 'Autostazione'}
+1020 {'name': 'Pescara'}
+354 {'name': 'Piazza della Costituzione'}
+531 {'name': 'train station'}
+991 {'name': 'Viale Aldo Moro'}
+2298 {'name': 'San Giovanni Rotondo'}
+1184 {'name': 'Crotone'}
+2743 {'name': 'Marina di Strongoli'}
+2857 {'name': 'Torre Melissa'}
+1154 {'name': 'Ciro Marina'}
+2858 {'name': 'Torretta Crucoli'}
+3772 {'name': 'Cariati'}
+2741 {'name': 'Mandatoriccio'}
+2784 {'name': 'Pietrapaola'}
+1156 {'name': 'Mirto Crosia'}
+2547 {'name': 'Rossano'}
+1072 {'name': 'Corigliano'}
+2659 {'name': 'Corigliano (Distributore IP)'}
+1302 {'name': 'Sibari'}
+2681 {'name': 'Firmo'}
+2760 {'name': 'Mormanno'}
+1103 {'name': 'Sala Consilina'}
+1684 {'name': 'Salerno'}
+2486 {'name': 'Naples Airport'}
+2646 {'name': 'Calopezzati'}
+2635 {'name': 'Bivio Cantinella'}
+2853 {'name': 'Terme Spezzano'}
+1179 {'name': 'Tarsia'}
+2804 {'name': 'Rende (Cosenza Nord)'}
+2660 {'name': 'Cosenza'}
+2783 {'name': 'Pian del Lago'}
+1201 {'name': 'Lamezia Terme'}
+2877 {'name': 'Vibo Valentia'}
+2946 {'name': 'Rosarno'}
+1167 {'name': 'Villa San Giovanni'}
+1259 {'name': 'Messina'}
+1146 {'name': 'Taormina'}
+1223 {'name': 'Catania'}
+1908 {'name': 'Karlstad'}
+1917 {'name': 'Kristinehamn'}
+1907 {'name': 'Karlskoga'}
+2008 {'name': '�?rebro'}
+2136 {'name': 'Västerås'}
+785 {'name': 'Cityterminalen'}
+1730 {'name': 'Arlanda Airport'}
+1993 {'name': 'Norrköping'}
+1933 {'name': 'Linköping'}
+1903 {'name': 'Jönköping'}
+2697 {'name': 'Korsvägen'}
+400 {'name': 'Nils Ericson Terminal'}
+679 {'name': 'Hovedbanegården DGI byen (fjernbus) Ingerslevsgade'}
+1814 {'name': 'CPH Airport'}
+525 {'name': 'central train station'}
+1624 {'name': 'Helsingborg'}
+2460 {'name': 'Ljungby (Busstation)'}
+3138 {'name': 'Skavsta'}
+1643 {'name': 'Lund'}
+1884 {'name': 'Halmstad'}
+3712 {'name': 'Falkenberg'}
+1869 {'name': 'Gothenburg Landvetter Airport'}
+1766 {'name': 'Borås'}
+2866 {'name': 'Ulricehamnsmotet'}
+3134 {'name': 'Gränna'}
+3195 {'name': '�?deshög'}
+2752 {'name': 'Mjölby'}
+2132 {'name': 'Uppsala'}
+2870 {'name': 'Uppsala Business Park'}
+2769 {'name': 'Nyköping'}
+2833 {'name': 'Söderköping'}
+2872 {'name': 'Valdemarsvik'}
+2689 {'name': 'Gamleby'}
+2873 {'name': 'Västervik'}
+2875 {'name': 'Verkebäcksbron'}
+2636 {'name': 'Blankaholm'}
+2751 {'name': 'Misterhult'}
+2677 {'name': 'Fårbo'}
+2776 {'name': 'Oskarshamn'}
+2757 {'name': 'Mönsterås'}
+2706 {'name': 'Kalmar station'}
+2584 {'name': 'Uddevalla'}
+3197 {'name': 'Tanum Rasta'}
+1445 {'name': 'Oslo, Busbhf. Galleriet'}
+4263 {'name': 'Storebælt'}
+2271 {'name': 'Odense South'}
+423 {'name': '�?rhus Rutebilstation'}
+1365 {'name': 'Aalborg'}
+2044 {'name': 'Randers'}
+2147 {'name': 'Viborg'}
+2088 {'name': 'Silkeborg'}
+2022 {'name': 'Périgueux (Créavallée Nord)'}
+2133 {'name': 'Ussel'}
+2129 {'name': 'Tulle Péage'}
+1590 {'name': 'Brive-la-Gaillarde (West)'}
+1973 {'name': 'Montauban (Aussone)'}
+677 {'name': 'Place de la Gare'}
+357 {'name': 'Busstation SNCF'}
+684 {'name': 'Faubourg de Montbéliard'}
+408 {'name': 'Avenue du Maréchal Foch'}
+954 {'name': 'Dole (Parking of tollgate/péage)'}
+821 {'name': 'Gare routière départementale'}
+432 {'name': 'FROGBUS.com bus stop'}
+2427 {'name': 'Incarville'}
+773 {'name': 'Palais des Sports'}
+1810 {'name': 'Clermont Campus des Céseaux'}
+771 {'name': 'Parking Square Paul Vidal'}
+3104 {'name': 'Dijon'}
+1749 {'name': 'Beaune'}
+1794 {'name': 'Chalon-sur-Saône'}
+800 {'name': 'SNCF Station'}
+411 {'name': 'SNCF'}
+822 {'name': 'Quai du Havre'}
+772 {'name': 'Avenue Salvador Allende'}
+1052 {'name': 'Rue Paul Doumer'}
+395 {'name': 'SNCF La Gare'}
+368 {'name': 'Autocar Transarc Credoz'}
+441 {'name': 'Route de la Rochelle'}
+1716 {'name': 'Aix-les-Bains'}
+1221 {'name': 'Le Cannet'}
+1591 {'name': 'Brussels Airport'}
+3816 {'name': 'Hendaye'}
+2066 {'name': 'San Sebastiàn / Donostia'}
+1760 {'name': 'Bilbao (Termibus station)'}
+2070 {'name': 'Santander (Estacion de Autobuses)'}
+3137 {'name': 'Oviedo'}
+2437 {'name': 'La Coruña (IC)'}
+2073 {'name': 'Santiago de Compostela'}
+2395 {'name': 'Faro (Airport) (IC)'}
+2424 {'name': 'Huelva (IC)'}
+2562 {'name': 'Sevilla - Armas (IC)'}
+702 {'name': 'SNCF Station'}
+797 {'name': 'Poitiers Futuroscope'}
+2332 {'name': 'Aeropuerto Madrid-Barajas T4'}
+1948 {'name': 'Madrid'}
+2645 {'name': 'Cáceres'}
+1741 {'name': 'Badajoz'}
+2650 {'name': '�?vora'}
+2919 {'name': 'Lisbon'}
+823 {'name': 'SNCF Station'}
+1151 {'name': 'Puget-Sur-Argens'}
+923 {'name': 'Dampoort'}
+1724 {'name': 'Schiphol Airport'}
+370 {'name': 'Gare du Midi'}
+780 {'name': 'Centraal Station'}
+1021 {'name': 'Rotterdam Centraal'}
+950 {'name': 'Zuidplein (X)'}
+1289 {'name': 'Amsterdam'}
+792 {'name': 'central station'}
+2039 {'name': 'Prague Roztyly'}
+1639 {'name': 'Liberec'}
+2037 {'name': 'Prague East (�?erný Most)'}
+2036 {'name': 'Prague And�?l'}
+2026 {'name': 'Písek'}
+444 {'name': 'Mercury centrum'}
+732 {'name': 'Špi�?ák'}
+877 {'name': '�?eský Krumlov, autobusové nádraží'}
+2286 {'name': 'Prague ,Hrad�?anská'}
+1943 {'name': 'Lubenec'}
+846 {'name': 'Terminál'}
+3012 {'name': 'Louny'}
+3037 {'name': 'Chomutov'}
+3046 {'name': 'Jirkov'}
+2989 {'name': 'Most'}
+3714 {'name': 'Krapina'}
+2412 {'name': 'Graz Webling'}
+1345 {'name': 'Vienna'}
+536 {'name': 'Main Railway Station'}
+1007 {'name': 'autobusové nádraží'}
+2560 {'name': 'Seget Donji'}
+559 {'name': 'Autobusni kolodvor'}
+2431 {'name': 'Kaštel Sucurac'}
+896 {'name': 'Autobusni kolodvor Split'}
+1587 {'name': 'Bosiljevo'}
+1669 {'name': 'Poli�?nik'}
+1210 {'name': 'Zadar'}
+440 {'name': 'Lidl parking'}
+1696 {'name': 'Sveti Filip i Jakov'}
+1693 {'name': 'Sukošan'}
+1584 {'name': 'Bibinje'}
+1673 {'name': 'Posedarje'}
+1234 {'name': 'Varazdin'}
+2231 {'name': 'Gornji Kneginec'}
+2269 {'name': 'Novi Marof'}
+2178 {'name': 'Bedenica'}
+2527 {'name': 'Prgomet'}
+3787 {'name': 'Brezni�?ki Hum'}
+686 {'name': 'Autobusni kolodvor Rijeka'}
+1616 {'name': 'Gospi�?'}
+522 {'name': 'Bus Station'}
+2263 {'name': 'Monfiorenzo'}
+2245 {'name': 'Kukaleta'}
+2212 {'name': '�?ubani'}
+1579 {'name': 'Bale'}
+2204 {'name': 'Cestarska Ku�?a'}
+1706 {'name': 'Vodnjan'}
+2227 {'name': 'Galižana'}
+1232 {'name': 'Pula'}
+575 {'name': 'Autobusni kolodvor'}
+1906 {'name': 'Karlobag'}
+2103 {'name': 'Starigrad (Senj)'}
+1214 {'name': 'Senj'}
+1306 {'name': 'Novi Vinodolski'}
+1028 {'name': 'Crikvenica'}
+1916 {'name': 'Kraljevica'}
+1009 {'name': 'Opatija'}
+1921 {'name': 'Labin'}
+2045 {'name': 'Raša'}
+761 {'name': 'Bahnhofplatz'}
+1675 {'name': 'Ptuj'}
+1594 {'name': '�?akovec'}
+986 {'name': 'Autobusni kolodvor Karlovac'}
+2028 {'name': 'Plitvi�?ka Jezera'}
+1913 {'name': 'Korenica'}
+2131 {'name': 'Udbina'}
+3063 {'name': 'Knin'}
+1256 {'name': 'Sinj'}
+3066 {'name': 'Cista Provo'}
+3060 {'name': 'Lovrec'}
+3071 {'name': 'Krivodol'}
+1264 {'name': 'Imotski'}
+1778 {'name': 'Budapest Kelenföld'}
+3145 {'name': 'Brnaze'}
+3129 {'name': 'Trilj'}
+3185 {'name': 'Caporice'}
+3146 {'name': 'Ugljane'}
+3150 {'name': 'Budimiri'}
+3189 {'name': 'Biorine'}
+3174 {'name': 'Cista Velika'}
+3166 {'name': 'Mrnjavci'}
+3127 {'name': 'Studenci'}
+3136 {'name': 'Spar'}
+3191 {'name': 'Prolozac'}
+3183 {'name': 'Stobrec'}
+3156 {'name': 'Podstrana'}
+3089 {'name': 'Dugi Rat'}
+2005 {'name': 'Omiš'}
+3148 {'name': 'Ruskamen'}
+3167 {'name': 'Mimice'}
+3169 {'name': 'Pisak'}
+3069 {'name': 'Dubci'}
+3139 {'name': 'Potpoletnica'}
+3090 {'name': 'Zadvarje'}
+3076 {'name': 'Sestanovac'}
+3123 {'name': 'Prpusa'}
+3058 {'name': 'Kamenjak'}
+3068 {'name': 'Kamenmost'}
+1752 {'name': 'Belgrade East (Pan�?evo)'}
+1068 {'name': 'Belgrade P'}
+2139 {'name': 'Veliko Gradište'}
+1191 {'name': 'Kumanovo'}
+1102 {'name': 'Skopje'}
+2018 {'name': 'Paris, Avenue de la Republique'}
+1199 {'name': 'Novi Sad'}
+360 {'name': 'Vicenza'}
+2820 {'name': 'San Demetrio Corone'}
+2615 {'name': 'Acri'}
+2823 {'name': 'San Giorgio Albanese'}
+2819 {'name': 'San Cosmo Albanese'}
+2825 {'name': "Santa Sofia D'Epiro"}
+2634 {'name': 'Bisignano'}
+2738 {'name': 'Luzzi'}
+2756 {'name': 'Mongrassano'}
+949 {'name': 'stanica'}
+489 {'name': 'Pavla Országha Hviezdoslava'}
+843 {'name': 'Stani�?né námestie'}
+4419 {'name': 'Komárno'}
+4382 {'name': 'Brno'}
+4425 {'name': 'Velká Bíteš'}
+4397 {'name': 'Osová Bítýška'}
+4386 {'name': 'O�?echov'}
+4405 {'name': 'K�?ižanov'}
+4370 {'name': 'Sklené nad Oslavou'}
+4381 {'name': 'Ostrov nad Oslavou'}
+4362 {'name': 'Sazomín'}
+4402 {'name': 'Vatín'}
+4354 {'name': 'Ž�?ár nad Sázavou'}
+4353 {'name': 'Ž�?ár nad Sázavou'}
+4394 {'name': 'Vojnův M�?stec'}
+4369 {'name': 'Krucemburk'}
+4413 {'name': 'Ždírec nad Doubravou'}
+4385 {'name': 'Trhová Kamenice'}
+4371 {'name': 'Nasavrky'}
+4393 {'name': 'Chrudim'}
+435 {'name': 'Pardubice hlavní nádraží'}
+3907 {'name': 'Pardubice'}
+3021 {'name': 'Hradec Králové'}
+4376 {'name': 'Humenné'}
+946 {'name': 'Autobusová stanica'}
+1218 {'name': 'Roznava'}
+1094 {'name': 'Rimavska Sobota'}
+1099 {'name': 'Lucenec'}
+1098 {'name': 'Zvolen'}
+1097 {'name': 'Nitra'}
+1322 {'name': 'Trnava'}
+4428 {'name': 'Námestovo'}
+4401 {'name': 'Tvrdošín'}
+1828 {'name': 'Dolný Kubín'}
+4242 {'name': 'Santa Cruz do Bispo'}
+4221 {'name': 'Paços de Ferreira'}
+2151 {'name': 'Vila Real'}
+4306 {'name': 'Peso da Régua'}
+4070 {'name': 'Lamego'}
+3567 {'name': 'Ponte de Lima'}
+2146 {'name': 'Viana do Castelo'}
+3351 {'name': 'Cascais'}
+1836 {'name': 'Esposende'}
+3871 {'name': 'Póvoa do Varzim'}
+4126 {'name': 'Porto'}
+4059 {'name': 'Olot'}
+1362 {'name': 'Girona (Plaza Espana)'}
+4088 {'name': 'Sant Feliu de Guixols'}
+2731 {'name': 'Lleida (Estacion de Autobuses)'}
+4262 {'name': 'Mollerusa'}
+3973 {'name': 'Tárrega'}
+4149 {'name': 'Cervera'}
+4313 {'name': 'Manresa'}
+4014 {'name': 'Vic'}
+4275 {'name': 'Vigo'}
+2032 {'name': 'Pontevedra'}
+4074 {'name': 'Santiago de Compostela'}
+1173 {'name': 'Neum'}
+1228 {'name': 'Capljina'}
+1135 {'name': 'Mostar'}
+1330 {'name': 'Citluk'}
+1284 {'name': 'Medjugorje'}
+1112 {'name': 'Ljubuski'}
+3067 {'name': 'Grude'}
+1341 {'name': 'Posusje'}
+1104 {'name': 'Tomislavgrad'}
+1316 {'name': 'Suica'}
+1108 {'name': 'Kupres'}
+1305 {'name': 'Bugojno'}
+1130 {'name': 'Donji Vakuf'}
+3830 {'name': 'Travnik'}
+3758 {'name': 'Vitez'}
+4007 {'name': 'Kaonik'}
+1262 {'name': 'Zenica'}
+1134 {'name': 'Zepce'}
+1204 {'name': 'Maglaj'}
+1279 {'name': 'Slavonski Brod'}
+2389 {'name': '�?akovo'}
+1287 {'name': 'Osijek'}
+1139 {'name': 'Vukovar'}
+1252 {'name': 'Vinkovci'}
+4018 {'name': 'Nedeliš�?e'}
+4100 {'name': 'Puš�?ine'}
+4010 {'name': 'Kuršanec'}
+4034 {'name': 'Varaždin Breg'}
+4326 {'name': 'Prese�?no'}
+4272 {'name': 'Paka'}
+4138 {'name': 'Breznica'}
+4254 {'name': 'Bisag'}
+4265 {'name': 'Komin'}
+3967 {'name': 'Hrastje'}
+4105 {'name': 'Sv. Ivan Zelina'}
+4039 {'name': 'Blaževdol'}
+4168 {'name': 'Donja Zelina'}
+4268 {'name': 'Gori�?ica'}
+3998 {'name': 'Belovar'}
+3970 {'name': 'Soblinec'}
+3718 {'name': 'Sesvete'}
+3702 {'name': 'Trnava'}
+4389 {'name': 'Tunel U�?ka - Istok'}
+4400 {'name': 'Tunel U�?ka - zapad'}
+2019 {'name': 'Pazin'}
+4392 {'name': 'Trošti'}
+4414 {'name': 'Zabrežani'}
+4396 {'name': 'Juri�?i'}
+2164 {'name': 'Žminj'}
+4387 {'name': 'Brki�?i'}
+2107 {'name': 'Svetvin�?enat'}
+4424 {'name': 'Bibi�?i'}
+4377 {'name': 'Bijaži�?i'}
+4356 {'name': 'Jurši�?i'}
+4422 {'name': 'Sv. Kirin'}
+4360 {'name': 'Golubac'}
+4375 {'name': 'Donji Milanovac'}
+4429 {'name': 'Trajanova Tabla'}
+4411 {'name': 'Tekija'}
+1215 {'name': 'Kladovo'}
+4318 {'name': 'Bucharest'}
+1442 {'name': 'Chisinau, Busbhf.'}
+1911 {'name': 'Kiev (Avtostanciya)'}
+1298 {'name': 'Zhitomir'}
+1331 {'name': 'Rivne'}
+4162 {'name': 'Kraków'}
+600 {'name': 'Jeremenkova'}
+1945 {'name': '�?ódź Fabryczna'}
+930 {'name': 'Svinov nádraží'}
+1011 {'name': 'Bohumín'}
+4178 {'name': 'Las Vegas'}
+3975 {'name': 'Grand Canyon'}
+4308 {'name': 'Grand Canyon'}
+4357 {'name': 'Seattle'}
+4399 {'name': 'Bellevue'}
+4409 {'name': 'North Bend'}
+4378 {'name': 'Leavenworth /Peshastin'}
+4363 {'name': 'Wenatchee'}
+4390 {'name': 'Grand Canyon'}
+4365 {'name': 'New York'}
+4379 {'name': 'Durham'}
+4355 {'name': 'Greensboro'}
+4426 {'name': 'Charlotte'}
+4364 {'name': 'Greenville'}
+4398 {'name': 'Atlanta'}
+4367 {'name': 'Kyiv / Kiev'}
+4391 {'name': 'Lublin'}
+4416 {'name': 'Bia�?ystok'}
+3101 {'name': 'Augustów'}
+1547 {'name': 'Vilnius, ZOB'}
+1733 {'name': 'Ascoli Piceno'}
+2546 {'name': 'Rome Anagnina'}
+3912 {'name': 'Viterbo'}
+529 {'name': 'train station'}
+477 {'name': 'Via Leone Leoni 2'}
+1172 {'name': 'Tetovo'}
+3922 {'name': 'Struga'}
+4188 {'name': 'Debar'}
+1323 {'name': 'Gostivar'}
+1697 {'name': 'Terni'}
+4150 {'name': 'Rieti'}
+768 {'name': 'Hauptbahnhof'}
+673 {'name': 'Krefeld Hbf Süd'}
+984 {'name': 'Hauptbahnhof Fern- und Reisebusse'}
+1200 {'name': 'Kicevo'}
+4273 {'name': 'Tirana'}
+1153 {'name': 'Durres'}
+1248 {'name': 'Hanover'}
+1328 {'name': 'Siroki Brijeg'}
+1171 {'name': 'Livno'}
+1261 {'name': 'Jajce'}
+1347 {'name': 'Banja Luka'}
+1117 {'name': 'Bosanska Gradiska'}
+1266 {'name': 'Kirchheim/Teck'}
+1176 {'name': 'Pforzheim'}
+3895 {'name': 'Vrgorac'}
+1343 {'name': 'Bihac'}
+1265 {'name': 'Cazin'}
+1247 {'name': 'Velika Kladusa'}
+1283 {'name': 'Tuzla'}
+1231 {'name': 'Srebrenik'}
+1240 {'name': 'Brcko'}
+1253 {'name': 'Orasje'}
+1163 {'name': 'Zupanja'}
+1659 {'name': 'Nova Gradiška'}
+1137 {'name': 'Kutina'}
+1371 {'name': 'Aachen (Wilmersdorfer Str.)'}
+735 {'name': 'Bus parking Rue Varin/Rue Bovy'}
+3426 {'name': 'Zator'}
+3087 {'name': 'Bia�?ystok'}
+1353 {'name': 'Warschau (Zentral)'}
+3921 {'name': 'Moscow'}
+1295 {'name': 'Minsk'}
+3056 {'name': 'Suwa�?ki'}
+3055 {'name': 'Augustów'}
+3094 {'name': 'E�?k'}
+3098 {'name': 'Grajewo'}
+3064 {'name': '�?omża'}
+808 {'name': 'Dworzec PKS'}
+2754 {'name': 'Modlin airport'}
+1291 {'name': 'Brest'}
+3654 {'name': 'Baranowicze Dworzec Autobusowy'}
+1650 {'name': 'Malpensa Terminal 1'}
+3190 {'name': 'Milan'}
+2209 {'name': "Cortina d'Ampezzo"}
+3563 {'name': 'Binderup'}
+3490 {'name': 'Karup'}
+1889 {'name': 'Herning'}
+1898 {'name': 'Irun Estación de autobuses'}
+3865 {'name': 'Pamplona'}
+3771 {'name': 'Tudela'}
+1363 {'name': 'Barcelona (Estación Sants)'}
+3097 {'name': 'Humpolec'}
+700 {'name': 'Autobusové nádraží Jihlava'}
+3095 {'name': 'Brtnice'}
+3059 {'name': 'T�?ebí�?'}
+1744 {'name': 'Banská Bystrica'}
+3181 {'name': 'Žarnovica'}
+3144 {'name': 'Nová Bá�?a'}
+3193 {'name': 'Zlaté Moravce'}
+3126 {'name': 'Sere�?'}
+1756 {'name': 'Benešov'}
+3925 {'name': 'Byst�?ice'}
+3923 {'name': 'Olbramovice'}
+3948 {'name': 'Votice'}
+3911 {'name': 'Mili�?ín'}
+2573 {'name': 'Tábor, aut.nádr.'}
+376 {'name': 'Tábor'}
+3934 {'name': 'Planá nad Lužnicí'}
+2567 {'name': 'Sob�?slav'}
+3932 {'name': 'Veselí nad Lužnicí'}
+3943 {'name': '�?erná v Pošumaví'}
+3927 {'name': 'Frymburk'}
+3938 {'name': 'Lipno nad Vltavou'}
+4410 {'name': 'Slati�?any'}
+4403 {'name': '�?eská B�?lá'}
+4383 {'name': 'Krátká Ves'}
+4372 {'name': 'Havlí�?kův Brod'}
+4404 {'name': 'Pelh�?imov'}
+4430 {'name': 'Ond�?ejov'}
+4406 {'name': '�?strašín'}
+4388 {'name': 'Božejov'}
+4415 {'name': 'Kamenice nad Lipou'}
+4368 {'name': 'Jarošov'}
+3279 {'name': 'Jind�?ichův Hradec'}
+4359 {'name': 'Jind�?ichův Hradec'}
+4374 {'name': 'Jind�?ichův Hradec'}
+4373 {'name': 'Lásenice'}
+4366 {'name': 'Stráž nad Nežárkou'}
+2860 {'name': 'Trebon'}
+4412 {'name': 'Št�?pánovice'}
+4361 {'name': 'Lišov'}
+3442 {'name': 'Sarajevo'}
+1320 {'name': 'Sarajevo'}
+1277 {'name': 'Kakanj'}
+1827 {'name': 'Doboj'}
+1825 {'name': 'Derventa (bus st. NAS)'}
+1774 {'name': 'Brod'}
+3487 {'name': 'Wiener Neustadt'}
+2594 {'name': 'Vienna Meidling'}
+3856 {'name': 'La Roche Sur Foron'}
+967 {'name': 'Boulevard du Rhône'}
+1286 {'name': 'Paris'}
+3336 {'name': 'Peruši�?'}
+3355 {'name': 'Babina Greda'}
+1870 {'name': 'Gradište'}
+1998 {'name': 'Nuštar'}
+1775 {'name': 'Bršadin'}
+3413 {'name': 'Borovo'}
+3338 {'name': 'Vukovar'}
+3362 {'name': 'Lovas'}
+3389 {'name': 'Ilok'}
+3414 {'name': 'Ilok'}
+3335 {'name': 'Ilok'}
+1592 {'name': 'Buje'}
+863 {'name': 'Pore�?'}
+3396 {'name': 'Steyr'}
+855 {'name': 'Liezen'}
+3424 {'name': 'Leoben'}
+1121 {'name': 'Visoko'}
+3475 {'name': 'Prnjavor'}
+1193 {'name': 'Dubrovnik'}
+1136 {'name': 'Metkovic'}
+1661 {'name': 'Opuzen'}
+1114 {'name': 'Ploce'}
+1280 {'name': 'Makarska'}
+3937 {'name': 'Otri�? - Seoci'}
+1830 {'name': 'Dugopolje'}
+2092 {'name': 'Skradin'}
+3755 {'name': 'Oeynhausen'}
+3620 {'name': 'Laktaši'}
+1079 {'name': 'Raubling'}
+3734 {'name': 'Piding'}
+640 {'name': 'Zentraler Omnibusbahnhof (ZOB)'}
+1236 {'name': 'Neustadt/Titisee'}
+1211 {'name': 'Donaueschingen'}
+977 {'name': 'Hohentwielstadion'}
+865 {'name': 'Döbeleplatz'}
+782 {'name': 'Stadtbahnhof'}
+1143 {'name': 'Ravensburg'}
+881 {'name': 'Bahnhofstra�?e'}
+1296 {'name': 'Memmingen'}
+3366 {'name': 'Port Aventura'}
+3374 {'name': 'Castellon'}
+3005 {'name': 'Valencia'}
+3433 {'name': 'Gandia'}
+3393 {'name': 'Benidorm'}
+3381 {'name': 'Alicante'}
+3337 {'name': 'Murcia'}
+1796 {'name': 'Champigny'}
+2924 {'name': 'Versailles'}
+447 {'name': 'Place des Basques'}
+3848 {'name': 'International Interconnection Hub'}
+2120 {'name': 'Tordesillas'}
+2064 {'name': 'Salamanca'}
+2152 {'name': 'Vilar Formoso'}
+2154 {'name': 'Viseu'}
+2030 {'name': 'Pombal'}
+1927 {'name': 'Leiria'}
+1783 {'name': 'Caldas da Rainha'}
+3837 {'name': 'Torres vedras'}
+1936 {'name': 'Lisboa Sete Rios (Jardim Zoológico)'}
+1896 {'name': '�?lhavo'}
+2134 {'name': 'Vagos'}
+3760 {'name': 'Agueda'}
+3747 {'name': 'Anadia'}
+3814 {'name': 'Mealhalda'}
+1974 {'name': 'Mortágua'}
+2069 {'name': 'Santa Comba Dão'}
+2119 {'name': 'Tondela'}
+1952 {'name': 'Mangualde'}
+3833 {'name': 'Sabugal'}
+3808 {'name': 'Nave'}
+3750 {'name': 'Alfaiates'}
+3827 {'name': 'Aldeia da Ponte'}
+1835 {'name': 'Esch-sur-Alzette'}
+1826 {'name': 'Differdange'}
+2053 {'name': 'Rodange'}
+1882 {'name': 'Hagondange'}
+1802 {'name': 'Château-Thierry'}
+1731 {'name': 'Arpajon'}
+1838 {'name': '�?tampes'}
+1053 {'name': 'Gare SNCF-Léon-Blum'}
+1877 {'name': 'Guarda'}
+1791 {'name': 'Celorico da Beira'}
+1720 {'name': 'Albergaria-a-Velha'}
+2074 {'name': 'São João da Madeira'}
+3802 {'name': 'Lourosa'}
+3779 {'name': 'Arcos de Valdevez'}
+3823 {'name': 'Ponte da Barca'}
+1842 {'name': 'Fafe'}
+3786 {'name': 'Arco de Baúlhe'}
+2150 {'name': 'Vila Pouca de Aguiar'}
+2020 {'name': 'Pedras Salgadas'}
+3766 {'name': 'Vidago'}
+1804 {'name': 'Chaves'}
+2143 {'name': 'Verin'}
+3462 {'name': 'Puebla de Sanabria'}
+1755 {'name': 'Benavente'}
+3857 {'name': 'Leon'}
+2155 {'name': 'Vitoria-Gasteiz'}
+2063 {'name': 'Saintes'}
+3778 {'name': 'Vila Praia de �?ncora'}
+3792 {'name': 'Caminha'}
+3753 {'name': 'Vila Nova de Cerveira'}
+2587 {'name': 'Valença (IC)'}
+3831 {'name': 'Monção'}
+3776 {'name': 'Melgaço'}
+3501 {'name': 'Ourense'}
+2071 {'name': 'Santarém'}
+3770 {'name': 'Torres Novas'}
+3850 {'name': 'Tomar'}
+3754 {'name': 'Abrantes'}
+1787 {'name': 'Castelo Branco'}
+1855 {'name': 'Fundão'}
+1817 {'name': 'Covilhã'}
+1861 {'name': 'Ginjal'}
+2135 {'name': 'Valladolid'}
+1780 {'name': 'Burgos'}
+2010 {'name': 'Orthez'}
+526 {'name': "Avenue de l'Université"}
+587 {'name': 'Place au Bois'}
+1596 {'name': 'Carcassonne'}
+1970 {'name': 'Moita da Serra'}
+2004 {'name': 'Oliveira do Hospital'}
+2082 {'name': 'Seia'}
+2945 {'name': 'Annemasse'}
+2021 {'name': 'Penafiel'}
+1723 {'name': 'Amarante (Terminal Rodoviario)'}
+1978 {'name': 'Murça'}
+1964 {'name': 'Mirandela'}
+1946 {'name': 'Macedo de Cavaleiros'}
+1773 {'name': 'Bragança (Central de Camionagem)'}
+3536 {'name': 'Zamora'}
+779 {'name': 'rue Constant Milleret'}
+1864 {'name': 'Givors'}
+2466 {'name': 'Málaga (IC)'}
+3030 {'name': 'Granada'}
+3834 {'name': 'Jaen'}
+1034 {'name': 'SNCF Station'}
+3551 {'name': 'Warsaw'}
+3936 {'name': 'Kaunas'}
+3926 {'name': 'Siauliai'}
+3919 {'name': 'Jelgava'}
+3908 {'name': 'Riga'}
+1525 {'name': 'Riga, Pragastr. 1, ZOB'}
+3915 {'name': 'Pärnu'}
+1526 {'name': 'Tallinn, Busbhf.'}
+3944 {'name': 'Tallinn'}
+419 {'name': 'Hauptbahnhof'}
+811 {'name': 'ZOB'}
+953 {'name': 'ZOB'}
+769 {'name': 'Hauptbahnhof'}
+387 {'name': 'Bahnhof Südkreuz'}
+4320 {'name': 'Berlin'}
+363 {'name': 'Busstation PKS'}
+3034 {'name': 'Reggio Calabria'}
+2984 {'name': 'Gioia Tauro'}
+2941 {'name': 'Vibo Valentia'}
+1131 {'name': 'Pizzo Calabro'}
+1315 {'name': 'Castrovillari'}
+710 {'name': 'Terminal bus'}
+1087 {'name': 'Ingolstadt'}
+1019 {'name': 'Fernbusbahnhof Kassel'}
+815 {'name': 'Bahnhof/ZOB'}
+1055 {'name': 'Hindenburgplatz'}
+1285 {'name': 'Kiseljak'}
+1033 {'name': 'Internationaler Busbahnhof Bielefeld'}
+1267 {'name': 'Leipzig'}
+424 {'name': 'Busbahnhof'}
+975 {'name': 'Busbahnhof'}
+361 {'name': 'Zentraler Omnibusbahnhof (ZOB)'}
+1301 {'name': 'Chemnitz'}
+1089 {'name': 'Bayreuth'}
+1071 {'name': 'Wuerzburg'}
+390 {'name': 'Goldbacher Stra�?e'}
+1092 {'name': 'Heidelberg'}
+1375 {'name': 'Zwickau (Hbf)'}
+502 {'name': 'Esso Autohof Münchberg N'}
+391 {'name': 'Husova'}
+3616 {'name': 'Ternopil'}
+3638 {'name': 'Khmelnytskyi'}
+3647 {'name': 'Vinnytsia'}
+3703 {'name': 'Uman'}
+3705 {'name': 'Odesa'}
+3719 {'name': 'Novohrad-Volynskyi BS'}
+1064 {'name': '�?в�?овокзал Ужго�?од'}
+2121 {'name': 'Torino Stura'}
+1806 {'name': 'Chivasso'}
+2072 {'name': 'Santhià'}
+1994 {'name': 'Novara'}
+2514 {'name': 'Piacenza'}
+1807 {'name': "Città Sant'Angelo"}
+2011 {'name': 'Ortona'}
+2440 {'name': 'Lanciano'}
+1180 {'name': 'San Salvo Marina'}
+1244 {'name': 'Termoli'}
+2194 {'name': 'Campobasso'}
+1575 {'name': 'Avellino'}
+2682 {'name': 'Fisciano'}
+755 {'name': 'Via Nicola Lagravinese'}
+2047 {'name': 'Reggio Emilia AV Mediopadana'}
+629 {'name': 'Piazzale Montelungo'}
+414 {'name': 'San Donato M3'}
+645 {'name': 'Polignano'}
+3553 {'name': 'Ostuni'}
+2118 {'name': 'Todi'}
+2009 {'name': 'Orte'}
+2662 {'name': 'Cutro'}
+766 {'name': 'Centro Studi'}
+893 {'name': 'Autostazione Parcheggio Europa'}
+1735 {'name': "Assisi (Piaz. Unità d'Italia)"}
+1734 {'name': 'Assisi'}
+2759 {'name': 'Montecatini'}
+498 {'name': 'Park Pietrasantina'}
+687 {'name': 'Bussteig Beim Retteich'}
+2075 {'name': 'Sarpsborg'}
+1975 {'name': 'Moss'}
+1732 {'name': '�?s'}
+1595 {'name': 'Calais Terminal Ferry'}
+1561 {'name': 'Dover, Eurolines Coach Check-in'}
+1017 {'name': 'Gare de Saint-Malo'}
+2656 {'name': 'Compiègne Sud (Verberie Parking PL)'}
+854 {'name': 'Parc Asterix'}
+2522 {'name': 'Ploermel'}
+2657 {'name': 'Concarneau Nord'}
+2651 {'name': 'Chateaulin'}
+1041 {'name': 'rue Henri Rol-Tanguy'}
+918 {'name': 'Avenue Charles Floquet'}
+426 {'name': 'Ciel'}
+1640 {'name': 'Lloret de Mar'}
+2508 {'name': 'Paris Pont de Levallois'}
+2327 {'name': 'Voiron (Champfeuillet)'}
+3574 {'name': 'Rochefort'}
+1920 {'name': 'La Roche sur Yon'}
+1025 {'name': 'Le Mans'}
+659 {'name': 'Saumur Nord'}
+2276 {'name': 'Oulx'}
+2887 {'name': 'Zaragoza'}
+3634 {'name': 'Vielha'}
+711 {'name': 'Exchange Terminal Montbéliard "Acropole"'}
+1745 {'name': 'Barcelona (Airport T2C)'}
+3887 {'name': 'Toledo'}
+3446 {'name': 'Sintra'}
+2623 {'name': 'Avila'}
+1202 {'name': 'Passau'}
+2879 {'name': 'Vrpolje'}
+2668 {'name': 'Donji Andrijevci'}
+2690 {'name': 'Gar�?in'}
+1868 {'name': 'Gornja Vrba'}
+1995 {'name': 'Novska'}
+2789 {'name': 'Pola�?a'}
+2101 {'name': 'Stankovci'}
+1342 {'name': 'Valpovo'}
+1225 {'name': 'Donji Miholjac'}
+1268 {'name': 'Slatina (HR)'}
+1105 {'name': 'Virovitica'}
+1667 {'name': 'Pitoma�?a'}
+1116 {'name': 'Djurdjevac'}
+1219 {'name': 'Koprivnica'}
+1961 {'name': 'Miercurea Ciuc'}
+2002 {'name': 'Odorheiu Secuiesc'}
+2949 {'name': 'Cristuru Secuiesc'}
+2087 {'name': 'Sighi�?oara'}
+2112 {'name': 'Târgu Mure�?'}
+1895 {'name': 'Huedin'}
+2006 {'name': 'Oradea'}
+1441 {'name': 'Budapest, Airport Liszt Ferenz, Term. 2 (Abfl.-Ebene oben)'}
+3079 {'name': 'Solin'}
+1443 {'name': 'Pazardzjik, Georgi Benkovski Street No. 13'}
+1222 {'name': 'Plovdiv'}
+4169 {'name': 'Bodrum'}
+4214 {'name': 'Güvercinlik'}
+4204 {'name': 'Milas'}
+4277 {'name': 'Söke'}
+4297 {'name': 'İzmir'}
+3965 {'name': 'Bursa'}
+4341 {'name': 'Gebze'}
+4033 {'name': 'Istanbul'}
+4195 {'name': 'Istanbul'}
+1168 {'name': 'Istanbul'}
+4115 {'name': 'Balıkesir'}
+4166 {'name': 'Selçuk'}
+4197 {'name': 'Ku�?adası'}
+4052 {'name': 'Didim'}
+3984 {'name': 'Aydın'}
+4073 {'name': '�?ine'}
+4040 {'name': 'Yata�?an'}
+4176 {'name': 'Mu�?la'}
+4020 {'name': 'Ula'}
+4063 {'name': 'Marmaris'}
+4226 {'name': 'Datça'}
+3995 {'name': 'M.Kemal Pa�?a'}
+3953 {'name': 'Susurluk'}
+4351 {'name': 'Edremit'}
+4298 {'name': 'Burhaniye'}
+4005 {'name': 'Gömeç'}
+4043 {'name': 'Ayvalık'}
+4134 {'name': 'Sarımsaklı'}
+4260 {'name': 'Altınova'}
+4187 {'name': 'Alia�?a'}
+3982 {'name': 'Menemen'}
+4183 {'name': 'Salihleraltı'}
+3956 {'name': 'Dikili'}
+4310 {'name': '�?andarlı'}
+4085 {'name': 'Fethiye'}
+4129 {'name': 'Dalaman'}
+3969 {'name': 'Ortaca'}
+4160 {'name': 'Köyce�?iz'}
+4344 {'name': 'Manisa'}
+4258 {'name': 'Akhisar'}
+4118 {'name': 'Kalkan'}
+4141 {'name': 'Ka�?'}
+4117 {'name': 'Nazilli'}
+4335 {'name': 'Turgutlu'}
+4266 {'name': 'Tekirda�?'}
+4384 {'name': '�?orlu'}
+4358 {'name': '�?erkezköy'}
+4075 {'name': 'Orhangazi'}
+4180 {'name': 'Gemlik'}
+4339 {'name': 'Bartın'}
+3993 {'name': '�?aycuma'}
+4050 {'name': 'Gökçebey'}
+4314 {'name': 'Devrek'}
+4001 {'name': 'Mengen'}
+4322 {'name': 'Bolu'}
+4251 {'name': 'Taytem rest station'}
+4235 {'name': 'Sakarya'}
+4175 {'name': 'Kocaeli'}
+4067 {'name': 'Yalova'}
+3958 {'name': 'Zonguldak'}
+4132 {'name': 'Kozlu'}
+3981 {'name': 'Ere�?li-Kdz'}
+4157 {'name': 'Alaplı'}
+4153 {'name': 'Akçakoca'}
+4135 {'name': 'Düzce'}
+4111 {'name': 'Sinop'}
+4321 {'name': 'Gerze'}
+4155 {'name': 'Boyabat'}
+4292 {'name': 'Kastamonu'}
+4131 {'name': 'Araç'}
+4245 {'name': 'İ�?dir'}
+4205 {'name': 'Safranbolu'}
+4048 {'name': 'Karabük'}
+4163 {'name': 'Susurluk'}
+4013 {'name': 'Ankara'}
+4189 {'name': 'Polatlı'}
+4130 {'name': 'Eski�?ehir'}
+4103 {'name': 'Bozüyük'}
+4309 {'name': 'İnegöl'}
+4051 {'name': 'Karacabey'}
+4328 {'name': 'Bandırma'}
+3978 {'name': 'Erdek'}
+4209 {'name': 'Akçay'}
+4249 {'name': 'Altınoluk'}
+3966 {'name': 'Küçükkuyu'}
+4294 {'name': '�?orum'}
+4090 {'name': 'Sungurlu'}
+4127 {'name': 'Kırıkkale'}
+4089 {'name': 'Elmada�?'}
+4284 {'name': 'Biga'}
+4086 {'name': 'Lapseki'}
+3949 {'name': '�?anakkale'}
+4334 {'name': 'Tav�?anlı'}
+3963 {'name': 'Kütahya'}
+4315 {'name': 'Ezine'}
+4252 {'name': 'Yenice'}
+4194 {'name': '�?an'}
+4182 {'name': 'Gönen'}
+4337 {'name': 'Ba�?kent rest station'}
+4181 {'name': 'Kayseri'}
+3989 {'name': 'Mucur'}
+4123 {'name': 'Kır�?ehir'}
+4082 {'name': 'Konya'}
+4243 {'name': 'Cihanbeyli'}
+4271 {'name': 'Kulu'}
+4170 {'name': 'Yeniça�?a'}
+4196 {'name': 'Toprakcuma'}
+4208 {'name': 'Kaya�?'}
+4228 {'name': 'Nev�?ehir'}
+4080 {'name': 'Acıgöl'}
+3972 {'name': 'Aksaray'}
+4147 {'name': 'Unova'}
+4305 {'name': 'Hacıbekta�?'}
+4038 {'name': 'Avanos'}
+4077 {'name': 'Göreme'}
+3986 {'name': 'Afyon'}
+3961 {'name': 'Banaz'}
+4113 {'name': 'U�?ak'}
+4291 {'name': 'Kula'}
+4146 {'name': 'Salihli'}
+4164 {'name': 'Sandıklı'}
+4241 {'name': 'Dinar'}
+3980 {'name': 'Denizli'}
+4044 {'name': 'Sarayköy'}
+4031 {'name': 'Tavas'}
+4207 {'name': 'Kale'}
+4154 {'name': 'Selimiye'}
+4311 {'name': 'Bilecik'}
+4173 {'name': 'Fethiye'}
+3957 {'name': 'Ilgın'}
+4094 {'name': 'Ak�?ehir'}
+4250 {'name': '�?ay'}
+4300 {'name': 'Yozgat'}
+4247 {'name': 'Yozgat'}
+4259 {'name': 'Sorgun'}
+4095 {'name': 'Akda�?madeni'}
+4202 {'name': 'Yıldızeli'}
+4248 {'name': 'Sivas'}
+4340 {'name': 'Alanya'}
+4053 {'name': 'Manavgat'}
+3954 {'name': 'Serik'}
+4289 {'name': 'Belek'}
+4203 {'name': 'Antalya'}
+4071 {'name': 'Bucak'}
+4236 {'name': 'Burdur'}
+4093 {'name': 'Sandıklı'}
+4037 {'name': 'Suit Park rest station'}
+4342 {'name': 'Korkuteli'}
+4278 {'name': 'Bozüyük'}
+4346 {'name': 'Isparta'}
+4158 {'name': 'Keçiborlu'}
+4041 {'name': 'Sakarya'}
+4156 {'name': 'İznik'}
+4407 {'name': 'Yeni�?ehir'}
+4060 {'name': 'Amasra'}
+4264 {'name': 'Kuruca�?ile'}
+4323 {'name': 'Cide'}
+4152 {'name': 'Erfelek'}
+4417 {'name': 'Kapaklı'}
+4421 {'name': 'Saray'}
+4423 {'name': 'Vize'}
+4012 {'name': 'Kozca�?ız'}
+4338 {'name': 'Merzifon'}
+4022 {'name': 'Suluova'}
+3997 {'name': 'Amasya'}
+4177 {'name': '�?ar�?amba'}
+4045 {'name': 'Tekkeköy'}
+4276 {'name': 'Samsun'}
+4096 {'name': 'Kavak'}
+4054 {'name': 'Havza'}
+3950 {'name': 'Sungurlu'}
+4191 {'name': 'Terme'}
+4312 {'name': '�?nye'}
+4109 {'name': 'Fatsa'}
+4279 {'name': 'Per�?embe'}
+4165 {'name': 'Ordu'}
+4081 {'name': 'Giresun'}
+4345 {'name': 'Bulancak'}
+4220 {'name': 'Piraziz'}
+4148 {'name': 'Osmancık'}
+4224 {'name': 'Irmak rest station'}
+4119 {'name': 'Tosya'}
+4219 {'name': 'Ender rest station'}
+4280 {'name': 'Umurlu'}
+4107 {'name': 'Kö�?k'}
+4083 {'name': 'Sultanhisar'}
+4029 {'name': 'Yenipazar'}
+4233 {'name': 'Sultanhisar'}
+4057 {'name': 'Nazilli'}
+3988 {'name': 'Bolvadin'}
+4114 {'name': 'Emirda�?'}
+4246 {'name': 'Kemer'}
+4042 {'name': 'Kumluca'}
+4261 {'name': 'Finike'}
+3999 {'name': 'Seydi�?ehir'}
+4303 {'name': 'Seydi�?ehir'}
+4179 {'name': 'Karamürsel'}
+4122 {'name': 'Ta�?köprü'}
+4028 {'name': 'Didim'}
+4256 {'name': '�?ivril'}
+4072 {'name': 'Alia�?a'}
+4282 {'name': 'Tefenni'}
+4201 {'name': '�?avdır'}
+4217 {'name': 'Tokat'}
+4121 {'name': 'Turhal'}
+4418 {'name': 'Mecitözü'}
+4142 {'name': 'Mavikent rest station'}
+4106 {'name': '�?orum'}
+4222 {'name': 'Bergama'}
+4064 {'name': 'Bey�?ehir'}
+4065 {'name': 'Hüyük'}
+4124 {'name': '�?arkikaraa�?aç'}
+3964 {'name': 'E�?irdir'}
+4325 {'name': 'Erzurum'}
+4324 {'name': 'A�?kale'}
+4286 {'name': 'Tercan'}
+3977 {'name': 'Mercan'}
+4161 {'name': 'Erzincan'}
+4229 {'name': 'Refahiye'}
+4301 {'name': 'Refahiye'}
+4087 {'name': 'Zara'}
+4225 {'name': 'Van'}
+4190 {'name': 'Geva�?'}
+4032 {'name': 'Tatvan'}
+4144 {'name': 'Bitlis'}
+4008 {'name': 'Güroymak'}
+4139 {'name': 'Mu�?'}
+4238 {'name': 'Solhan'}
+4349 {'name': 'Yükseller rest station'}
+4185 {'name': 'Bingöl'}
+4333 {'name': 'Elazı�?'}
+4016 {'name': 'Kovancılar'}
+4023 {'name': 'Elazı�?'}
+4025 {'name': 'Malatya'}
+3992 {'name': 'Darende'}
+4332 {'name': 'Gürün'}
+4049 {'name': 'Pinarbasi'}
+4079 {'name': 'Tuanna rest station'}
+4099 {'name': 'Bey�?ehir'}
+4172 {'name': '�?arkı�?la'}
+3959 {'name': 'Muradiye'}
+4350 {'name': '�?aldıran'}
+4128 {'name': 'Erci�?'}
+3985 {'name': 'Patnos'}
+4230 {'name': 'Tutak'}
+4009 {'name': 'A�?rı'}
+4316 {'name': 'Ele�?kirt'}
+4212 {'name': 'Horasan'}
+4285 {'name': 'Pasinler'}
+3962 {'name': 'Pasinler'}
+3983 {'name': 'İmranlı'}
+4343 {'name': 'İmranlı'}
+4395 {'name': 'Pasinler'}
+4267 {'name': 'Hafik'}
+4097 {'name': 'Su�?ehri'}
+4015 {'name': '�?rgüp'}
+4046 {'name': 'Bayburt'}
+4017 {'name': 'Gümü�?hane'}
+3979 {'name': 'Gümü�?hane'}
+4116 {'name': 'Torul'}
+3990 {'name': 'Macka'}
+4056 {'name': 'Trabzon'}
+4078 {'name': 'Akçaabat'}
+4027 {'name': '�?ar�?ıba�?ı'}
+4024 {'name': 'Vakfıkebir'}
+4227 {'name': 'Be�?ikdüzü'}
+4076 {'name': 'Eynesil'}
+4035 {'name': 'Görele'}
+4002 {'name': 'Tirebolu'}
+4184 {'name': 'Espiye'}
+4307 {'name': 'Ke�?ap'}
+4084 {'name': 'Hüsem rest station'}
+4192 {'name': 'Hisarcık'}
+3987 {'name': 'Emet'}
+4287 {'name': 'Ala�?ehir'}
+4066 {'name': 'Sarıgöl'}
+4257 {'name': 'Buldan'}
+4167 {'name': 'Uluborlu'}
+4006 {'name': 'Senirkent'}
+4143 {'name': 'Yalvaç'}
+4068 {'name': 'Yay-Pet'}
+4232 {'name': 'Ke�?an'}
+3994 {'name': 'Gelibolu'}
+4000 {'name': '�?anakkale'}
+3968 {'name': 'Artvin'}
+4026 {'name': 'Borçka'}
+4019 {'name': 'Hopa'}
+4237 {'name': 'Arhavi'}
+3991 {'name': 'Fındıklı'}
+3951 {'name': 'Arde�?en'}
+4092 {'name': 'Pazar'}
+4112 {'name': '�?ayeli'}
+4004 {'name': 'Rize'}
+4151 {'name': 'Derepazarı'}
+4120 {'name': 'Of'}
+4319 {'name': 'Sürmene'}
+4331 {'name': 'Araklı'}
+4408 {'name': 'Görele'}
+4329 {'name': 'Zorlu Park rest station'}
+4274 {'name': 'Iyidere'}
+4317 {'name': 'Alaca'}
+4216 {'name': 'Kaya�?'}
+4283 {'name': 'Bursa'}
+4380 {'name': 'Tosya'}
+4137 {'name': 'Sivaslı'}
