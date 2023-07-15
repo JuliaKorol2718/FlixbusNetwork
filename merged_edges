@@ -1,0 +1,1434 @@
+Pamukkale, Turkey; Nazilli, Turkey; {'lines': ['TRN0105', 'TRN0372', 'TRN0402']}
+Pamukkale, Turkey; Saraykoy, Turkey; {'lines': ['TR0300b', 'TR0301', 'TR0505', 'TR0514', 'TR0900', 'TR0904', 'TRN0138b', 'TRN0370b', 'TRN0409', 'TRN0508', 'TRN0515', 'TRN0560', 'TRN0836', 'TRN0840']}
+Pamukkale, Turkey; Sandikli, Turkey; {'lines': ['TRN0372']}
+Pamukkale, Turkey; Dinar, Turkey; {'lines': ['TR0300b', 'TR0301', 'TR0307', 'TRN0105', 'TRN0840']}
+Pamukkale, Turkey; Tavas, Turkey; {'lines': ['TR0307', 'TRN0374']}
+Pamukkale, Turkey; Alanya, Turkey; {'lines': ['TR0505']}
+Pamukkale, Turkey; Yassihuyuk, Turkey; {'lines': ['TR0514', 'TRN0508', 'TRN0515']}
+Pamukkale, Turkey; Bozkurt, Turkey; {'lines': ['TR0900', 'TRN0370b', 'TRN0374', 'TRN0402', 'TRN0409', 'TRN0836']}
+Pamukkale, Turkey; Civril, Turkey; {'lines': ['TRN0138b']}
+Brest, Belarus; Warsaw, Poland; {'lines': ['K322']}
+Brest, Belarus; Baranowicze, Belarus; {'lines': ['K322']}
+Padova, Italy; Venezia, Italy; {'lines': ['1922', '537']}
+Padova, Italy; Bologna, Italy; {'lines': ['537']}
+Padova, Italy; Verona, Italy; {'lines': ['1922']}
+Heidelberg, Germany; Mannheim, Germany; {'lines': ['N3202']}
+Heidelberg, Germany; Darmstadt, Germany; {'lines': ['N3202']}
+Villa San Giovanni, Italy; Falerna, Italy; {'lines': ['N528']}
+Villa San Giovanni, Italy; Rizziconi, Italy; {'lines': ['582', 'N1526']}
+Villa San Giovanni, Italy; Messina, Italy; {'lines': ['582', 'N528', 'N1526']}
+Srebrenik, Bosnia and Herzegovina; Tuzla, Bosnia and Herzegovina; {'lines': ['K1958a', 'K1958b', 'N1961', 'N1962']}
+Srebrenik, Bosnia and Herzegovina; Brcko, Bosnia and Herzegovina; {'lines': ['K1958a', 'K1958b', 'N1961', 'N1962']}
+Ramnicu Sarat, Romania; Buzau, Romania; {'lines': ['1943']}
+Ramnicu Sarat, Romania; Focsani, Romania; {'lines': ['1943']}
+La Roche Sur Foron, France; Annecy, France; {'lines': ['K900']}
+La Roche Sur Foron, France; Belgrad, Serbia; {'lines': ['K900']}
+Bern, Switzerland; Zurich, Switzerland; {'lines': ['1921', 'N1156', 'N953']}
+Bern, Switzerland; Fribourg - Freiburg, Switzerland; {'lines': ['1921', 'N1156', 'N953']}
+Blankaholm, Sweden; Verkeback, Sweden; {'lines': ['612']}
+Blankaholm, Sweden; Misterhult, Sweden; {'lines': ['612']}
+Munchberg, Germany; Nuremberg, Germany; {'lines': ['N3203']}
+Munchberg, Germany; Zwickau, Germany; {'lines': ['N3203']}
+Clermont-Ferrand, France; Lyon, France; {'lines': ['706', '716', '726', '799', 'N724', '1776', '724', '776']}
+Clermont-Ferrand, France; Tours, France; {'lines': ['N724']}
+Clermont-Ferrand, France; Perpignan, France; {'lines': ['N707']}
+Clermont-Ferrand, France; Coulounieix-Chamiers, France; {'lines': ['706']}
+Clermont-Ferrand, France; Saint-Angel, France; {'lines': ['716']}
+Clermont-Ferrand, France; Brive-la-Gaillarde, France; {'lines': ['N1157']}
+Clermont-Ferrand, France; Saint-Etienne, France; {'lines': ['N1157']}
+Clermont-Ferrand, France; Bourges, France; {'lines': ['N707', '727']}
+Sankt Polten, Austria; Timisoara, Romania; {'lines': ['1921']}
+Sankt Polten, Austria; Linz (Stadt), Austria; {'lines': ['1921', 'CBG003']}
+Sankt Polten, Austria; Wien, Austria; {'lines': ['CBG003']}
+Aralikoz, Turkey; Besikduzu, Turkey; {'lines': ['TRN0738', 'TRN0816', 'TRN0842', 'TRN0866', 'TRN0887']}
+Aralikoz, Turkey; Gorele, Turkey; {'lines': ['TRN0738', 'TRN0816', 'TRN0842', 'TRN0866', 'TRN0887']}
+Karapurcek, Turkey; Alasarkoy Mahallesi, Turkey; {'lines': ['TRN0109']}
+Karapurcek, Turkey; Balikesir, Turkey; {'lines': ['TRN0427']}
+Karapurcek, Turkey; Tatkavakli, Turkey; {'lines': ['TR0194', 'TR0207', 'TRN0103', 'TRN0107', 'TRN0190', 'TRN0203', 'TRN0262', 'TRN0425', 'TRN0429', 'TRN0819', 'TRN1057']}
+Karapurcek, Turkey; Orta Mahallesi, Turkey; {'lines': ['TR0194', 'TR0207', 'TRN0103', 'TRN0107', 'TRN0109', 'TRN0190', 'TRN0203', 'TRN0262', 'TRN0425', 'TRN0427', 'TRN0429', 'TRN0515', 'TRN0819', 'TRN1057']}
+Karapurcek, Turkey; Bandirma, Turkey; {'lines': ['TRN0515']}
+Tusayan, USA; Paradise, USA; {'lines': ['CUS037']}
+Tusayan, USA; Grand Canyon Village, USA; {'lines': ['CUS037']}
+Coulounieix-Chamiers, France; Bordeaux, France; {'lines': ['706', 'N1157']}
+Coulounieix-Chamiers, France; Brive-la-Gaillarde, France; {'lines': ['N1157']}
+Tetovo, Makedonija; Skopje, Makedonija; {'lines': ['K1902', 'K1903', 'K1905', 'K1906', 'K1914', 'K1920']}
+Tetovo, Makedonija; Gostivar, Makedonija; {'lines': ['K1903', 'K1905', 'K1906', 'K1914']}
+New York, USA; Durham, USA; {'lines': ['CUS063', 'CUS064']}
+Amasya, Turkey; Mecitozu, Turkey; {'lines': ['TRN0227']}
+Amasya, Turkey; Suluova, Turkey; {'lines': ['TR0762', 'TRN0285', 'TRN0318', 'TRN0468', 'TRN1206']}
+Amasya, Turkey; Turhal, Turkey; {'lines': ['TRN0227', 'TRN0285']}
+Amasya, Turkey; Susehri, Turkey; {'lines': ['TRN0468']}
+Tokat, Turkey; Turhal, Turkey; {'lines': ['TRN0227', 'TRN0285']}
+Tatvan, Turkey; Gevas, Turkey; {'lines': ['TRN0401', 'TRN0405', 'TRN0425', 'TRN0452', 'TRN0466']}
+Tatvan, Turkey; Bitlis, Turkey; {'lines': ['TRN0401', 'TRN0405', 'TRN0425', 'TRN0452', 'TRN0466']}
+Aiud, Romania; Campia Turzii, Romania; {'lines': ['1949']}
+Aiud, Romania; Orastie, Romania; {'lines': ['1949']}
+Varazdin, Croatia; Maribor, Slovenija; {'lines': ['950', 'N950']}
+Varazdin, Croatia; Zlatar, Croatia; {'lines': ['936a', '936c', 'CHR029']}
+Varazdin, Croatia; Cakovec, Croatia; {'lines': ['950', 'N950', 'CHR029']}
+Funtana, Croatia; Tar, Croatia; {'lines': ['CHR030']}
+Funtana, Croatia; Rovinj, Croatia; {'lines': ['CHR030']}
+Ekinyolu, Turkey; Solhan, Turkey; {'lines': ['TRN0401', 'TRN0405', 'TRN0425', 'TRN0452', 'TRN0466']}
+Ekinyolu, Turkey; Bingol, Turkey; {'lines': ['TRN0401', 'TRN0405', 'TRN0425', 'TRN0452', 'TRN0466']}
+Subotica, Serbia; Timisoara, Romania; {'lines': ['1926']}
+Subotica, Serbia; Budapest, Hungary; {'lines': ['1926']}
+Dusseldorf, Germany; Troisdorf, Germany; {'lines': ['CBG002', 'K1950', 'K1957', 'K1958a', 'K1958b', 'N1153', 'N1961', 'N3200']}
+Dusseldorf, Germany; Leverkusen, Germany; {'lines': ['1925', 'K1905']}
+Dusseldorf, Germany; Duisburg, Germany; {'lines': ['1925', 'CBG002', 'K1950', 'K1957', 'K1958a', 'K1958b', 'N1961', 'N3200']}
+Dusseldorf, Germany; Krefeld, Germany; {'lines': ['K1905']}
+Dusseldorf, Germany; Essen, Germany; {'lines': ['N1153']}
+Monsteras, Sweden; Oskarshamn, Sweden; {'lines': ['612']}
+Monsteras, Sweden; Kalmar, Sweden; {'lines': ['612']}
+Karlstadt, Sweden; Kristinehamn, Sweden; {'lines': ['600']}
+Ordu, Turkey; Fatsa, Turkey; {'lines': ['TRN0816', 'TRN0866', 'TRN0887']}
+Ordu, Turkey; Presembe, Turkey; {'lines': ['TR0837', 'TR0858', 'TR0880', 'TRN0490', 'TRN0738', 'TRN0761', 'TRN0764', 'TRN0800', 'TRN0801', 'TRN0804', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0837', 'TRN0842', 'TRN0858', 'TRN0880', 'TRN0882', 'TRN0888', 'TRN0890']}
+Ordu, Turkey; Piraziz, Turkey; {'lines': ['TR0880', 'TRN0738', 'TRN0804', 'TRN0833', 'TRN0842', 'TRN0866', 'TRN0880']}
+Ordu, Turkey; Gulyali, Turkey; {'lines': ['TRN0490']}
+Ordu, Turkey; Bulancak, Turkey; {'lines': ['TRN0761', 'TRN0764', 'TRN0800', 'TRN0801', 'TRN0832', 'TRN0836', 'TRN0882', 'TRN0888', 'TRN0890']}
+Ordu, Turkey; Giresun, Turkey; {'lines': ['TRN0816', 'TRN0887']}
+Focsani, Romania; Tecuci, Romania; {'lines': ['1943']}
+L'Aquila, Italy; Roma, Italy; {'lines': ['551', 'K1901']}
+L'Aquila, Italy; Teramo, Italy; {'lines': ['551', '556', 'K1901']}
+L'Aquila, Italy; Perugia, Italy; {'lines': ['K1903']}
+L'Aquila, Italy; Sora, Italy; {'lines': ['556']}
+Bonn, Germany; Koblenz, Germany; {'lines': ['1925']}
+Bonn, Germany; Troisdorf, Germany; {'lines': ['1925']}
+Biograd na Moru, Croatia; Sibenik, Croatia; {'lines': ['941']}
+Biograd na Moru, Croatia; Pirovac, Croatia; {'lines': ['N896']}
+Biograd na Moru, Croatia; Zadar, Croatia; {'lines': ['941', '928', 'N896']}
+Povoa do Varzim, Portugal; Bonfim, Portugal; {'lines': ['N1152']}
+Povoa do Varzim, Portugal; Vila Nova da Telha, Portugal; {'lines': ['CES015', 'CES016']}
+Povoa do Varzim, Portugal; Viana do Castelo, Portugal; {'lines': ['N1152']}
+Povoa do Varzim, Portugal; Esposende, Portugal; {'lines': ['CES015', 'CES016', 'N1154']}
+Bandirma, Turkey; Karacabey, Turkey; {'lines': ['TR0202', 'TR0204', 'TR0209', 'TR0213', 'TR0600', 'TR0601', 'TR0603', 'TR0609', 'TR1056', 'TRN0209', 'TRN0213', 'TRN0227', 'TRN0261', 'TRN0263', 'TRN0431', 'TRN0609', 'TRN0800', 'TRN0804', 'TRN0813', 'TRN1056']}
+Bandirma, Turkey; Erdek, Turkey; {'lines': ['TR0202', 'TR0601']}
+Bandirma, Turkey; Aziziye, Turkey; {'lines': ['TR0204', 'TR0209', 'TR0603', 'TR1056', 'TRN0209', 'TRN0227', 'TRN0263', 'TRN0431', 'TRN0800', 'TRN0813', 'TRN1056']}
+Bandirma, Turkey; Gonen, Turkey; {'lines': ['TR0213', 'TR0600', 'TR0609', 'TRN0213', 'TRN0261', 'TRN0515', 'TRN0609', 'TRN0804']}
+Mulhouse, France; Colmar, France; {'lines': ['720', 'N759']}
+Mulhouse, France; Belfort, France; {'lines': ['720', 'N759']}
+Aliaga, Turkey; Mermerli Mahallesi, Turkey; {'lines': ['TR0141', 'TR0304', 'TRN0141', 'TRN0304', 'TRN0508']}
+Aliaga, Turkey; Ayvalik, Turkey; {'lines': ['TRN0508']}
+Aliaga, Turkey; Altinova, Turkey; {'lines': ['TR0141']}
+Aliaga, Turkey; Yenisakran Mahallesi, Turkey; {'lines': ['TRN0141', 'TRN0304']}
+Ilhavo, Portugal; Gloria e Vera Cruz, Portugal; {'lines': ['N1151']}
+Ilhavo, Portugal; Vagos e Santo Antonio, Portugal; {'lines': ['N1151']}
+Vize, Turkey; Saray, Turkey; {'lines': ['TR0680']}
+Suleymanpasa, Turkey; Istanbul, Turkey; {'lines': ['TRN0603']}
+Suleymanpasa, Turkey; Corlu, Turkey; {'lines': ['TR0181', 'TR0646', 'TR0647', 'TRN0181', 'TRN0646', 'TRN0647', 'TRN0648', 'TRN0888']}
+Suleymanpasa, Turkey; Nusratli, Turkey; {'lines': ['TRN0603']}
+Lucenec, Slovensko; Rimavska Sobota, Slovensko; {'lines': ['CCZ058']}
+Lucenec, Slovensko; Ruzomberok, Slovensko; {'lines': ['CCZ058']}
+Bessines, France; Nantes, France; {'lines': ['761']}
+Bessines, France; Bordeaux, France; {'lines': ['761']}
+Bessines, France; Poitiers, France; {'lines': ['N1152']}
+Bessines, France; Burgos, Spain; {'lines': ['N1152']}
+Berlin, Germany; Lvov, Ukraine; {'lines': ['N3200']}
+Berlin, Germany; Dresden, Germany; {'lines': ['1926', 'K1920']}
+Berlin, Germany; Dahme, Germany; {'lines': ['N1325', 'N958']}
+Berlin, Germany; Hamburg, Germany; {'lines': ['1926']}
+Berlin, Germany; Hanover, Germany; {'lines': ['K1920']}
+Berlin, Germany; Potsdam, Germany; {'lines': ['N1325']}
+Berlin, Germany; Magdeburg, Germany; {'lines': ['N3200']}
+Berlin, Germany; Dessau, Germany; {'lines': ['N3201']}
+Berlin, Germany; Rostock, Germany; {'lines': ['N3201']}
+Berlin, Germany; Leipzig, Germany; {'lines': ['N95']}
+Vannes, France; Rennes, France; {'lines': ['N702']}
+Vannes, France; Nantes, France; {'lines': ['1704', '761', 'N724']}
+Vannes, France; Lorient, France; {'lines': ['1704', '761', 'N702']}
+Kayas, Turkey; Ankara, Turkey; {'lines': ['TR0260', 'TR0262', 'TR0275', 'TR0276b', 'TR0450', 'TR0451', 'TR0765', 'TR0808', 'TR0837', 'TR0858', 'TRN0227', 'TRN0260', 'TRN0261', 'TRN0262', 'TRN0275b', 'TRN0276', 'TRN0372', 'TRN0431', 'TRN0450', 'TRN0451', 'TRN0452', 'TRN0764', 'TRN0765', 'TRN0800', 'TRN0804', 'TRN0813', 'TRN0832', 'TRN0836', 'TRN0837', 'TRN0840', 'TRN0858', 'TRN0866']}
+Kayas, Turkey; Elmadas, Turkey; {'lines': ['TR0260', 'TR0262', 'TR0275', 'TR0276b', 'TR0450', 'TR0451', 'TR0765', 'TR0808', 'TR0837', 'TR0858', 'TRN0227', 'TRN0260', 'TRN0261', 'TRN0262', 'TRN0275b', 'TRN0276', 'TRN0372', 'TRN0431', 'TRN0450', 'TRN0451', 'TRN0452', 'TRN0765', 'TRN0804', 'TRN0813', 'TRN0832', 'TRN0836', 'TRN0837', 'TRN0840', 'TRN0858', 'TRN0866', 'TRN0764']}
+Kayas, Turkey; Calilioz Mahallesi, Turkey; {'lines': ['TRN0800']}
+Choisey, France; Lyon, France; {'lines': ['720']}
+Choisey, France; Besancon, France; {'lines': ['720']}
+Brunswick, Germany; Hanover, Germany; {'lines': ['N1325', 'N3200']}
+Brunswick, Germany; Magdeburg, Germany; {'lines': ['N1325', 'N3200']}
+Mortagua, Portugal; Anadia, Portugal; {'lines': ['N1151']}
+Mortagua, Portugal; Santa Comba Dao, Portugal; {'lines': ['N1151']}
+Poitiers, France; Tours, France; {'lines': ['N1152', 'N1153']}
+Poitiers, France; La Rochelle, France; {'lines': ['N1153']}
+Castelo Branco, Portugal; Nossa Senhora da Piedade, Portugal; {'lines': ['N1155']}
+Castelo Branco, Portugal; Fundao, Portugal; {'lines': ['N1155']}
+Kumluca, Turkey; Kemer, Turkey; {'lines': ['TR1201', 'TRN0533', 'TRN1201']}
+Kumluca, Turkey; Finike, Turkey; {'lines': ['TR1201', 'TRN0533', 'TRN1201']}
+Refahiye, Turkey; Zara, Turkey; {'lines': ['TRN0400', 'TRN0426', 'TRN0481']}
+Refahiye, Turkey; Susehri, Turkey; {'lines': ['TRN0468']}
+Refahiye, Turkey; Erzincan, Turkey; {'lines': ['TRN0409', 'TRN0431']}
+Refahiye, Turkey; Yeni Yurtbasi, Turkey; {'lines': ['TRN0400', 'TRN0426', 'TRN0468', 'TRN0481']}
+Refahiye, Turkey; Toklucak, Turkey; {'lines': ['TRN0409', 'TRN0431']}
+Bals, Romania; Slatina, Romania; {'lines': ['1948']}
+Bals, Romania; Craiova, Romania; {'lines': ['1948']}
+Baranowicze, Belarus; Minsk, Belarus; {'lines': ['K322']}
+Orastie, Romania; Sibiu, Romania; {'lines': ['1921', '1922', '1923', '1925', '1926', '1929', '1949']}
+Orastie, Romania; Deva, Romania; {'lines': ['1921', '1922', '1923', '1925', '1926', '1929', '1948']}
+Orastie, Romania; Bumbesti-Jiu, Romania; {'lines': ['1948']}
+Bistrita, Romania; Vatra Dornei, Romania; {'lines': ['1949']}
+Bistrita, Romania; Beclean, Romania; {'lines': ['1949']}
+Horasan, Turkey; Pasinler, Turkey; {'lines': ['TRN0490']}
+Horasan, Turkey; Yigittasi, Turkey; {'lines': ['TRN0409']}
+Horasan, Turkey; Uzunyazi, Turkey; {'lines': ['TRN0409', 'TRN0431', 'TRN0490']}
+Horasan, Turkey; Epsemce, Turkey; {'lines': ['TRN0431']}
+Calarasi, Romania; Bucharest, Romania; {'lines': ['1942']}
+Calarasi, Romania; Slobozia, Romania; {'lines': ['1942']}
+Elmadas, Turkey; Ankara, Turkey; {'lines': ['TR0204', 'TR0240', 'TR0276', 'TR0277b', 'TR0375', 'TR0762', 'TRN0318', 'TRN0375', 'TRN0406', 'TRN0427', 'TRN0429', 'TRN0467', 'TRN0467b', 'TRN0734', 'TRN0819', 'TRN0833', 'TRN0844', 'TRN1206', 'TRN1207']}
+Elmadas, Turkey; Calilioz Mahallesi, Turkey; {'lines': ['TR0204', 'TR0240', 'TR0260', 'TR0262', 'TR0275', 'TR0276', 'TR0276b', 'TR0277b', 'TR0375', 'TR0450', 'TR0451', 'TR0762', 'TR0765', 'TR0808', 'TR0837', 'TR0858', 'TRN0227', 'TRN0260', 'TRN0261', 'TRN0262', 'TRN0275b', 'TRN0276', 'TRN0318', 'TRN0372', 'TRN0375', 'TRN0406', 'TRN0427', 'TRN0429', 'TRN0431', 'TRN0450', 'TRN0451', 'TRN0452', 'TRN0467', 'TRN0467b', 'TRN0734', 'TRN0764', 'TRN0765', 'TRN0804', 'TRN0813', 'TRN0819', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0837', 'TRN0840', 'TRN0844', 'TRN0858', 'TRN0866', 'TRN1206', 'TRN1207']}
+Ponte de Lima, Portugal; Braga, Portugal; {'lines': ['N1153']}
+Ponte de Lima, Portugal; Viana do Castelo, Portugal; {'lines': ['CES014', 'CES015', 'CES016']}
+Ponte de Lima, Portugal; Ponte da Barca, Portugal; {'lines': ['N1153']}
+Falticeni, Romania; Suceava, Romania; {'lines': ['1949']}
+Falticeni, Romania; Gura Humorului, Romania; {'lines': ['1949']}
+Odorheiu Secuiesc, Romania; Miercurea Ciuc / Csikszereda, Romania; {'lines': ['N963']}
+Odorheiu Secuiesc, Romania; Cristuru Secuiesc, Romania; {'lines': ['N963']}
+Maribor, Slovenija; Budapest, Hungary; {'lines': ['1922']}
+Maribor, Slovenija; Wien, Austria; {'lines': ['N958']}
+Maribor, Slovenija; Graz, Austria; {'lines': ['885', '950', 'K1958a', 'K1958b', 'K845', 'N881', 'N950']}
+Maribor, Slovenija; Ljubljana, Slovenija; {'lines': ['1922']}
+Maribor, Slovenija; Zlatar, Croatia; {'lines': ['885']}
+Maribor, Slovenija; Zagreb, Croatia; {'lines': ['K1958a', 'K1958b', 'N881', 'N958']}
+Maribor, Slovenija; Slavonski Brod, Croatia; {'lines': ['K845']}
+Kyiv, Ukraine; Zhitomir, Ukraine; {'lines': ['CUA017', 'CUA018', 'CUA019', 'CUA020', 'CUA021', 'K3303', 'N3200', 'N3201', 'N3202', 'N3203', 'N3300']}
+Kyiv, Ukraine; Lublin, Poland; {'lines': ['K1860']}
+Hamitli, Turkey; Istanbul, Turkey; {'lines': ['TR0275', 'TR0635', 'TR0646', 'TRN0646']}
+Hamitli, Turkey; Izmit, Turkey; {'lines': ['TRN0285']}
+Hamitli, Turkey; Mengen, Turkey; {'lines': ['TR0706']}
+Hamitli, Turkey; Bolu, Turkey; {'lines': ['TR0191', 'TR0276b', 'TR0642', 'TRN0109', 'TRN0285', 'TRN0637', 'TRN0642']}
+Hamitli, Turkey; Hanli, Turkey; {'lines': ['TR0191', 'TR0192', 'TR0276b', 'TR0642', 'TR0671', 'TR0880', 'TRN0103', 'TRN0109', 'TRN0275b', 'TRN0466', 'TRN0635', 'TRN0637', 'TRN0642']}
+Hamitli, Turkey; Duzce, Turkey; {'lines': ['TR0192', 'TR0646', 'TR0671', 'TR0880', 'TRN0103', 'TRN0275b', 'TRN0466', 'TRN0635']}
+Hamitli, Turkey; Ankara, Turkey; {'lines': ['TR0275']}
+Hamitli, Turkey; Dongelli, Turkey; {'lines': ['TR0635', 'TRN0646']}
+Hamitli, Turkey; Yenicaga, Turkey; {'lines': ['TR0706']}
+La Rochelle, France; Nantes, France; {'lines': ['N1158']}
+La Rochelle, France; Bordeaux, France; {'lines': ['N1158']}
+La Rochelle, France; Cholet, France; {'lines': ['N723']}
+La Rochelle, France; Vitoria-Gasteiz, Spain; {'lines': ['N1153']}
+Kucukkoy, Turkey; Ayvalik, Turkey; {'lines': ['TR0141', 'TR0143', 'TR0207', 'TRN0141']}
+Kucukkoy, Turkey; Altinova, Turkey; {'lines': ['TR0141', 'TR0143', 'TRN0141']}
+Bergama, Turkey; Cumhuriyet Mahallesi, Turkey; {'lines': ['TRN0304']}
+Bergama, Turkey; Candarli, Turkey; {'lines': ['TRN0304']}
+Manisa, Turkey; Usak, Turkey; {'lines': ['TR0300', 'TR0304', 'TR0315', 'TR0335', 'TR0338', 'TR0339', 'TR0342', 'TR0370', 'TR0371', 'TR0375', 'TR0837', 'TRN0300', 'TRN0304', 'TRN0315', 'TRN0318', 'TRN0338', 'TRN0370', 'TRN0375', 'TRN0405', 'TRN0833', 'TRN0837', 'TRN0842', 'TRN0844', 'TRN0900']}
+Manisa, Turkey; Salihli, Turkey; {'lines': ['TR0300', 'TR0304', 'TR0315', 'TR0335', 'TR0338', 'TR0339', 'TR0342', 'TR0370', 'TR0371', 'TR0375', 'TR0837', 'TRN0300', 'TRN0304', 'TRN0315', 'TRN0318', 'TRN0338', 'TRN0370', 'TRN0375', 'TRN0405', 'TRN0833', 'TRN0837', 'TRN0842', 'TRN0844', 'TRN0900']}
+Sarajevo, Bosnia and Herzegovina; Zenica, Bosnia and Herzegovina; {'lines': ['K942']}
+Sarajevo, Bosnia and Herzegovina; Kakanj, Bosnia and Herzegovina; {'lines': ['K845', 'N971']}
+Sarajevo, Bosnia and Herzegovina; Visoko, Bosnia and Herzegovina; {'lines': ['K943', 'K946', 'N1971', 'N1972']}
+Banja Vrucica, Bosnia and Herzegovina; Banja Luka, Bosnia and Herzegovina; {'lines': ['K946']}
+Banja Vrucica, Bosnia and Herzegovina; Slavonski Brod, Croatia; {'lines': ['K946']}
+Krefeld, Germany; Duisburg, Germany; {'lines': ['K1905']}
+Lomza, Poland; Warsaw, Poland; {'lines': ['K321', 'N1229']}
+Lomza, Poland; Augustow, Poland; {'lines': ['N1229']}
+Lomza, Poland; Grajewo, Poland; {'lines': ['K321']}
+Tayip, Turkey; Yozgat, Turkey; {'lines': ['TR0451', 'TRN0400', 'TRN0406', 'TRN0426', 'TRN0427', 'TRN0429', 'TRN0431', 'TRN0451', 'TRN0465b', 'TRN0467', 'TRN0467b', 'TRN0761']}
+Tayip, Turkey; Alaca, Turkey; {'lines': ['TRN0761']}
+Tayip, Turkey; Dogankent, Turkey; {'lines': ['TR0451', 'TRN0400', 'TRN0406', 'TRN0426', 'TRN0427', 'TRN0429', 'TRN0431', 'TRN0451', 'TRN0465b', 'TRN0467', 'TRN0467b']}
+Rimavska Sobota, Slovensko; Spisska Nova Ves, Slovensko; {'lines': ['CCZ058']}
+Vagos e Santo Antonio, Portugal; Anadia, Portugal; {'lines': ['N1151']}
+Liptovsky Mikulas, Slovensko; Ruzomberok, Slovensko; {'lines': ['CCZ061']}
+Liptovsky Mikulas, Slovensko; Zakopane, Poland; {'lines': ['CCZ061']}
+Lubeck, Germany; Hamburg, Germany; {'lines': ['N613']}
+Lubeck, Germany; Kobenhavn, Denmark; {'lines': ['N613']}
+Bourges, France; Massy, France; {'lines': ['727']}
+Bourges, France; Orleans, France; {'lines': ['N707']}
+Covilho, Portugal; Belmonte e Colmeal da Torre, Portugal; {'lines': ['N1155']}
+Covilho, Portugal; Fundao, Portugal; {'lines': ['N1155']}
+Saint-Angel, France; Brive-la-Gaillarde, France; {'lines': ['716']}
+Kassel, Germany; Regensburg, Germany; {'lines': ['N881']}
+Kassel, Germany; Nuremberg, Germany; {'lines': ['N1962', 'N1972']}
+Kassel, Germany; Gottingen, Germany; {'lines': ['N1962', 'N1972', 'N881']}
+North Bend, USA; Bellevue, USA; {'lines': ['CUS039']}
+North Bend, USA; Peshastin, USA; {'lines': ['CUS039']}
+Targu Frumos, Romania; Filiasi, Romania; {'lines': ['1944']}
+Targu Frumos, Romania; Saint-Quentin, France; {'lines': ['1944']}
+Beclean, Romania; Dej, Romania; {'lines': ['1949']}
+Ispat Cami Mahallesi, Turkey; Nusratli, Turkey; {'lines': ['TRN0603']}
+Ispat Cami Mahallesi, Turkey; Gelibolu, Turkey; {'lines': ['TRN0603']}
+Amasra, Turkey; Tuzcular, Turkey; {'lines': ['TR0642', 'TR0706', 'TRN0105', 'TRN0642']}
+Amasra, Turkey; Kurucasile, Turkey; {'lines': ['TR0642']}
+Santander, Spain; Bilbao, Spain; {'lines': ['783']}
+Santander, Spain; Oviedo, Spain; {'lines': ['783']}
+Yenice, Turkey; Can, Turkey; {'lines': ['TR0213', 'TR0609', 'TRN0213', 'TRN0609']}
+Yenice, Turkey; Bingol, Turkey; {'lines': ['TRN0401', 'TRN0405', 'TRN0425', 'TRN0452', 'TRN0466']}
+Yenice, Turkey; Kovancilar, Turkey; {'lines': ['TRN0401', 'TRN0405', 'TRN0425', 'TRN0452', 'TRN0466']}
+Bialystok, Poland; Warsaw, Poland; {'lines': ['K318']}
+Bialystok, Poland; Lublin, Poland; {'lines': ['K1860']}
+Bialystok, Poland; Augustow, Poland; {'lines': ['K1860']}
+Split, Croatia; Zagreb, Croatia; {'lines': ['970', 'N973']}
+Split, Croatia; Trogir, Croatia; {'lines': ['936c', '941', 'K997', 'N948', '906', '936a', '936b']}
+Split, Croatia; Sinj, Croatia; {'lines': ['985', 'K954']}
+Split, Croatia; Imotski, Croatia; {'lines': ['K953', 'K997', 'N973', '988']}
+Split, Croatia; Karlovac, Croatia; {'lines': ['K953']}
+Split, Croatia; Grude, Bosnia and Herzegovina; {'lines': ['K954']}
+Split, Croatia; Pirovac, Croatia; {'lines': ['N896']}
+Farbo, Sweden; Misterhult, Sweden; {'lines': ['612']}
+Farbo, Sweden; Oskarshamn, Sweden; {'lines': ['612']}
+Sinaia, Romania; Ploiesti, Romania; {'lines': ['1921', '1922', '1923', '1925', '1926', '1929']}
+Sinaia, Romania; Brasov, Romania; {'lines': ['1921', '1922', '1923', '1925', '1926', '1929']}
+Colmar, France; Strasbourg, France; {'lines': ['720', 'N759']}
+San Severo, Italy; Bologna, Italy; {'lines': ['N425']}
+San Severo, Italy; Bari, Italy; {'lines': ['N425']}
+San Severo, Italy; Pescara, Italy; {'lines': ['N424', '574']}
+San Severo, Italy; Benevento, Italy; {'lines': ['N424']}
+San Severo, Italy; Foggia, Italy; {'lines': ['574']}
+Minsk, Belarus; Moscow, Russia; {'lines': ['K3182']}
+Eynesil, Turkey; Besikduzu, Turkey; {'lines': ['TRN0490']}
+Eynesil, Turkey; Gorele, Turkey; {'lines': ['TRN0490']}
+Igdir, Turkey; Safranbolu, Turkey; {'lines': ['TR0194', 'TRN0107', 'TRN0648']}
+Igdir, Turkey; Arac, Turkey; {'lines': ['TR0194', 'TR0243', 'TR0638', 'TR0647', 'TR0648', 'TRN0107', 'TRN0638', 'TRN0647', 'TRN0648']}
+Igdir, Turkey; Toprakcuma, Turkey; {'lines': ['TR0243', 'TR0638', 'TR0647', 'TR0648', 'TRN0638', 'TRN0647']}
+Roma, Italy; Firenze, Italy; {'lines': ['520', 'N520']}
+Roma, Italy; Perugia, Italy; {'lines': ['466', 'N588', 'N582']}
+Roma, Italy; Siena, Italy; {'lines': ['N528']}
+Roma, Italy; Arezzo, Italy; {'lines': ['1518']}
+Roma, Italy; Caserta, Italy; {'lines': ['1518']}
+Roma, Italy; San Benedetto del Tronto, Italy; {'lines': ['1553', '1554']}
+Roma, Italy; Benevento, Italy; {'lines': ['562', '573']}
+Roma, Italy; Pescara, Italy; {'lines': ['574']}
+Roma, Italy; Potenza, Italy; {'lines': ['589']}
+Roma, Italy; Napoli, Italy; {'lines': ['N528']}
+Roma, Italy; Bari, Italy; {'lines': ['N573']}
+Roma, Italy; Rossano, Italy; {'lines': ['N582']}
+Roma, Italy; Mormanno, Italy; {'lines': ['N588']}
+Huedin, Romania; Cluj, Romania; {'lines': ['N963']}
+Huedin, Romania; Oradea, Romania; {'lines': ['N963']}
+Riga, Latvia; Siauliai, Lithuania; {'lines': ['N1229']}
+Riga, Latvia; Parnu, Estonia; {'lines': ['N1229']}
+Urgup merkez, Turkey; Kayseri, Turkey; {'lines': ['TRN0761']}
+Urgup merkez, Turkey; Cumhuriyet Mahallesi, Turkey; {'lines': ['TRN0480', 'TRN0761']}
+Urgup merkez, Turkey; Goreme, Turkey; {'lines': ['TRN0480']}
+Orleans, France; Massy, France; {'lines': ['N707', '1923', 'N705', 'N1150', 'N1153', 'N1152']}
+Orleans, France; Tours, France; {'lines': ['1923', 'N1150', 'N1152', 'N1153']}
+Orleans, France; Limoges, France; {'lines': ['N705']}
+Imotski, Croatia; Capljina, Bosnia and Herzegovina; {'lines': ['K953', 'N973']}
+Imotski, Croatia; Sinj, Croatia; {'lines': ['975', 'N975', '985', 'K1950']}
+Imotski, Croatia; Grude, Bosnia and Herzegovina; {'lines': ['K1950', 'CHR007']}
+Imotski, Croatia; Travnik, Bosnia and Herzegovina; {'lines': ['CHR007']}
+Ciudad Rodrigo, Spain; Vilar Formoso, Portugal; {'lines': ['N1151']}
+Ciudad Rodrigo, Spain; Belmonte e Colmeal da Torre, Portugal; {'lines': ['N1151']}
+Bielefeld, Germany; Dortmund, Germany; {'lines': ['N3200']}
+Bielefeld, Germany; Hanover, Germany; {'lines': ['N3200']}
+Lille, France; Gent, Belgium; {'lines': ['802', 'N1325']}
+Lille, France; Schaerbeek - Schaarbeek, Belgium; {'lines': ['782', '828']}
+Lille, France; Tourcoing, France; {'lines': ['757', 'N702']}
+Lille, France; Calais, France; {'lines': ['828']}
+Lille, France; Paris, France; {'lines': ['1755', '802', 'N1153', 'N800']}
+Lille, France; Tremblay-en-France, France; {'lines': ['1747', '757']}
+Lille, France; Anderlecht, Belgium; {'lines': ['N1153', 'N800']}
+Lille, France; Plailly, France; {'lines': ['N702']}
+Toulon, France; Marseille, France; {'lines': ['1922', 'K903', 'N1155', 'N708']}
+Toulon, France; Nice, France; {'lines': ['1922', 'K903', 'N708']}
+Toulon, France; Cannes, France; {'lines': ['N1155']}
+Bogazkoy, Turkey; Cumhuriyet Mahallesi, Turkey; {'lines': ['TRN0401', 'TRN0405', 'TRN0409']}
+Bogazkoy, Turkey; Hacibektas merkez, Turkey; {'lines': ['TR0277b', 'TR0375', 'TRN0375']}
+Bogazkoy, Turkey; Acigol merkez, Turkey; {'lines': ['TR0269', 'TR0277', 'TR0281', 'TR0371', 'TR0453', 'TR1290', 'TRN0263', 'TRN0277', 'TRN0281', 'TRN0374', 'TRN0401', 'TRN0402', 'TRN0405', 'TRN0409', 'TRN0480', 'TRN0481', 'TRN0761', 'TRN1290']}
+Bogazkoy, Turkey; Goreme, Turkey; {'lines': ['TR0281', 'TR0371', 'TR1290', 'TRN0281', 'TRN0374', 'TRN0402', 'TRN0480', 'TRN0481', 'TRN0761', 'TRN1290']}
+Wurzburg, Germany; Aschaffenburg, Germany; {'lines': ['N3202']}
+Wurzburg, Germany; Bayreuth, Germany; {'lines': ['N3202']}
+Emet, Turkey; Tavsanli, Turkey; {'lines': ['TRN0558']}
+Emet, Turkey; Hisarcik, Turkey; {'lines': ['TRN0558']}
+Vila Nova da Telha, Portugal; Bonfim, Portugal; {'lines': ['1783', 'N795', 'CES015', 'CES016', 'CES013']}
+Vila Nova da Telha, Portugal; Braga, Portugal; {'lines': ['1783']}
+Kastamonu, Turkey; Safranbolu, Turkey; {'lines': ['TRN0703']}
+Kastamonu, Turkey; Dayli, Turkey; {'lines': ['TR0194', 'TR0647', 'TRN0647', 'TRN0648']}
+Kastamonu, Turkey; Arac, Turkey; {'lines': ['TR0194', 'TR0243', 'TR0638', 'TR0647', 'TR0648', 'TRN0107', 'TRN0190', 'TRN0243', 'TRN0638', 'TRN0647', 'TRN0648', 'TRN1242']}
+Kastamonu, Turkey; Taskopru, Turkey; {'lines': ['TRN0107']}
+Vefa Mahallesi, Turkey; Sakarya, Turkey; {'lines': ['TRN0151']}
+Vefa Mahallesi, Turkey; Bozuyuk, Turkey; {'lines': ['TR0530', 'TR0531', 'TRN0531', 'TRN0532', 'TR0556', 'TR0560', 'TR1055', 'TR1056', 'TRN0533', 'TRN0558', 'TRN0571', 'TRN1056', 'TRN1057']}
+Vefa Mahallesi, Turkey; Afyonkarahisar, Turkey; {'lines': ['TR0530', 'TR0531', 'TR1055', 'TR1056', 'TRN0531', 'TRN0532', 'TRN0533', 'TRN0571', 'TRN1056', 'TRN1057']}
+Vefa Mahallesi, Turkey; seker Mahallesi, Turkey; {'lines': ['TR0206', 'TR0335', 'TR0338', 'TR0339', 'TR0340', 'TR0342', 'TRN0138b', 'TRN0206', 'TRN0338']}
+Vefa Mahallesi, Turkey; Tavsanli, Turkey; {'lines': ['TR0206', 'TR0556', 'TRN0206', 'TRN0558']}
+Vefa Mahallesi, Turkey; Banaz, Turkey; {'lines': ['TR0335', 'TR0338', 'TR0339', 'TR0340', 'TR0342', 'TR0560', 'TRN0138b', 'TRN0338']}
+Vefa Mahallesi, Turkey; Ekinhisar, Turkey; {'lines': ['TRN0151']}
+Paradise, USA; Grand Canyon, USA; {'lines': ['CUS060']}
+Koycegiz, Turkey; Musla, Turkey; {'lines': ['TR0151']}
+Koycegiz, Turkey; Gokova, Turkey; {'lines': ['TR0144', 'TR0342', 'TR1104', 'TRN0103', 'TRN0138', 'TRN0138b']}
+Koycegiz, Turkey; Ortaca, Turkey; {'lines': ['TR0144', 'TR0151', 'TR0342', 'TR1104', 'TRN0103', 'TRN0138', 'TRN0138b', 'TRN0314', 'TRN0832']}
+Sosnowiec, Poland; Krakow, Poland; {'lines': ['1369']}
+Sosnowiec, Poland; Katowice, Poland; {'lines': ['1369']}
+Bacau, Romania; Saint-Quentin, France; {'lines': ['1944']}
+Bacau, Romania; Onesti, Romania; {'lines': ['1944']}
+Saint-Etienne, France; Lyon, France; {'lines': ['N1157']}
+Guimaraes, Portugal; Bonfim, Portugal; {'lines': ['1005']}
+Guimaraes, Portugal; Braga, Portugal; {'lines': ['N1153']}
+Guimaraes, Portugal; Fafe, Portugal; {'lines': ['N1153']}
+Lovas, Croatia; Vukovar, Croatia; {'lines': ['K928']}
+Lovas, Croatia; Ilok, Croatia; {'lines': ['K928']}
+Seia, Portugal; Vilar Formoso, Portugal; {'lines': ['N1156']}
+Seia, Portugal; Oliveira do Hospital e Sao Paio de Gramacos, Portugal; {'lines': ['N1156']}
+Calilioz Mahallesi, Turkey; Ankara, Turkey; {'lines': ['TRN0425', 'TRN0465b', 'TRN0466', 'TRN0738', 'TRN0816', 'TRN0842']}
+Calilioz Mahallesi, Turkey; Yozgat, Turkey; {'lines': ['TR0451', 'TRN0406', 'TRN0427', 'TRN0429', 'TRN0431', 'TRN0451', 'TRN0465b', 'TRN0467', 'TRN0467b']}
+Calilioz Mahallesi, Turkey; Sungurlu, Turkey; {'lines': ['TR0204', 'TR0276', 'TR0276b', 'TR0762', 'TR0765', 'TRN0276', 'TRN0318', 'TRN0734', 'TRN0819', 'TRN0840', 'TRN0844', 'TRN1206', 'TRN1207', 'TR0808', 'TR0837', 'TR0858', 'TRN0227', 'TRN0738', 'TRN0764', 'TRN0765', 'TRN0800', 'TRN0804', 'TRN0813', 'TRN0816', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0837', 'TRN0842', 'TRN0858', 'TRN0866']}
+Calilioz Mahallesi, Turkey; Asikpasa Mahallesi, Turkey; {'lines': ['TR0240', 'TR0260', 'TR0262', 'TR0275', 'TR0277b', 'TR0375', 'TR0450', 'TRN0260', 'TRN0275b', 'TRN0372', 'TRN0375', 'TRN0425', 'TRN0450', 'TRN0452', 'TRN0466']}
+Calilioz Mahallesi, Turkey; Kizilca, Turkey; {'lines': ['TRN0261', 'TRN0262']}
+Seydisehir, Turkey; Selcuklu, Turkey; {'lines': ['TR1202', 'TRN1202']}
+Seydisehir, Turkey; Manavgat, Turkey; {'lines': ['TR1290', 'TRN0480']}
+Seydisehir, Turkey; Karabulak, Turkey; {'lines': ['TR1202', 'TR1290', 'TRN0480', 'TRN1202']}
+Liege, Belgium; Schaerbeek - Schaarbeek, Belgium; {'lines': ['K1959']}
+Liege, Belgium; Aachen, Germany; {'lines': ['K1959']}
+Gulyali, Turkey; Piraziz, Turkey; {'lines': ['TRN0490']}
+Charlotte, USA; Greensboro, USA; {'lines': ['CUS063']}
+Charlotte, USA; Greenville, USA; {'lines': ['CUS063']}
+Sandikli, Turkey; Afyonkarahisar, Turkey; {'lines': ['TR0300b', 'TR0301', 'TR0307', 'TR0530', 'TRN0530', 'TRN0571', 'TRN0738', 'TRN0836', 'TRN1200']}
+Sandikli, Turkey; Ekinhisar, Turkey; {'lines': ['TR0500', 'TR0531', 'TR1200', 'TR1201', 'TR1244', 'TRN0314', 'TRN0372', 'TRN0500', 'TRN0531', 'TRN0532', 'TRN0533', 'TRN0734', 'TRN0832', 'TRN0840', 'TRN1206', 'TRN1207', 'TRN1240', 'TRN1241', 'TRN1242', 'TRN1244']}
+Sandikli, Turkey; Dinar, Turkey; {'lines': ['TR0300b', 'TR0301', 'TR0307', 'TRN0836', 'TRN0840']}
+Sandikli, Turkey; Cemil Mahallesi, Turkey; {'lines': ['TR0500', 'TR1201', 'TR1244', 'TRN0314', 'TRN0500', 'TRN0531', 'TRN0734', 'TRN0832', 'TRN1206', 'TRN1207', 'TRN1241', 'TRN1242', 'TRN1244']}
+Sandikli, Turkey; Isparta, Turkey; {'lines': ['TR0530', 'TRN1240']}
+Sandikli, Turkey; Keciborlu, Turkey; {'lines': ['TR0531', 'TR1200', 'TRN0530', 'TRN0532', 'TRN0533', 'TRN0738', 'TRN1200']}
+Sandikli, Turkey; Uluborlu, Turkey; {'lines': ['TRN0571']}
+Foggia, Italy; Manfredonia, Italy; {'lines': ['574']}
+Saint-Jean-de-Luz, France; Bordeaux, France; {'lines': ['783', 'N1157']}
+Saint-Jean-de-Luz, France; Pau, France; {'lines': ['N1155', 'N1156']}
+Saint-Jean-de-Luz, France; Bayonne, France; {'lines': ['N1158']}
+Saint-Jean-de-Luz, France; Bilbao, Spain; {'lines': ['783', 'N1155', 'N1156', 'N1157']}
+Saint-Jean-de-Luz, France; Vitoria-Gasteiz, Spain; {'lines': ['N1158']}
+Saint-Jean-de-Luz, France; Zaragoza, Spain; {'lines': ['K793']}
+Regensburg, Germany; Timisoara, Romania; {'lines': ['1925']}
+Regensburg, Germany; Nuremberg, Germany; {'lines': ['1925']}
+Regensburg, Germany; Passau, Germany; {'lines': ['N881']}
+Vila Praia de Ancora, Portugal; Viana do Castelo, Portugal; {'lines': ['N1154']}
+Vila Praia de Ancora, Portugal; Caminha, Portugal; {'lines': ['N1154']}
+Matera, Italy; Taranto, Italy; {'lines': ['562']}
+Matera, Italy; Altamura, Italy; {'lines': ['562']}
+Izmir, Turkey; Soke, Turkey; {'lines': ['TR0135', 'TR0335', 'TR1152', 'TRN0135', 'TRN0303']}
+Izmir, Turkey; Alasarkoy Mahallesi, Turkey; {'lines': ['TR0135', 'TR0137', 'TR0151', 'TRN0135', 'TRN0162']}
+Izmir, Turkey; Balikesir, Turkey; {'lines': ['TR0136', 'TR0139', 'TR0162', 'TRN0137', 'TRN0139']}
+Izmir, Turkey; Ataturk Mahallesi, Turkey; {'lines': ['TR0136', 'TR0340', 'TRN0109', 'TRN0136', 'TRN0301', 'TRN0318', 'TRN0844']}
+Izmir, Turkey; Aydin, Turkey; {'lines': ['TR0137', 'TR0139', 'TR0144', 'TR0151', 'TR0162', 'TR0300b', 'TR0339', 'TR0342', 'TR0505', 'TR0514', 'TR0900', 'TR0904', 'TR0907', 'TR1104', 'TR1151', 'TRN0103', 'TRN0107', 'TRN0137', 'TRN0138', 'TRN0139', 'TRN0162', 'TRN0370b', 'TRN0508', 'TRN0515']}
+Izmir, Turkey; Anafartalar Mahallesi, Turkey; {'lines': ['TR0144', 'TR0175', 'TR0181', 'TR0191', 'TR0192', 'TR0194', 'TR0315', 'TR0338', 'TR0505', 'TRN0103', 'TRN0107', 'TRN0109', 'TRN0138', 'TRN0181', 'TRN0190', 'TRN0338', 'TRN0515']}
+Izmir, Turkey; Turgutlu, Turkey; {'lines': ['TR0300', 'TR0304', 'TR0315', 'TR0335', 'TR0338', 'TR0339', 'TR0340', 'TR0342', 'TR0370', 'TR0371', 'TR0375', 'TR0837', 'TRN0300', 'TRN0304', 'TRN0318', 'TRN0338', 'TRN0370', 'TRN0375', 'TRN0400', 'TRN0405', 'TRN0406', 'TRN0833', 'TRN0837', 'TRN0842', 'TRN0844', 'TRN0900']}
+Izmir, Turkey; Mermerli Mahallesi, Turkey; {'lines': ['TR0304', 'TRN0304', 'TRN0508']}
+Izmir, Turkey; Ayvalik, Turkey; {'lines': ['TR0514', 'TR1104']}
+Izmir, Turkey; Kusadasi, Turkey; {'lines': ['TR1150']}
+Izmir, Turkey; Istanbul, Turkey; {'lines': ['TRN0136']}
+Izmir, Turkey; Usak, Turkey; {'lines': ['TRN0301', 'TRN0303']}
+Macka, Turkey; Torul, Turkey; {'lines': ['TRN0490']}
+Macka, Turkey; Ortahisar, Turkey; {'lines': ['TRN0490']}
+Linkoping, Sweden; Stockholm, Sweden; {'lines': ['607']}
+Linkoping, Sweden; Norrkoping, Sweden; {'lines': ['601']}
+Linkoping, Sweden; Nykoping, Sweden; {'lines': ['602']}
+Linkoping, Sweden; Jonkoping, Sweden; {'lines': ['601', '602']}
+Linkoping, Sweden; Mjolby, Sweden; {'lines': ['606', '607']}
+Salihli, Turkey; Turgutlu, Turkey; {'lines': ['TR0300', 'TR0304', 'TR0315', 'TR0335', 'TR0338', 'TR0339', 'TR0340', 'TR0342', 'TR0370', 'TR0371', 'TR0375', 'TR0837', 'TRN0300', 'TRN0304', 'TRN0315', 'TRN0318', 'TRN0338', 'TRN0370', 'TRN0375', 'TRN0400', 'TRN0405', 'TRN0406', 'TRN0833', 'TRN0837', 'TRN0842', 'TRN0844', 'TRN0900']}
+Salihli, Turkey; Usak, Turkey; {'lines': ['TR0340', 'TRN0400', 'TRN0406']}
+Salihli, Turkey; Akhisar, Turkey; {'lines': ['TRN0560']}
+Salihli, Turkey; Baklaci, Turkey; {'lines': ['TRN0560']}
+Darende, Turkey; Gurun, Turkey; {'lines': ['TRN0401', 'TRN0405', 'TRN0425', 'TRN0452', 'TRN0466']}
+Darende, Turkey; Yesilyurt, Turkey; {'lines': ['TRN0401', 'TRN0405', 'TRN0425', 'TRN0452', 'TRN0466']}
+Kolomyia, Ukraine; Ivano-Frankivsk, Ukraine; {'lines': ['3241']}
+Kolomyia, Ukraine; Chernivtsі, Ukraine; {'lines': ['3241']}
+Tutak, Turkey; Patnos, Turkey; {'lines': ['TRN0409', 'TRN0431', 'TRN0490']}
+Tutak, Turkey; Yoluguzel, Turkey; {'lines': ['TRN0409', 'TRN0431', 'TRN0490']}
+Bari, Italy; Benevento, Italy; {'lines': ['573']}
+Bari, Italy; Napoli, Italy; {'lines': ['1574']}
+Bari, Italy; Monopoli, Italy; {'lines': ['573', 'N425', 'N436']}
+Bari, Italy; Reggio nell'Emilia, Italy; {'lines': ['N436']}
+Bari, Italy; Polignano a Mare, Italy; {'lines': ['N573']}
+Tefenni, Turkey; Cavdir, Turkey; {'lines': ['TRN0151', 'TRN0314', 'TRN0832']}
+Tefenni, Turkey; Cemil Mahallesi, Turkey; {'lines': ['TRN0151', 'TRN0314', 'TRN0832']}
+Hufingen, Germany; Titisee-Neustadt, Germany; {'lines': ['K997']}
+Hufingen, Germany; Singen (Hohentwiel), Germany; {'lines': ['K997']}
+Sinj, Croatia; Sibenik, Croatia; {'lines': ['K954', '975', 'N975']}
+Sinj, Croatia; Travnik, Bosnia and Herzegovina; {'lines': ['K1950']}
+Novara, Italy; Milano, Italy; {'lines': ['N424', 'N583', 'N95', 'K332']}
+Novara, Italy; Torino, Italy; {'lines': ['N424', 'N583']}
+Odesa, Ukraine; Uman, Ukraine; {'lines': ['N3277']}
+Sevilla, Spain; Huelva, Spain; {'lines': ['785']}
+Inegol, Turkey; Alasarkoy Mahallesi, Turkey; {'lines': ['TR0202', 'TR0203', 'TR0204', 'TR0207', 'TR0209', 'TR0211', 'TR0213', 'TR0260', 'TR0262', 'TR0269', 'TR0500', 'TR0556', 'TR0560', 'TR0808', 'TR1055', 'TR1056', 'TRN0138b', 'TRN0203', 'TRN0209', 'TRN0213', 'TRN0227', 'TRN0260', 'TRN0261', 'TRN0262', 'TRN0263', 'TRN0425', 'TRN0426', 'TRN0427', 'TRN0429', 'TRN0431', 'TRN0500', 'TRN0530', 'TRN0800', 'TRN0804', 'TRN0813', 'TRN0819', 'TRN1056', 'TRN1057']}
+Inegol, Turkey; Bozuyuk, Turkey; {'lines': ['TR0202', 'TR0203', 'TR0204', 'TR0207', 'TR0209', 'TR0211', 'TR0213', 'TR0260', 'TR0262', 'TR0269', 'TR0500', 'TR0556', 'TR0560', 'TR0808', 'TR1055', 'TR1056', 'TRN0138b', 'TRN0227', 'TRN0260', 'TRN0262', 'TRN0263', 'TRN0427', 'TRN0500', 'TRN0530', 'TRN0800', 'TRN0804', 'TRN0816', 'TRN0819', 'TRN0203', 'TRN0209', 'TRN0213', 'TRN0261', 'TRN0425', 'TRN0426', 'TRN0429', 'TRN0431', 'TRN0813', 'TRN1056', 'TRN1057']}
+Inegol, Turkey; Ahmetvefikpasa Mahallesi, Turkey; {'lines': ['TRN0816']}
+Keciborlu, Turkey; Cemil Mahallesi, Turkey; {'lines': ['TR0531', 'TRN0533']}
+Keciborlu, Turkey; Isparta, Turkey; {'lines': ['TR1200', 'TRN0530', 'TRN0532', 'TRN0738', 'TRN1200']}
+Vila Nova de Cerveira, Portugal; Caminha, Portugal; {'lines': ['N1154']}
+Vila Nova de Cerveira, Portugal; Valencia, Spain; {'lines': ['N1154']}
+Tandarei, Romania; Braila, Romania; {'lines': ['1942']}
+Tandarei, Romania; Slobozia, Romania; {'lines': ['1942']}
+Senj, Croatia; Zadar, Croatia; {'lines': ['941']}
+Senj, Croatia; Crikvenica, Croatia; {'lines': ['941']}
+Aix-en-Provence, France; Marseille, France; {'lines': ['1922', '739', 'N708']}
+Aix-en-Provence, France; Grenoble, France; {'lines': ['739']}
+Aix-en-Provence, France; Avignon, France; {'lines': ['1922']}
+Aix-en-Provence, France; Nimes, France; {'lines': ['768']}
+Aix-en-Provence, France; Cannes, France; {'lines': ['768', '799']}
+Aix-en-Provence, France; Valence, France; {'lines': ['799']}
+Aix-en-Provence, France; Vilobi� d'Onyar, Spain; {'lines': ['N708']}
+Afyonkarahisar, Turkey; Usak, Turkey; {'lines': ['TRN0303', 'TRN0318', 'TRN0375', 'TRN0400', 'TRN0406', 'TRN0844']}
+Afyonkarahisar, Turkey; Ankara, Turkey; {'lines': ['TRN0105', 'TRN0318', 'TRN0375', 'TRN0400', 'TRN0844']}
+Afyonkarahisar, Turkey; Polatli, Turkey; {'lines': ['TR0300', 'TR0300b', 'TR0301', 'TR0304', 'TR0307', 'TR0315', 'TR0375', 'TR0837', 'TR1200', 'TR1201', 'TR1244', 'TRN0300', 'TRN0301', 'TRN0303', 'TRN0304', 'TRN0314', 'TRN0315', 'TRN0372', 'TRN0406', 'TRN0734', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0837', 'TRN0840', 'TRN1200', 'TRN1201', 'TRN1206', 'TRN1207', 'TRN1241', 'TRN1242', 'TRN1244']}
+Afyonkarahisar, Turkey; seker Mahallesi, Turkey; {'lines': ['TR0500', 'TR0570', 'TRN0500', 'TRN0530', 'TRN1240']}
+Afyonkarahisar, Turkey; Babadat, Turkey; {'lines': ['TRN0738', 'TRN0842']}
+Afyonkarahisar, Turkey; Banaz, Turkey; {'lines': ['TR0300', 'TR0304', 'TR0315', 'TR0370', 'TR0371', 'TR0375', 'TR0837', 'TRN0300', 'TRN0301', 'TRN0304', 'TRN0315', 'TRN0405', 'TRN0833', 'TRN0837', 'TRN0842']}
+Afyonkarahisar, Turkey; Caycuma, Turkey; {'lines': ['TR0370', 'TR0371', 'TR1055', 'TR1056', 'TRN0405', 'TRN1056', 'TRN1057']}
+Afyonkarahisar, Turkey; Ekinhisar, Turkey; {'lines': ['TR0500', 'TR0531', 'TR1200', 'TR1201', 'TR1244', 'TRN0105', 'TRN0314', 'TRN0372', 'TRN0500', 'TRN0531', 'TRN0532', 'TRN0533', 'TRN0734', 'TRN0832', 'TRN0840', 'TRN1201', 'TRN1206', 'TRN1207', 'TRN1240', 'TRN1241', 'TRN1242', 'TRN1244']}
+Mecitozu, Turkey; Corum, Turkey; {'lines': ['TRN0227']}
+Rennes, France; Paris, France; {'lines': ['1782']}
+Rennes, France; Massy, France; {'lines': ['N702']}
+Rennes, France; Nantes, France; {'lines': ['1923', 'N1158', 'N701']}
+Rennes, France; Lorient, France; {'lines': ['1782']}
+Rennes, France; Saint-Malo, France; {'lines': ['N701']}
+Gandia, Spain; Valence, France; {'lines': ['N1131']}
+Gandia, Spain; Benidorm, Spain; {'lines': ['N1131']}
+Stare Mesto, Czech Republic; Prague, Czech Republic; {'lines': ['853']}
+Stare Mesto, Czech Republic; Tabor, Czech Republic; {'lines': ['853']}
+Lorient, France; Quimper, France; {'lines': ['1782', 'N702']}
+Civril, Turkey; Usak, Turkey; {'lines': ['TRN0138b']}
+Civril, Turkey; Dinar, Turkey; {'lines': ['TRN0900']}
+Civril, Turkey; Pinarbasi, Turkey; {'lines': ['TRN0900']}
+Caycuma, Turkey; Usak, Turkey; {'lines': ['TRN0370']}
+Caycuma, Turkey; Tuzcular, Turkey; {'lines': ['TR0191', 'TR0637', 'TR0642', 'TR0704', 'TR0705', 'TR0706', 'TRN0105', 'TRN0109', 'TRN0637', 'TRN0642', 'TRN0704', 'TRN0890', 'TRN1241']}
+Caycuma, Turkey; Gokcebey, Turkey; {'lines': ['TR0191', 'TR0642', 'TR0706', 'TRN0637', 'TRN0642', 'TRN1241']}
+Caycuma, Turkey; Devrek, Turkey; {'lines': ['TR0637', 'TR0704', 'TR0705', 'TRN0105', 'TRN0109', 'TRN0704']}
+Caycuma, Turkey; Zonguldak, Turkey; {'lines': ['TRN0890']}
+Caycuma, Turkey; Dinar, Turkey; {'lines': ['TRN0374', 'TRN0402', 'TRN0409']}
+Caycuma, Turkey; Adsiz, Turkey; {'lines': ['TR0370', 'TR0371', 'TR1030', 'TR1055', 'TR1056', 'TRN0370', 'TRN0374', 'TRN0402', 'TRN0405', 'TRN0409', 'TRN1056', 'TRN1057']}
+Caycuma, Turkey; Bolvadin, Turkey; {'lines': ['TR1030']}
+Findikli, Turkey; Arhavi, Turkey; {'lines': ['TRN0738', 'TRN0816', 'TRN0842', 'TRN0866', 'TRN0887']}
+Findikli, Turkey; Ardesen, Turkey; {'lines': ['TRN0738', 'TRN0816', 'TRN0842', 'TRN0866', 'TRN0887']}
+Brussels, Belgium; Bucharest, Romania; {'lines': ['1940']}
+Brussels, Belgium; Razgrad, Bulgaria; {'lines': ['1940']}
+Montpellier, France; Lyon, France; {'lines': ['N788']}
+Montpellier, France; Marseille, France; {'lines': ['N728', '1728']}
+Montpellier, France; Avignon, France; {'lines': ['K903']}
+Montpellier, France; Narbonne, France; {'lines': ['1728', '768', 'N1155']}
+Montpellier, France; Nimes, France; {'lines': ['1922', '768', '788', 'N1155', 'N748']}
+Montpellier, France; Beziers, France; {'lines': ['1922']}
+Montpellier, France; Perpignan, France; {'lines': ['788', 'N740', 'N788']}
+Montpellier, France; Toulouse, France; {'lines': ['N701', 'N748']}
+Montpellier, France; Barcelona, Spain; {'lines': ['N728']}
+Montpellier, France; Grenoble, France; {'lines': ['N740']}
+Asikpasa Mahallesi, Turkey; Mucur, Turkey; {'lines': ['TR0240', 'TR0260', 'TR0262', 'TR0275', 'TR0277b', 'TR0375', 'TR0450', 'TRN0260', 'TRN0261', 'TRN0262', 'TRN0275b', 'TRN0372', 'TRN0375', 'TRN0425', 'TRN0450', 'TRN0452', 'TRN0466']}
+Asikpasa Mahallesi, Turkey; Kizilca, Turkey; {'lines': ['TRN0261', 'TRN0262']}
+Cerignola, Italy; Benevento, Italy; {'lines': ['562']}
+Cerignola, Italy; Altamura, Italy; {'lines': ['562']}
+Harmancik, Turkey; Gumushane, Turkey; {'lines': ['TRN0490']}
+Harmancik, Turkey; Torul, Turkey; {'lines': ['TRN0490']}
+Cascais, Portugal; Lisboa, Portugal; {'lines': ['CES014', 'N793']}
+Cascais, Portugal; Santa Maria Maior, Portugal; {'lines': ['N793']}
+Alanya, Turkey; Korkuteli, Turkey; {'lines': ['TR0514', 'TRN0401']}
+Alanya, Turkey; Isparta, Turkey; {'lines': ['TR0530', 'TR0535', 'TR1200', 'TRN0401', 'TRN0530', 'TRN0532', 'TRN0738', 'TRN1200', 'TRN1240']}
+Alanya, Turkey; Serik, Turkey; {'lines': ['TR0531', 'TR1244', 'TR1290', 'TRN0480', 'TRN0500', 'TRN0508', 'TRN0515', 'TRN0531', 'TRN0734', 'TRN1207', 'TRN1241', 'TRN1242', 'TRN1244', 'TRN1290']}
+Alanya, Turkey; Belek, Turkey; {'lines': ['TR0500', 'TRN1206']}
+Alanya, Turkey; Bucak, Turkey; {'lines': ['TR0500', 'TR0531', 'TR1201', 'TR1244', 'TRN0481', 'TRN0500', 'TRN0531', 'TRN0533', 'TRN0734', 'TRN0900', 'TRN1201', 'TRN1206', 'TRN1207', 'TRN1241', 'TRN1242', 'TRN1244']}
+Alanya, Turkey; Kemer, Turkey; {'lines': ['TR1201', 'TRN0532', 'TRN0533', 'TRN1201']}
+Alanya, Turkey; Yassihuyuk, Turkey; {'lines': ['TRN0508', 'TRN0515']}
+Alanya, Turkey; Manavgat, Turkey; {'lines': ['TR0500', 'TR0531', 'TR0900', 'TR1202', 'TR1244', 'TRN0500', 'TRN0508', 'TRN0515', 'TRN0531', 'TRN1202', 'TRN1206', 'TRN1244']}
+Bratislava, Slovensko; Budapest, Hungary; {'lines': ['1926']}
+Bratislava, Slovensko; Brno, Czech Republic; {'lines': ['1926']}
+Bratislava, Slovensko; Presov, Slovensko; {'lines': ['CCZ047']}
+Bratislava, Slovensko; zilina, Slovensko; {'lines': ['CCZ048', 'CCZ061']}
+Bratislava, Slovensko; Kosice, Slovensko; {'lines': ['CCZ049']}
+Bratislava, Slovensko; Gyor, Hungary; {'lines': ['CCZ050']}
+Bratislava, Slovensko; okres Nitra, Slovensko; {'lines': ['K811', 'K814', 'CCZ058']}
+Razgrad, Bulgaria; Shumen, Bulgaria; {'lines': ['1940']}
+Bozuyuk, Turkey; Hanli, Turkey; {'lines': ['TR0530', 'TRN0532']}
+Bozuyuk, Turkey; Bilecik, Turkey; {'lines': ['TR0531', 'TRN0531', 'TRN0533', 'TRN0571', 'TRN1240', 'TR0338', 'TR0555', 'TR0570', 'TR1030', 'TRN0338', 'TRN0558']}
+Bozuyuk, Turkey; seker Mahallesi, Turkey; {'lines': ['TR0202', 'TR0203', 'TR0204', 'TR0207', 'TR0209', 'TR0211', 'TR0260', 'TR0262', 'TR0269', 'TR0338', 'TR0500', 'TR0555', 'TR0570', 'TR0808', 'TR1030', 'TRN0138b', 'TRN0203', 'TRN0209', 'TRN0213', 'TRN0227', 'TRN0260', 'TRN0261', 'TRN0262', 'TRN0263', 'TRN0338', 'TRN0425', 'TRN0426', 'TRN0427', 'TRN0429', 'TRN0431', 'TRN0500', 'TRN0530', 'TRN0800', 'TRN0804', 'TRN0813', 'TRN0816', 'TRN0819', 'TRN1240']}
+Bozuyuk, Turkey; Babadat, Turkey; {'lines': ['TR0213']}
+Kristinehamn, Sweden; Karlskoga, Sweden; {'lines': ['600']}
+Hamburg, Germany; Bremen, Germany; {'lines': ['1926', 'N881']}
+Hamburg, Germany; Hanover, Germany; {'lines': ['N1962', 'N1972']}
+Guarda, Portugal; Vilar Formoso, Portugal; {'lines': ['N1152']}
+Guarda, Portugal; Celorico da Beira, Portugal; {'lines': ['N1152']}
+Bolu, Turkey; Istanbul, Turkey; {'lines': ['TRN0638']}
+Bolu, Turkey; Duzce, Turkey; {'lines': ['TR0194', 'TR0277b', 'TR0291', 'TR0636', 'TR0637', 'TR0638', 'TR0647', 'TR0648', 'TR0701', 'TR0880', 'TR1244', 'TRN0275b', 'TRN0466', 'TRN0648', 'TRN0701', 'TRN0888', 'TRN1244']}
+Bolu, Turkey; Mengen, Turkey; {'lines': ['TR0191']}
+Bolu, Turkey; Karabuk, Turkey; {'lines': ['TR0194', 'TR0636', 'TR0638', 'TR0647', 'TR0648', 'TRN0107', 'TRN0190', 'TRN0638', 'TRN0647', 'TRN0648']}
+Bolu, Turkey; Ankara, Turkey; {'lines': ['TR0276b', 'TR0277b', 'TR0291', 'TR0701', 'TR1244', 'TRN0275b', 'TRN0466', 'TRN0467', 'TRN0701', 'TRN1244']}
+Bolu, Turkey; Yenicaga, Turkey; {'lines': ['TR0637', 'TR0642', 'TRN0109', 'TRN0637', 'TRN0642']}
+Bolu, Turkey; Kosen, Turkey; {'lines': ['TR0880', 'TRN0285', 'TRN0801']}
+Bolu, Turkey; Elmalik, Turkey; {'lines': ['TRN0107', 'TRN0190', 'TRN0467', 'TRN0468', 'TRN0647', 'TRN0801', 'TRN0887', 'TRN0888']}
+Bolu, Turkey; Sarpinkavak, Turkey; {'lines': ['TRN0468']}
+Bolu, Turkey; Tosya, Turkey; {'lines': ['TRN0887']}
+Cine, Turkey; Yatagan, Turkey; {'lines': ['TR0137', 'TR0139', 'TR0144', 'TR0151', 'TR0342', 'TR1104', 'TR1151', 'TRN0103', 'TRN0105', 'TRN0107', 'TRN0137', 'TRN0138', 'TRN0138b', 'TRN0139', 'TRN0402', 'TRN0836', 'TRN0840']}
+Cine, Turkey; Aydin, Turkey; {'lines': ['TR0137', 'TR0139', 'TR0144', 'TR0151', 'TR0342', 'TR1104', 'TR1151', 'TRN0103', 'TRN0105', 'TRN0107', 'TRN0137', 'TRN0138', 'TRN0138b', 'TRN0139', 'TRN0402', 'TRN0836', 'TRN0840']}
+Kapakli, Turkey; Istasyon Mahallesi, Turkey; {'lines': ['TR0680']}
+Kapakli, Turkey; Saray, Turkey; {'lines': ['TR0680']}
+Constanta, Romania; Tulcea, Romania; {'lines': ['1941']}
+Constanta, Romania; Medgidia, Romania; {'lines': ['1941']}
+Aziziye, Turkey; Lapseki, Turkey; {'lines': ['TR0204', 'TR0209', 'TR0603', 'TR1056', 'TRN0209', 'TRN0227', 'TRN0261', 'TRN0263', 'TRN0431', 'TRN0800', 'TRN0813', 'TRN1056']}
+Aziziye, Turkey; Can, Turkey; {'lines': ['TR0213', 'TR0609', 'TRN0213', 'TRN0515', 'TRN0609']}
+Aziziye, Turkey; Gonen, Turkey; {'lines': ['TR0213', 'TR0609', 'TRN0213', 'TRN0261', 'TRN0515', 'TRN0609']}
+Messina, Italy; Taormina, Italy; {'lines': ['582']}
+Messina, Italy; Catania, Italy; {'lines': ['N528']}
+Ortaca, Turkey; Dalaman, Turkey; {'lines': ['TR0144', 'TR0151', 'TR0342', 'TR1104', 'TRN0103', 'TRN0138', 'TRN0138b', 'TRN0314', 'TRN0832']}
+Brsadin, Croatia; Borova, Croatia; {'lines': ['K928']}
+Brsadin, Croatia; Nustar, Croatia; {'lines': ['K928']}
+Tosya, Turkey; Kosen, Turkey; {'lines': ['TRN0887']}
+Fafe, Portugal; Vila Pouca de Aguiar, Portugal; {'lines': ['N1153']}
+Bulancak, Turkey; Piraziz, Turkey; {'lines': ['TR0880', 'TRN0490', 'TRN0738', 'TRN0801', 'TRN0804', 'TRN0832', 'TRN0833', 'TRN0842', 'TRN0866', 'TRN0880', 'TRN0888', 'TRN0890']}
+Bulancak, Turkey; Giresun, Turkey; {'lines': ['TR0880', 'TRN0490', 'TRN0738', 'TRN0761', 'TRN0764', 'TRN0800', 'TRN0804', 'TRN0833', 'TRN0836', 'TRN0842', 'TRN0866', 'TRN0880', 'TRN0882']}
+Tours, France; Paris, France; {'lines': ['790']}
+Tours, France; Bordeaux, France; {'lines': ['N1150']}
+Tours, France; Angers, France; {'lines': ['1923']}
+Tours, France; Vivy, France; {'lines': ['N724']}
+Torino, Italy; Milano, Italy; {'lines': ['402', '480', '729', 'N1526', 'N425', 'N528', 'N729', 'N740']}
+Torino, Italy; Grenoble, France; {'lines': ['N740']}
+Torino, Italy; Chambery, France; {'lines': ['729']}
+Torino, Italy; Oulx, Italy; {'lines': ['N729']}
+Burhaniye, Turkey; Ayvalik, Turkey; {'lines': ['TR0514', 'TR1104', 'TRN0508']}
+Burhaniye, Turkey; Edremit, Turkey; {'lines': ['TR0141', 'TR0143', 'TR0207', 'TR0514', 'TR1104', 'TRN0141', 'TRN0508', 'TRN0819']}
+Burhaniye, Turkey; Gomec, Turkey; {'lines': ['TR0141', 'TR0143', 'TR0207', 'TRN0141', 'TRN0819']}
+Celorico da Beira, Portugal; Viseu, Portugal; {'lines': ['N1152']}
+Albufeira e Olhos de Agua, Portugal; Lisboa, Portugal; {'lines': ['1010', '785']}
+Albufeira e Olhos de Agua, Portugal; Faro, Portugal; {'lines': ['1010']}
+Albufeira e Olhos de Agua, Portugal; Montenegro, Portugal; {'lines': ['785']}
+Suceava, Romania; Botosani, Romania; {'lines': ['1949']}
+Sinop, Turkey; Gerze, Turkey; {'lines': ['TR0194', 'TR0647', 'TRN0107', 'TRN0647', 'TRN0648']}
+Sinop, Turkey; Erfelek, Turkey; {'lines': ['TR0647', 'TRN0647', 'TRN0648']}
+Vigo, Spain; Braga, Portugal; {'lines': ['1783', '783']}
+Vigo, Spain; Santiago de Compostela, Spain; {'lines': ['783']}
+Vigo, Spain; Pontevedra, Spain; {'lines': ['CES062', 'K1783']}
+Vila Pouca de Aguiar, Portugal; Pedras Salgadas, Portugal; {'lines': ['N1153']}
+Iznik, Turkey; Orhangazi, Turkey; {'lines': ['TR0612']}
+Iznik, Turkey; Yenisehir, Turkey; {'lines': ['TR0612']}
+Gumushane, Turkey; Bayburt, Turkey; {'lines': ['TRN0490']}
+Ostrava, Czech Republic; Bohumin, Czech Republic; {'lines': ['CUA025']}
+Kicevo, Makedonija; Gostivar, Makedonija; {'lines': ['K1903', 'K1905', 'K1906', 'K1914']}
+Kicevo, Makedonija; Struga, Makedonija; {'lines': ['K1903', 'K1914']}
+Kicevo, Makedonija; Tirana, Albania; {'lines': ['K1906']}
+Zavidovici, Bosnia and Herzegovina; Munich, Germany; {'lines': ['N1972']}
+Zavidovici, Bosnia and Herzegovina; Zagreb, Croatia; {'lines': ['K943']}
+Zavidovici, Bosnia and Herzegovina; Zenica, Bosnia and Herzegovina; {'lines': ['K845']}
+Zavidovici, Bosnia and Herzegovina; Zepce, Bosnia and Herzegovina; {'lines': ['CHR007', 'K942', 'K943', 'K946', 'N1971', 'N1972', 'N971']}
+Zavidovici, Bosnia and Herzegovina; Slavonski Brod, Croatia; {'lines': ['CHR007']}
+Zavidovici, Bosnia and Herzegovina; Doboj, Bosnia and Herzegovina; {'lines': ['K845', 'K942', 'K946', 'N1971', 'N971']}
+Salerno, Italy; Potenza, Italy; {'lines': ['581', 'N528']}
+Salerno, Italy; Napoli, Italy; {'lines': ['581', 'N528']}
+Salerno, Italy; Benevento, Italy; {'lines': ['N424']}
+Ravensburg, Germany; Friedrichshafen, Germany; {'lines': ['K997']}
+Ravensburg, Germany; Wangen im Allgau, Germany; {'lines': ['K997']}
+Hacibektas merkez, Turkey; Kayseri, Turkey; {'lines': ['TRN0402']}
+Hacibektas merkez, Turkey; Mucur, Turkey; {'lines': ['TR0277b', 'TR0375', 'TRN0375']}
+Hacibektas merkez, Turkey; Cumhuriyet Mahallesi, Turkey; {'lines': ['TRN0402']}
+Bystrice, Czech Republic; Prague, Czech Republic; {'lines': ['K817']}
+Bystrice, Czech Republic; Tabor, Czech Republic; {'lines': ['K817']}
+Cihanbeyli, Turkey; Kulu, Turkey; {'lines': ['TR0242', 'TR0243', 'TR0765', 'TR1202', 'TRN0242', 'TRN0243', 'TRN0764', 'TRN0765', 'TRN1030', 'TRN1202']}
+Cihanbeyli, Turkey; Selcuklu, Turkey; {'lines': ['TR0242', 'TR0243', 'TR0765', 'TR1202', 'TRN0242', 'TRN0243', 'TRN0764', 'TRN0765', 'TRN1030', 'TRN1202']}
+Montana, Bulgaria; Negotin, Serbia; {'lines': ['1950']}
+Montana, Bulgaria; Sofia, Bulgaria; {'lines': ['1950']}
+Vahrn - Varna, Italy; Venezia, Italy; {'lines': ['K412']}
+Vahrn - Varna, Italy; Bozen, Italy; {'lines': ['486']}
+Vahrn - Varna, Italy; Seefeld in Tirol, Austria; {'lines': ['486']}
+Ataturk Mahallesi, Turkey; Kusadasi, Turkey; {'lines': ['TR0136', 'TR0301', 'TR0340', 'TRN0109', 'TRN0136', 'TRN0301', 'TRN0318', 'TRN0844']}
+Ataturk Mahallesi, Turkey; Aydin, Turkey; {'lines': ['TR0301']}
+Santiago de Compostela, Spain; A Coruna, Spain; {'lines': ['783', 'CES062', 'K1783']}
+Santiago de Compostela, Spain; Pontevedra, Spain; {'lines': ['CES062', 'K1783']}
+Nova Gradiska, Croatia; Sisak, Croatia; {'lines': ['K1958a', 'K1958b', 'N952']}
+Nova Gradiska, Croatia; Slavonski Brod, Croatia; {'lines': ['K1958a', 'K1958b', 'N952']}
+San Benedetto del Tronto, Italy; Teramo, Italy; {'lines': ['556', '551']}
+San Benedetto del Tronto, Italy; Civitanova Marche, Italy; {'lines': ['556', '1553', '1554', '551']}
+Tatkavakli, Turkey; Alasarkoy Mahallesi, Turkey; {'lines': ['TR0141', 'TR0144', 'TR0178', 'TR0181', 'TR0191', 'TR0192', 'TR0194', 'TR0203', 'TR0207', 'TR0262', 'TR0269', 'TR0602', 'TR0610', 'TR1055', 'TRN0103', 'TRN0107', 'TRN0138', 'TRN0178', 'TRN0181', 'TRN0190', 'TRN0203', 'TRN0262', 'TRN0425', 'TRN0426', 'TRN0427', 'TRN0429', 'TRN0560', 'TRN0801', 'TRN0819', 'TRN1057']}
+Tatkavakli, Turkey; Orta Mahallesi, Turkey; {'lines': ['TR0141', 'TR0144', 'TR0178', 'TR0181', 'TR0191', 'TR0192', 'TR0203', 'TR0262', 'TR0269', 'TR0602', 'TR0610', 'TR1055', 'TRN0138', 'TRN0178', 'TRN0181', 'TRN0426', 'TRN0427', 'TRN0560', 'TRN0801']}
+Tatkavakli, Turkey; Havza, Turkey; {'lines': ['TR0765', 'TR0808', 'TR0837', 'TR0858', 'TR0880', 'TRN0734', 'TRN0738', 'TRN0761', 'TRN0764', 'TRN0765', 'TRN0800', 'TRN0801', 'TRN0804', 'TRN0813', 'TRN0816', 'TRN0819', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0837', 'TRN0840', 'TRN0842', 'TRN0844', 'TRN0858', 'TRN0866', 'TRN0880', 'TRN0887', 'TRN0888', 'TRN0890']}
+Tatkavakli, Turkey; Samsun, Turkey; {'lines': ['TR0765', 'TR0808', 'TR0837', 'TR0858', 'TR0880', 'TRN0734', 'TRN0738', 'TRN0761', 'TRN0764', 'TRN0765', 'TRN0800', 'TRN0801', 'TRN0804', 'TRN0813', 'TRN0816', 'TRN0819', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0837', 'TRN0840', 'TRN0842', 'TRN0844', 'TRN0858', 'TRN0866', 'TRN0880', 'TRN0887', 'TRN0888', 'TRN0890']}
+Genf, Switzerland; Geneve, Switzerland; {'lines': ['N1156']}
+Genf, Switzerland; Annecy, France; {'lines': ['N1156']}
+Yildizeli, Turkey; Akdagmadeni, Turkey; {'lines': ['TR0451', 'TRN0427', 'TRN0429', 'TRN0431', 'TRN0451', 'TRN0465b', 'TRN0467', 'TRN0467b']}
+Yildizeli, Turkey; Sivas Belediyesi, Turkey; {'lines': ['TR0451', 'TRN0427', 'TRN0429', 'TRN0431', 'TRN0451', 'TRN0465b', 'TRN0467', 'TRN0467b']}
+Massy, France; Paris, France; {'lines': ['1755', 'N702', 'N703', 'N707', 'N709', 'N719', 'N723', '1923', '727', 'N705', 'N1150', 'N1153', 'N1152']}
+Massy, France; Bordeaux, France; {'lines': ['N703']}
+Massy, France; Lyon, France; {'lines': ['N709', 'N719']}
+Massy, France; Le Mans, France; {'lines': ['N723']}
+Ploiesti, Romania; Bucharest, Romania; {'lines': ['1921', '1922', '1923', '1925', '1926', '1929', 'N959']}
+Ploiesti, Romania; Buzau, Romania; {'lines': ['1943']}
+Ploiesti, Romania; Brasov, Romania; {'lines': ['N959']}
+Ploiesti, Romania; Pitesti, Romania; {'lines': ['1946']}
+Travnik, Bosnia and Herzegovina; Zenica, Bosnia and Herzegovina; {'lines': ['CHR007']}
+Travnik, Bosnia and Herzegovina; Banja Luka, Bosnia and Herzegovina; {'lines': ['K1950']}
+Doboj, Bosnia and Herzegovina; Slavonski Brod, Croatia; {'lines': ['K845', 'K942', 'K946', 'N1971', 'N971']}
+Alapli, Turkey; Dongelli, Turkey; {'lines': ['TR0192', 'TR0635', 'TR0646', 'TR0671', 'TR0701', 'TR1244', 'TRN0103', 'TRN0635', 'TRN0646', 'TRN0701', 'TRN1240', 'TRN1244']}
+Alapli, Turkey; Soganliyuruk, Turkey; {'lines': ['TR0192', 'TR0635', 'TR0646', 'TR0671', 'TR0701', 'TR1244', 'TRN0103', 'TRN0635', 'TRN0646', 'TRN0701', 'TRN1240', 'TRN1244']}
+Avila, Spain; Salamanca, Spain; {'lines': ['N795']}
+Avila, Spain; Madrid, Spain; {'lines': ['N795']}
+Novohrad-Volynskyi, Ukraine; Rivne, Ukraine; {'lines': ['N3300']}
+Novohrad-Volynskyi, Ukraine; Zhitomir, Ukraine; {'lines': ['N3300']}
+Elk, Poland; Augustow, Poland; {'lines': ['K321']}
+Elk, Poland; Grajewo, Poland; {'lines': ['K321']}
+Merzifon, Turkey; Sarpinkavak, Turkey; {'lines': ['TRN0468', 'TRN0880']}
+Merzifon, Turkey; Corum, Turkey; {'lines': ['TR0762', 'TR0765', 'TR0808', 'TR0837', 'TR0858', 'TRN0318', 'TRN0734', 'TRN0738', 'TRN0761', 'TRN0764', 'TRN0765', 'TRN0800', 'TRN0804', 'TRN0813', 'TRN0816', 'TRN0819', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0837', 'TRN0840', 'TRN0842', 'TRN0844', 'TRN0858', 'TRN0866', 'TRN1206']}
+Merzifon, Turkey; Suluova, Turkey; {'lines': ['TR0762', 'TRN0285', 'TRN0318', 'TRN0468', 'TRN1206']}
+Merzifon, Turkey; Havza, Turkey; {'lines': ['TR0765', 'TR0808', 'TR0837', 'TR0858', 'TR0880', 'TRN0734', 'TRN0738', 'TRN0761', 'TRN0764', 'TRN0765', 'TRN0800', 'TRN0801', 'TRN0804', 'TRN0813', 'TRN0816', 'TRN0819', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0837', 'TRN0840', 'TRN0842', 'TRN0844', 'TRN0858', 'TRN0866', 'TRN0880', 'TRN0887', 'TRN0888', 'TRN0890']}
+Merzifon, Turkey; Osmancik, Turkey; {'lines': ['TR0880', 'TRN0285', 'TRN0801', 'TRN0887', 'TRN0888', 'TRN0890']}
+Ezine, Turkey; Kucukkuyu, Turkey; {'lines': ['TR0514', 'TR1104', 'TRN0508']}
+Ezine, Turkey; Canakkale, Turkey; {'lines': ['TR0209', 'TR0514', 'TR0603', 'TR1104', 'TRN0209', 'TRN0508', 'TRN0603']}
+Emirdag, Turkey; seker Mahallesi, Turkey; {'lines': ['TR1030']}
+Emirdag, Turkey; Bolvadin, Turkey; {'lines': ['TR1030']}
+Bodrum, Turkey; Guvercinlik, Turkey; {'lines': ['TR0135', 'TR0335', 'TRN0135', 'TRN0303', 'TRN0402', 'TRN0409']}
+Bodrum, Turkey; Milas, Turkey; {'lines': ['TR1152', 'TRN0105', 'TRN0836', 'TRN0840']}
+Targu Jiu, Romania; Kladovo, Serbia; {'lines': ['1948']}
+Targu Jiu, Romania; Bumbesti-Jiu, Romania; {'lines': ['1948']}
+Gokcebey, Turkey; Devrek, Turkey; {'lines': ['TR0191', 'TR0642', 'TR0706', 'TRN0242', 'TRN0637', 'TRN0642', 'TRN1241']}
+Gokcebey, Turkey; Zonguldak, Turkey; {'lines': ['TRN0242']}
+Ingolstadt, Germany; Munich, Germany; {'lines': ['N1962', 'N1972', 'N3203']}
+Ingolstadt, Germany; Nuremberg, Germany; {'lines': ['N1962', 'N1972', 'N3203']}
+Musla, Turkey; Yatagan, Turkey; {'lines': ['TR0137', 'TR0139', 'TR0144', 'TR0151', 'TR0342', 'TR1104', 'TR1151', 'TRN0103', 'TRN0107', 'TRN0137', 'TRN0138', 'TRN0138b', 'TRN0139']}
+Musla, Turkey; Gokova, Turkey; {'lines': ['TR0137', 'TR0139', 'TR0144', 'TR0307', 'TR0342', 'TR1104', 'TR1151', 'TRN0103', 'TRN0107', 'TRN0137', 'TRN0138', 'TRN0138b', 'TRN0139', 'TRN0374']}
+Musla, Turkey; Kale, Turkey; {'lines': ['TR0307', 'TRN0374']}
+Quimper, France; Brest, France; {'lines': ['N702']}
+Arcos de Valdevez, Portugal; Ponte da Barca, Portugal; {'lines': ['N1153']}
+Marmaris, Turkey; Gokova, Turkey; {'lines': ['TR0137', 'TR0139', 'TR0307', 'TR1151', 'TRN0107', 'TRN0137', 'TRN0139', 'TRN0374']}
+Marmaris, Turkey; Datca, Turkey; {'lines': ['TR0137', 'TR0307', 'TRN0139']}
+Darmstadt, Germany; Mannheim, Germany; {'lines': ['K1905']}
+Darmstadt, Germany; Frankfurt/Main, Germany; {'lines': ['K1905', 'N3202']}
+Gevas, Turkey; Van, Turkey; {'lines': ['TRN0401', 'TRN0405', 'TRN0425', 'TRN0452', 'TRN0466']}
+Sankt Michael in Obersteiermark, Austria; Slavonski Brod, Croatia; {'lines': ['K942']}
+Sankt Michael in Obersteiermark, Austria; Liezen, Austria; {'lines': ['K942']}
+Augustow, Poland; Vilnius, Lithuania; {'lines': ['K1860']}
+Augustow, Poland; Suwalki, Poland; {'lines': ['K321', 'N1229']}
+Crotone, Italy; Rossano, Italy; {'lines': ['581', '589', 'N582', 'N583']}
+Oslo, Norway; Uddevalla, Sweden; {'lines': ['613']}
+Oslo, Norway; Sarpsborg, Norway; {'lines': ['N613']}
+Ramnicu Valcea, Romania; Sibiu, Romania; {'lines': ['1946']}
+Ramnicu Valcea, Romania; Pitesti, Romania; {'lines': ['1946']}
+Lugoj, Romania; Deva, Romania; {'lines': ['N959']}
+Lugoj, Romania; Timisoara, Romania; {'lines': ['1950', 'N959']}
+Lugoj, Romania; Kladovo, Serbia; {'lines': ['1950']}
+Rizziconi, Italy; Francavilla Angitola, Italy; {'lines': ['582', 'N1526']}
+Toulouse, France; Narbonne, France; {'lines': ['768', '1922', 'N1155']}
+Toulouse, France; Nimes, France; {'lines': ['N1156']}
+Toulouse, France; Perpignan, France; {'lines': ['721']}
+Toulouse, France; Le Passage, France; {'lines': ['1922', '721', 'N701']}
+Toulouse, France; Tarbes, France; {'lines': ['N1155']}
+Toulouse, France; Pau, France; {'lines': ['N1156']}
+Toulouse, France; Vielha e Mijaran, Spain; {'lines': ['N748']}
+Toulouse, France; Brive-la-Gaillarde, France; {'lines': ['716']}
+Toulouse, France; Limoges, France; {'lines': ['N705']}
+Deva, Romania; Sibiu, Romania; {'lines': ['N959']}
+Deva, Romania; Arad, Romania; {'lines': ['1921', '1922', '1923', '1925', '1926', '1929']}
+Grosseto, Italy; Siena, Italy; {'lines': ['K1902']}
+Grosseto, Italy; Viterbo, Italy; {'lines': ['K1902']}
+Bucharest, Romania; Fetesti, Romania; {'lines': ['1941']}
+Bucharest, Romania; Chisinau, Moldova; {'lines': ['CRO035']}
+Radom, Poland; Warsaw, Poland; {'lines': ['CUA019', 'CUA020', '1261A', 'N1261']}
+Radom, Poland; Kielce, Poland; {'lines': ['1261A', 'N1261']}
+Radom, Poland; Rivne, Ukraine; {'lines': ['CUA019', 'CUA020']}
+Dessau, Germany; Halle (Saale), Germany; {'lines': ['N3201']}
+Peso da Regua, Portugal; Vila Real, Portugal; {'lines': ['CES013']}
+Peso da Regua, Portugal; Lamego, Portugal; {'lines': ['CES013']}
+Granada, Spain; Jaen, Spain; {'lines': ['N1158']}
+Granada, Spain; Malaga, Spain; {'lines': ['N1158']}
+Zlatar, Croatia; Zagreb, Croatia; {'lines': ['885', '936a', '936c', 'CHR029']}
+Lleida, Spain; Barcelona, Spain; {'lines': ['K793', 'CES028']}
+Lleida, Spain; Zaragoza, Spain; {'lines': ['K793']}
+Dijon, France; Auxerre, France; {'lines': ['759', 'N759']}
+Dijon, France; Macon, France; {'lines': ['730']}
+Dijon, France; Lons-le-Saunier, France; {'lines': ['759']}
+Dijon, France; Besancon, France; {'lines': ['N759']}
+Dubrovnik, Croatia; Capljina, Bosnia and Herzegovina; {'lines': ['K953', 'K954', 'N973']}
+Falkenberg, Sweden; Goteborg, Sweden; {'lines': ['603']}
+Falkenberg, Sweden; Halmstad, Sweden; {'lines': ['603']}
+Zonguldak, Turkey; Devrek, Turkey; {'lines': ['TR0242', 'TR0702']}
+Zonguldak, Turkey; Kozlu, Turkey; {'lines': ['TR0192', 'TR0242', 'TR0635', 'TR0646', 'TR0671', 'TR0702', 'TRN0103', 'TRN0242', 'TRN0635', 'TRN0646', 'TRN0890', 'TRN1240']}
+Of, Turkey; Derepazari, Turkey; {'lines': ['TRN0738', 'TRN0804', 'TRN0816', 'TRN0842', 'TRN0866', 'TRN0887', 'TRN0888', 'TRN0890']}
+Of, Turkey; Surmene, Turkey; {'lines': ['TRN0738', 'TRN0761', 'TRN0800', 'TRN0804', 'TRN0816', 'TRN0836', 'TRN0842', 'TRN0866', 'TRN0882', 'TRN0887', 'TRN0888', 'TRN0890']}
+Of, Turkey; Iyidere, Turkey; {'lines': ['TRN0761', 'TRN0800', 'TRN0836', 'TRN0882']}
+Penafiel, Portugal; Bonfim, Portugal; {'lines': ['N1157']}
+Penafiel, Portugal; Amarante, Portugal; {'lines': ['N1157']}
+Ternopil, Ukraine; Lvov, Ukraine; {'lines': ['N3277']}
+Ternopil, Ukraine; Khmelnytskyi, Ukraine; {'lines': ['N3277']}
+Fatima, Portugal; Lisboa, Portugal; {'lines': ['1000', '1001', '1010', 'N1156']}
+Fatima, Portugal; Bonfim, Portugal; {'lines': ['1000']}
+Fatima, Portugal; Coimbra, Portugal; {'lines': ['1001', '1010']}
+Fatima, Portugal; Leiria, Portugal; {'lines': ['N1156']}
+Fatima, Portugal; Santarem, Portugal; {'lines': ['N1155']}
+Fatima, Portugal; Nossa Senhora da Piedade, Portugal; {'lines': ['N1155']}
+Kireli, Turkey; Beysehir, Turkey; {'lines': ['TRN0370b']}
+Kireli, Turkey; Sarikoy, Turkey; {'lines': ['TRN0481']}
+Kireli, Turkey; Sarkikaraagac, Turkey; {'lines': ['TRN0370b', 'TRN0481']}
+Aydin, Turkey; Soke, Turkey; {'lines': ['TRN0372', 'TRN0409']}
+Aydin, Turkey; Nazilli, Turkey; {'lines': ['TR0162', 'TR0300b', 'TR0301', 'TR0505', 'TR0514', 'TR0900', 'TR0904', 'TRN0105', 'TRN0138b', 'TRN0162', 'TRN0370b', 'TRN0372', 'TRN0402', 'TRN0409', 'TRN0515', 'TRN0836', 'TRN0840']}
+Aydin, Turkey; Umurlu, Turkey; {'lines': ['TR0907']}
+Aydin, Turkey; Saraykoy, Turkey; {'lines': ['TRN0508']}
+Zara, Turkey; Sivas Belediyesi, Turkey; {'lines': ['TRN0400', 'TRN0409', 'TRN0426', 'TRN0431', 'TRN0481']}
+Zara, Turkey; Imranli, Turkey; {'lines': ['TRN0409']}
+Zara, Turkey; Toklucak, Turkey; {'lines': ['TRN0431']}
+Zara, Turkey; Hafik, Turkey; {'lines': ['TRN0465b']}
+Norrkoping, Sweden; Stockholm, Sweden; {'lines': ['601']}
+Norrkoping, Sweden; Nykoping, Sweden; {'lines': ['612']}
+Norrkoping, Sweden; Soderkoping, Sweden; {'lines': ['612']}
+Santa Comba Dao, Portugal; Tondela, Portugal; {'lines': ['N1151']}
+Sighisoara, Romania; Targu Mures, Romania; {'lines': ['N963']}
+Sighisoara, Romania; Cristuru Secuiesc, Romania; {'lines': ['N963']}
+Opatija, Croatia; Trieste, Italy; {'lines': ['944']}
+Opatija, Croatia; Rijeka, Croatia; {'lines': ['941', '944', 'CHR030']}
+Opatija, Croatia; Pula, Croatia; {'lines': ['941']}
+Opatija, Croatia; Tar, Croatia; {'lines': ['CHR030']}
+Cumhuriyet Mahallesi, Turkey; Salihler Mahallesi, Turkey; {'lines': ['TR0143']}
+Cumhuriyet Mahallesi, Turkey; Candarli, Turkey; {'lines': ['TR0143']}
+Cumhuriyet Mahallesi, Turkey; Kayseri, Turkey; {'lines': ['TR0371', 'TR1290', 'TRN0374', 'TRN0401', 'TRN0405', 'TRN0409', 'TRN0480', 'TRN0481', 'TRN1290']}
+Cumhuriyet Mahallesi, Turkey; Goreme, Turkey; {'lines': ['TR0281', 'TR0371', 'TR1290', 'TRN0281', 'TRN0374', 'TRN0402', 'TRN0481', 'TRN0761', 'TRN1290']}
+Leiria, Portugal; Pombal, Portugal; {'lines': ['N1150', 'N1156']}
+Leiria, Portugal; Caldas da Rainha, Portugal; {'lines': ['N1150']}
+Gloria e Vera Cruz, Portugal; Bonfim, Portugal; {'lines': ['1005', 'N795']}
+Gloria e Vera Cruz, Portugal; Figueira da foz, Portugal; {'lines': ['1005', 'N1151']}
+Gloria e Vera Cruz, Portugal; Coimbra, Portugal; {'lines': ['N795']}
+Tecuci, Romania; Barlad, Romania; {'lines': ['1943']}
+Elmalik, Turkey; Istanbul, Turkey; {'lines': ['TR0276', 'TR0277', 'TR0281', 'TR0290', 'TRN0276', 'TRN0277', 'TRN0281', 'TRN0290', 'TRN1030']}
+Elmalik, Turkey; Duzce, Turkey; {'lines': ['TRN0190', 'TRN0467', 'TRN0801', 'TRN0887']}
+Elmalik, Turkey; Hanli, Turkey; {'lines': ['TRN0107', 'TRN0465b', 'TRN0467b', 'TRN0468', 'TRN0647', 'TRN0880', 'TRN0882']}
+Elmalik, Turkey; Ankara, Turkey; {'lines': ['TR0276', 'TR0277', 'TR0281', 'TR0290', 'TRN0276', 'TRN0277', 'TRN0281', 'TRN0290', 'TRN0465b', 'TRN0467b', 'TRN1030']}
+Elmalik, Turkey; Sarpinkavak, Turkey; {'lines': ['TRN0880']}
+Elmalik, Turkey; Hacihamza, Turkey; {'lines': ['TRN0882']}
+Elmalik, Turkey; Kosen, Turkey; {'lines': ['TRN0888']}
+Kozcagiz, Turkey; Tuzcular, Turkey; {'lines': ['TR0705', 'TRN0637']}
+Ardesen, Turkey; Rize, Turkey; {'lines': ['TRN0738', 'TRN0816', 'TRN0842', 'TRN0866', 'TRN0887']}
+Gomec, Turkey; Ayvalik, Turkey; {'lines': ['TR0141', 'TR0143', 'TR0207', 'TRN0141', 'TRN0819']}
+Vivy, France; Angers, France; {'lines': ['N724']}
+Guvercinlik, Turkey; Milas, Turkey; {'lines': ['TR0135', 'TR0335', 'TRN0135', 'TRN0303', 'TRN0402', 'TRN0409']}
+Karacabey, Turkey; Alasarkoy Mahallesi, Turkey; {'lines': ['TR0202', 'TR0204', 'TR0209', 'TR0213', 'TR0600', 'TR0601', 'TR0603', 'TR0609', 'TR1056', 'TRN0209', 'TRN0213', 'TRN0227', 'TRN0261', 'TRN0263', 'TRN0431', 'TRN0609', 'TRN0800', 'TRN0804', 'TRN0813', 'TRN1056']}
+Milan, Italy; Milano, Italy; {'lines': ['1922']}
+Milan, Italy; Verona, Italy; {'lines': ['1922']}
+Milan, Italy; Bergamo, Italy; {'lines': ['991']}
+Milan, Italy; Veliko Gradiste, Serbia; {'lines': ['991']}
+Teramo, Italy; Bologna, Italy; {'lines': ['N424']}
+Teramo, Italy; Ancona, Italy; {'lines': ['K1901']}
+Teramo, Italy; Pescara, Italy; {'lines': ['N424']}
+Huelva, Spain; Faro, Portugal; {'lines': ['785']}
+Koprivnica, Croatia; Cakovec, Croatia; {'lines': ['N950']}
+Koprivnica, Croatia; Virovitica, Croatia; {'lines': ['N950']}
+Greensboro, USA; Durham, USA; {'lines': ['CUS063']}
+Turda, Romania; Cluj, Romania; {'lines': ['1949', 'N963']}
+Turda, Romania; Campia Turzii, Romania; {'lines': ['1949']}
+Turda, Romania; Targu Mures, Romania; {'lines': ['N963']}
+Ulricehamn, Sweden; Jonkoping, Sweden; {'lines': ['606', '611']}
+Ulricehamn, Sweden; Goteborg, Sweden; {'lines': ['606', '611']}
+Francavilla Angitola, Italy; Falerna, Italy; {'lines': ['N1526']}
+Francavilla Angitola, Italy; Lamezia Terme, Italy; {'lines': ['582']}
+Sarkikaraagac, Turkey; Beysehir, Turkey; {'lines': ['TRN0401', 'TRN0571']}
+Sarkikaraagac, Turkey; Egirdir, Turkey; {'lines': ['TRN0370b', 'TRN0401', 'TRN0481']}
+Sarkikaraagac, Turkey; Yalvac, Turkey; {'lines': ['TRN0571']}
+Zweibrucken, Germany; Karlsruhe, Germany; {'lines': ['1929']}
+Zweibrucken, Germany; Saarbruecken, Germany; {'lines': ['1929']}
+Pinarbasi, Turkey; Usak, Turkey; {'lines': ['TRN0900']}
+Pinarbasi, Turkey; Kayseri, Turkey; {'lines': ['TRN0401', 'TRN0405', 'TRN0425', 'TRN0452']}
+Pinarbasi, Turkey; Gurun, Turkey; {'lines': ['TRN0401', 'TRN0405', 'TRN0425', 'TRN0452']}
+Corlu, Turkey; Istasyon Mahallesi, Turkey; {'lines': ['TR0181', 'TR0646', 'TR0647', 'TR0648', 'TRN0181', 'TRN0285', 'TRN0646', 'TRN0647', 'TRN0648', 'TRN0888']}
+Zenica, Bosnia and Herzegovina; Zepce, Bosnia and Herzegovina; {'lines': ['CHR007', 'K942', 'K943', 'K946', 'N1971', 'N1972', 'N971']}
+Zenica, Bosnia and Herzegovina; Kakanj, Bosnia and Herzegovina; {'lines': ['K845', 'K943', 'K946', 'N1971', 'N1972', 'N971']}
+Siena, Italy; Firenze, Italy; {'lines': ['1518', 'N589', 'N528']}
+Siena, Italy; Arezzo, Italy; {'lines': ['K1902', '1518']}
+Siena, Italy; Mormanno, Italy; {'lines': ['N589']}
+Esposende, Portugal; Viana do Castelo, Portugal; {'lines': ['CES015', 'CES016', 'N1154']}
+Zaragoza, Spain; Vielha e Mijaran, Spain; {'lines': ['N748']}
+Zaragoza, Spain; Madrid, Spain; {'lines': ['N748']}
+Uzhorod, Ukraine; Lvov, Ukraine; {'lines': ['N3300']}
+Uzhorod, Ukraine; Budapest, Hungary; {'lines': ['N3300']}
+Erzincan, Turkey; Gevenlik, Turkey; {'lines': ['TRN0400', 'TRN0409', 'TRN0426', 'TRN0431', 'TRN0468', 'TRN0481']}
+Erzincan, Turkey; Yeni Yurtbasi, Turkey; {'lines': ['TRN0400', 'TRN0426', 'TRN0468', 'TRN0481']}
+Strasbourg, France; Metzingen, France; {'lines': ['1923', 'K904', 'K946']}
+Strasbourg, France; Belgrad, Serbia; {'lines': ['K904']}
+Strasbourg, France; Munich, Germany; {'lines': ['1923']}
+Strasbourg, France; Jablanica, Bosnia and Herzegovina; {'lines': ['K946']}
+Capljina, Bosnia and Herzegovina; Grude, Bosnia and Herzegovina; {'lines': ['K1951', 'K1950', 'CHR007', 'K954']}
+Caceres, Spain; Madrid, Spain; {'lines': ['793']}
+Caceres, Spain; Badajoz, Spain; {'lines': ['793']}
+Zwickau, Germany; Chemnitz, Germany; {'lines': ['N3203']}
+Alasarkoy Mahallesi, Turkey; Istanbul, Turkey; {'lines': ['TR0135', 'TR0136', 'TR0141', 'TR0143', 'TR0162', 'TR0178', 'TR0602', 'TRN0135', 'TRN0137', 'TRN0141', 'TRN0162', 'TRN0181', 'TRN0560', 'TRN0602', 'TR0137', 'TR0139', 'TR0151', 'TR0175', 'TRN0139', 'TRN0109']}
+Alasarkoy Mahallesi, Turkey; Balikesir, Turkey; {'lines': ['TR0136', 'TR0139', 'TR0162', 'TR0175', 'TRN0137', 'TRN0139', 'TRN0141']}
+Alasarkoy Mahallesi, Turkey; Edremit, Turkey; {'lines': ['TR0143']}
+Alasarkoy Mahallesi, Turkey; Gemlik, Turkey; {'lines': ['TR0181', 'TR0191', 'TR0192', 'TR0194', 'TR0556', 'TR0560', 'TR0600', 'TR0601', 'TR0603', 'TR0604', 'TR0609', 'TR0610', 'TR0671', 'TR0808', 'TRN0103', 'TRN0107', 'TRN0138', 'TRN0138b', 'TRN0178', 'TRN0190', 'TRN0530', 'TRN0609', 'TRN0801']}
+Alasarkoy Mahallesi, Turkey; Orta Mahallesi, Turkey; {'lines': ['TRN0602']}
+Alasarkoy Mahallesi, Turkey; Ahmetvefikpasa Mahallesi, Turkey; {'lines': ['TRN0816']}
+Pula, Croatia; Rijeka, Croatia; {'lines': ['K943']}
+Pula, Croatia; Rovinj, Croatia; {'lines': ['K939', '940', 'CHR030']}
+Osmancik, Turkey; Kosen, Turkey; {'lines': ['TRN0887']}
+Osmancik, Turkey; Sarpinkavak, Turkey; {'lines': ['TRN0285']}
+Osmancik, Turkey; Hacihamza, Turkey; {'lines': ['TR0880', 'TRN0801', 'TRN0888', 'TRN0890']}
+Tercan, Turkey; Gumusseren, Turkey; {'lines': ['TRN0400', 'TRN0409', 'TRN0426', 'TRN0431', 'TRN0468', 'TRN0481']}
+Tercan, Turkey; Gevenlik, Turkey; {'lines': ['TRN0400', 'TRN0409', 'TRN0426', 'TRN0431', 'TRN0468', 'TRN0481']}
+Caldiran, Turkey; Muradiye, Turkey; {'lines': ['TRN0409', 'TRN0490']}
+Caldiran, Turkey; Ercis, Turkey; {'lines': ['TRN0409', 'TRN0490']}
+Benidorm, Spain; Alacant / Alicante, Spain; {'lines': ['N1131']}
+London, UK; Shepway, UK; {'lines': ['080', '700', '828', 'N700']}
+Parnu, Estonia; Tallinn, Estonia; {'lines': ['N1229']}
+Pisa, Italy; Lucca, Italy; {'lines': ['N589']}
+Dalaman, Turkey; Fethiye, Turkey; {'lines': ['TR0144', 'TR0151', 'TR1104', 'TRN0138', 'TRN0138b', 'TRN0314', 'TRN0832', 'TR0342', 'TRN0103']}
+Aschaffenburg, Germany; Frankfurt/Main, Germany; {'lines': ['N3202']}
+Grude, Bosnia and Herzegovina; Zagreb, Croatia; {'lines': ['K1951']}
+Istasyon Mahallesi, Turkey; Istanbul, Turkey; {'lines': ['TR0181', 'TR0646', 'TR0647', 'TR0648', 'TR0680', 'TRN0181', 'TRN0285', 'TRN0646', 'TRN0647', 'TRN0648', 'TRN0888']}
+Pontevedra, Spain; Leon, Spain; {'lines': ['N1154']}
+Pontevedra, Spain; Tui, Spain; {'lines': ['N1154']}
+Edremit, Turkey; Balikesir, Turkey; {'lines': ['TR0141', 'TR0203', 'TR0207', 'TR0602', 'TRN0141', 'TRN0203', 'TRN0262', 'TRN0425', 'TRN0427', 'TRN0429', 'TRN0602', 'TRN0801', 'TRN0819', 'TRN1057']}
+Edremit, Turkey; Akcay, Turkey; {'lines': ['TR0203', 'TR0514', 'TR0602', 'TR1104', 'TRN0203', 'TRN0262', 'TRN0425', 'TRN0427', 'TRN0429', 'TRN0508', 'TRN0602', 'TRN0801', 'TRN1057']}
+Jaen, Spain; Madrid, Spain; {'lines': ['N1158']}
+Belmonte e Colmeal da Torre, Portugal; Vilar Formoso, Portugal; {'lines': ['N1155']}
+Belmonte e Colmeal da Torre, Portugal; Mangualde, Portugal; {'lines': ['N1151']}
+Pasinler, Turkey; Yakutiye, Turkey; {'lines': ['TRN0409', 'TRN0431']}
+Pasinler, Turkey; Yigittasi, Turkey; {'lines': ['TRN0409', 'TRN0490']}
+Pasinler, Turkey; Epsemce, Turkey; {'lines': ['TRN0431']}
+Nykoping, Sweden; Stockholm, Sweden; {'lines': ['602', '612']}
+Frankfurt/Main, Germany; Mannheim, Germany; {'lines': ['1925', '900', 'CBG002', 'K1950', 'K1957', 'K1958a', 'K1958b', 'K1959', 'N1961', 'N1971', 'N948', 'N950', 'N952', 'N971']}
+Frankfurt/Main, Germany; Koblenz, Germany; {'lines': ['1925']}
+Frankfurt/Main, Germany; Troisdorf, Germany; {'lines': ['CBG002', 'K1905', 'K1950', 'K1957', 'K1958a', 'K1958b', 'K1959', 'N1961']}
+Tremblay-en-France, France; Paris, France; {'lines': ['1747', '757', '807', 'N702', 'N723', 'N759']}
+Tremblay-en-France, France; Anderlecht, Belgium; {'lines': ['807']}
+Tremblay-en-France, France; Plailly, France; {'lines': ['N702']}
+Dahme, Germany; Poznan, Poland; {'lines': ['N1325']}
+Dahme, Germany; Prague, Czech Republic; {'lines': ['N958']}
+Wangen im Allgau, Germany; Memmingen, Germany; {'lines': ['K997']}
+Toklucak, Turkey; Imranli, Turkey; {'lines': ['TRN0409']}
+Sugoren, Turkey; Borcka, Turkey; {'lines': ['TRN0738', 'TRN0816', 'TRN0842', 'TRN0866', 'TRN0887']}
+Sugoren, Turkey; Arhavi, Turkey; {'lines': ['TRN0738', 'TRN0816', 'TRN0842', 'TRN0866', 'TRN0887']}
+Liezen, Austria; Sattledt, Austria; {'lines': ['K942']}
+Braila, Romania; Galati, Romania; {'lines': ['1942']}
+Bremen, Germany; Hanover, Germany; {'lines': ['N881']}
+Ljubljana, Slovenija; Venezia, Italy; {'lines': ['1922']}
+Ljubljana, Slovenija; Munich, Germany; {'lines': ['900', 'N1971', 'N952']}
+Ljubljana, Slovenija; Villach, Austria; {'lines': ['N953', 'N981']}
+Ljubljana, Slovenija; Zagreb, Croatia; {'lines': ['402', '537', '900', 'N900', 'N952', 'N953', 'N981']}
+Ljubljana, Slovenija; Trieste, Italy; {'lines': ['402']}
+Ljubljana, Slovenija; Udine, Italy; {'lines': ['537']}
+Ljubljana, Slovenija; Slavonski Brod, Croatia; {'lines': ['N1971']}
+Ljubljana, Slovenija; Rosenheim, Germany; {'lines': ['N900']}
+Ljubljana, Slovenija; Salzburg, Austria; {'lines': ['N948']}
+Ljubljana, Slovenija; Rijeka, Croatia; {'lines': ['N948']}
+Tuzcular, Turkey; Safranbolu, Turkey; {'lines': ['TRN0890']}
+Giresun, Turkey; Piraziz, Turkey; {'lines': ['TRN0801', 'TRN0832', 'TRN0888', 'TRN0890']}
+Giresun, Turkey; Yolagzi, Turkey; {'lines': ['TRN0490', 'TRN0738', 'TRN0801', 'TRN0804', 'TRN0832', 'TRN0833', 'TRN0842', 'TRN0890']}
+Giresun, Turkey; Tirebolu, Turkey; {'lines': ['TRN0761', 'TRN0764', 'TRN0800', 'TRN0816', 'TRN0836', 'TRN0866', 'TRN0882', 'TRN0887', 'TRN0888']}
+Sibiu, Romania; Brasov, Romania; {'lines': ['1921', '1922', '1923', '1925', '1926', '1929', 'N959']}
+Chasseneuil-du-Poitou, France; Paris, France; {'lines': ['793']}
+Chasseneuil-du-Poitou, France; Bordeaux, France; {'lines': ['793']}
+Osijek, Croatia; Bosanski Samac, Bosnia and Herzegovina; {'lines': ['CHR007', 'N896']}
+Osijek, Croatia; Vukovar, Croatia; {'lines': ['CHR007']}
+Osijek, Croatia; Virovitica, Croatia; {'lines': ['N950']}
+Zhitomir, Ukraine; Rivne, Ukraine; {'lines': ['CUA017', 'CUA018', 'CUA019', 'CUA020', 'CUA021', 'K3303', 'N3200', 'N3201', 'N3202', 'N3203']}
+Samsun, Turkey; Hacihamza, Turkey; {'lines': ['TRN0882']}
+Samsun, Turkey; Tekkekoy, Turkey; {'lines': ['TR0765', 'TR0837', 'TR0858', 'TR0880', 'TRN0490', 'TRN0738', 'TRN0761', 'TRN0764', 'TRN0765', 'TRN0800', 'TRN0801', 'TRN0804', 'TRN0813', 'TRN0816', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0837', 'TRN0842', 'TRN0858', 'TRN0866', 'TRN0880', 'TRN0882', 'TRN0887', 'TRN0888', 'TRN0890']}
+Dortmund, Germany; Essen, Germany; {'lines': ['CBG002', 'N1153', 'N3200']}
+Dortmund, Germany; Bochum, Germany; {'lines': ['1925', 'K1905', 'K1950', 'K1957', 'K1958a', 'K1958b', 'N1961']}
+Bayreuth, Germany; Chemnitz, Germany; {'lines': ['N3202']}
+Osnabruck, Germany; Amsterdam, Netherlands; {'lines': ['N1325']}
+Osnabruck, Germany; Hanover, Germany; {'lines': ['N1325']}
+Aksaray, Turkey; Ankara, Turkey; {'lines': ['TR0269', 'TR0277', 'TR0281', 'TR0453', 'TRN0263', 'TRN0277', 'TRN0281']}
+Aksaray, Turkey; Selcuklu, Turkey; {'lines': ['TR0371', 'TR1290', 'TRN0374', 'TRN0402', 'TRN0480', 'TRN0481', 'TRN0761', 'TRN1290', 'TRN0401', 'TRN0405', 'TRN0409']}
+Aksaray, Turkey; Acigol merkez, Turkey; {'lines': ['TR0269', 'TR0277', 'TR0281', 'TR0371', 'TR0453', 'TR1290', 'TRN0263', 'TRN0277', 'TRN0281', 'TRN0374', 'TRN0401', 'TRN0405', 'TRN0409', 'TRN0761', 'TRN1290', 'TRN0402', 'TRN0480', 'TRN0481']}
+Selcuklu, Turkey; Ilgin, Turkey; {'lines': ['TR0370', 'TR0371', 'TR1030', 'TR1055', 'TR1056', 'TRN0370', 'TRN0374', 'TRN0402', 'TRN0405', 'TRN0409', 'TRN1056', 'TRN1057']}
+Selcuklu, Turkey; Karabulak, Turkey; {'lines': ['TR1290', 'TRN0480', 'TRN1290']}
+Selcuklu, Turkey; Beysehir, Turkey; {'lines': ['TRN0370b', 'TRN0481']}
+Selcuklu, Turkey; Sarikoy, Turkey; {'lines': ['TRN0401']}
+Nantes, France; Paris, France; {'lines': ['704']}
+Nantes, France; Angers, France; {'lines': ['1704', '1923', 'N723', 'N724']}
+Nantes, France; Bordeaux, France; {'lines': ['N701']}
+Nantes, France; Cholet, France; {'lines': ['N723']}
+Nice, France; Genova, Italy; {'lines': ['1922', 'N719', 'N728']}
+Nice, France; Cannes, France; {'lines': ['768', '799', 'N1155', 'N719', 'N728']}
+Nice, France; Belgrad, Serbia; {'lines': ['K903']}
+Saarbruecken, Germany; Forbach, France; {'lines': ['790', '1929']}
+Montenegro, Portugal; Faro, Portugal; {'lines': ['785']}
+Tirebolu, Turkey; Yolagzi, Turkey; {'lines': ['TRN0738', 'TRN0801', 'TRN0804', 'TRN0832', 'TRN0833', 'TRN0842', 'TRN0890']}
+Tirebolu, Turkey; Gorele, Turkey; {'lines': ['TRN0490', 'TRN0738', 'TRN0761', 'TRN0764', 'TRN0800', 'TRN0801', 'TRN0804', 'TRN0816', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0842', 'TRN0866', 'TRN0882', 'TRN0887', 'TRN0888', 'TRN0890']}
+Tirebolu, Turkey; Espiye, Turkey; {'lines': ['TRN0490']}
+Lausanne, Switzerland; Geneve, Switzerland; {'lines': ['1921', 'N1156', 'N953']}
+Lausanne, Switzerland; Fribourg - Freiburg, Switzerland; {'lines': ['1921', 'N1156', 'N953']}
+Golubac, Serbia; Veliko Gradiste, Serbia; {'lines': ['CHR043']}
+Golubac, Serbia; Kladovo, Serbia; {'lines': ['CHR043']}
+Lisbon, Portugal; Lisboa, Portugal; {'lines': ['793', 'N793', 'N1155']}
+Lisbon, Portugal; Badajoz, Spain; {'lines': ['N793']}
+Lisbon, Portugal; Malagueira e Horta das Figueiras, Portugal; {'lines': ['793']}
+Valence, France; Lyon, France; {'lines': ['799']}
+Valence, France; Avignon, France; {'lines': ['N1156']}
+Valence, France; Grenoble, France; {'lines': ['N1156']}
+Valence, France; Castello de la Plana, Spain; {'lines': ['N1131']}
+Bayonne, France; Bordeaux, France; {'lines': ['N1150', 'N1158', 'N703']}
+Bayonne, France; Burgos, Spain; {'lines': ['N1150']}
+Bayonne, France; Biarritz, France; {'lines': ['N703']}
+Tavas, Turkey; Kale, Turkey; {'lines': ['TR0307', 'TRN0374']}
+Burunucu Mahallesi, Turkey; Cangallar, Turkey; {'lines': ['TR0837', 'TR0858', 'TR0880', 'TRN0490', 'TRN0813', 'TRN0837', 'TRN0858', 'TRN0880']}
+Burunucu Mahallesi, Turkey; Fatsa, Turkey; {'lines': ['TR0837', 'TR0858', 'TR0880', 'TRN0490', 'TRN0738', 'TRN0761', 'TRN0764', 'TRN0800', 'TRN0801', 'TRN0804', 'TRN0813', 'TRN0816', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0837', 'TRN0842', 'TRN0858', 'TRN0866', 'TRN0880', 'TRN0882', 'TRN0887', 'TRN0888', 'TRN0890']}
+Burunucu Mahallesi, Turkey; Akcay, Turkey; {'lines': ['TRN0738', 'TRN0761', 'TRN0764', 'TRN0800', 'TRN0801', 'TRN0804', 'TRN0816', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0842', 'TRN0866', 'TRN0882', 'TRN0887', 'TRN0888', 'TRN0890']}
+Oberhausen, Germany; Duisburg, Germany; {'lines': ['K1905']}
+Oberhausen, Germany; Essen, Germany; {'lines': ['K1905']}
+Slavonski Brod, Croatia; Zagreb, Croatia; {'lines': ['K928']}
+Slavonski Brod, Croatia; Rosenheim, Germany; {'lines': ['N971']}
+Slavonski Brod, Croatia; Bosanski Samac, Bosnia and Herzegovina; {'lines': ['CHR007', 'K928', 'N896']}
+Slavonski Brod, Croatia; Zupanja, Croatia; {'lines': ['K1958a', 'K1958b', 'N952']}
+Slavonski Brod, Croatia; Novska, Croatia; {'lines': ['N896']}
+Santa Maria Maior, Portugal; Lisboa, Portugal; {'lines': ['N1150']}
+Santa Maria Maior, Portugal; Caldas da Rainha, Portugal; {'lines': ['N1150']}
+Santa Maria Maior, Portugal; Mirandela, Portugal; {'lines': ['N1153']}
+Santa Maria Maior, Portugal; Verin, Portugal; {'lines': ['N1153']}
+Aachen, Germany; Schaerbeek - Schaarbeek, Belgium; {'lines': ['N1153']}
+Aachen, Germany; Troisdorf, Germany; {'lines': ['K1959', 'N1153']}
+Goteborg, Sweden; Jonkoping, Sweden; {'lines': ['601']}
+Goteborg, Sweden; Malmo, Sweden; {'lines': ['613']}
+Goteborg, Sweden; Uddevalla, Sweden; {'lines': ['613', 'N613']}
+Goteborg, Sweden; Halmstad, Sweden; {'lines': ['N613']}
+Sattledt, Austria; Linz (Stadt), Austria; {'lines': ['K942']}
+Zagreb, Croatia; Munich, Germany; {'lines': ['K997']}
+Zagreb, Croatia; Wien, Austria; {'lines': ['903']}
+Zagreb, Croatia; Budapest, Hungary; {'lines': ['976']}
+Zagreb, Croatia; Sofia, Bulgaria; {'lines': ['N981']}
+Zagreb, Croatia; Trogir, Croatia; {'lines': ['906', '936a', '936b', '936c']}
+Zagreb, Croatia; Vrbovsko, Croatia; {'lines': ['927', '928', 'N896']}
+Zagreb, Croatia; Zadar, Croatia; {'lines': ['939']}
+Zagreb, Croatia; Rovinj, Croatia; {'lines': ['940']}
+Zagreb, Croatia; Karlovac, Croatia; {'lines': ['975', 'K953', 'K997']}
+Zagreb, Croatia; Sisak, Croatia; {'lines': ['K1958a', 'K1958b', 'N952']}
+Zagreb, Croatia; Bihac, Bosnia and Herzegovina; {'lines': ['K927']}
+Zagreb, Croatia; Rijeka, Croatia; {'lines': ['K943', 'N958']}
+Zagreb, Croatia; Sibenik, Croatia; {'lines': ['K954']}
+Zagreb, Croatia; Novska, Croatia; {'lines': ['N896']}
+Zagreb, Croatia; Plitviska Jezera, Croatia; {'lines': ['N975']}
+Halmstad, Sweden; Kobenhavn, Denmark; {'lines': ['603', 'N613']}
+Aalborg, Denmark; Aarhus, Denmark; {'lines': ['621', 'K638']}
+Guroymak, Turkey; Bitlis, Turkey; {'lines': ['TRN0401', 'TRN0405', 'TRN0425', 'TRN0452', 'TRN0466']}
+Guroymak, Turkey; Mus, Turkey; {'lines': ['TRN0401', 'TRN0405', 'TRN0425', 'TRN0452', 'TRN0466']}
+Milano, Italy; Parma, Italy; {'lines': ['1518', 'N1526', 'N436', 'N583']}
+Milano, Italy; Genova, Italy; {'lines': ['1922', 'N728']}
+Milano, Italy; Venezia, Italy; {'lines': ['402']}
+Milano, Italy; Bergamo, Italy; {'lines': ['480', '991', 'K350']}
+Milano, Italy; Bologna, Italy; {'lines': ['520', 'N425', 'N520', 'N528', 'N581']}
+Milano, Italy; Piacenza, Italy; {'lines': ['N424']}
+Milano, Italy; Munich, Germany; {'lines': ['N728']}
+Milano, Italy; Trento, Italy; {'lines': ['N95']}
+Antwerpen, Belgium; Eindhoven, Netherlands; {'lines': ['080']}
+Antwerpen, Belgium; Gent, Belgium; {'lines': ['N1325']}
+Antwerpen, Belgium; Schaerbeek - Schaarbeek, Belgium; {'lines': ['813', '817', 'K1959', 'N800']}
+Antwerpen, Belgium; Brugge, Belgium; {'lines': ['080']}
+Antwerpen, Belgium; Rotterdam, Netherlands; {'lines': ['813', 'K1959', 'N1325']}
+Antwerpen, Belgium; Utrecht, Netherlands; {'lines': ['817', 'N800']}
+Halle (Saale), Germany; Leipzig, Germany; {'lines': ['N3201']}
+Pazardzhik, Bulgaria; Sofia, Bulgaria; {'lines': ['N981']}
+Pazardzhik, Bulgaria; Plovdiv, Bulgaria; {'lines': ['N981']}
+Bohumin, Czech Republic; Krakow, Poland; {'lines': ['CUA025']}
+Humenne, Slovensko; Michalovce, Slovensko; {'lines': ['CCZ058']}
+Campulung Moldovenesc, Romania; Gura Humorului, Romania; {'lines': ['1949']}
+Campulung Moldovenesc, Romania; Vatra Dornei, Romania; {'lines': ['1949']}
+Montbeliard, France; Belfort, France; {'lines': ['N759']}
+Montbeliard, France; Besancon, France; {'lines': ['N759']}
+Tondela, Portugal; Mangualde, Portugal; {'lines': ['N1151']}
+Caracal, Romania; Rosiorii de Vede, Romania; {'lines': ['1948']}
+Caracal, Romania; Slatina, Romania; {'lines': ['1948']}
+Uzunyazi, Turkey; Yoluguzel, Turkey; {'lines': ['TRN0409', 'TRN0431', 'TRN0490']}
+Vrbovsko, Croatia; Zadar, Croatia; {'lines': ['927', 'N896', '928']}
+Novi Sad, Serbia; Belgrad, Serbia; {'lines': ['993']}
+Novi Sad, Serbia; Paris, France; {'lines': ['993']}
+Dayli, Turkey; Gerze, Turkey; {'lines': ['TR0194', 'TR0647', 'TRN0107', 'TRN0647', 'TRN0648']}
+Dayli, Turkey; Taskopru, Turkey; {'lines': ['TRN0107']}
+Orasje, Bosnia and Herzegovina; Munich, Germany; {'lines': ['N1961', 'N1962']}
+Orasje, Bosnia and Herzegovina; Brcko, Bosnia and Herzegovina; {'lines': ['K1958a', 'K1958b', 'N1961', 'N1962']}
+Orasje, Bosnia and Herzegovina; Zupanja, Croatia; {'lines': ['K1958a', 'K1958b']}
+Lodz, Poland; Warsaw, Poland; {'lines': ['CUA019', 'CUA020']}
+Lodz, Poland; Pardubice, Czech Republic; {'lines': ['CUA019', 'CUA020']}
+Passau, Germany; Linz (Stadt), Austria; {'lines': ['N881']}
+Fetesti, Romania; Cernavoda, Romania; {'lines': ['1941']}
+Macedo de Cavaleiros, Portugal; Mirandela, Portugal; {'lines': ['N1157']}
+Macedo de Cavaleiros, Portugal; Braganca, Portugal; {'lines': ['N1157']}
+Lvov, Ukraine; Lublin, Poland; {'lines': ['3241']}
+Lvov, Ukraine; Krakow, Poland; {'lines': ['CUA025', 'N3277', 'CUA017', 'CUA018', 'N3201']}
+Lvov, Ukraine; Brno, Czech Republic; {'lines': ['CUA021']}
+Lvov, Ukraine; Dresden, Germany; {'lines': ['N3202', 'N3203']}
+Lvov, Ukraine; Ivano-Frankivsk, Ukraine; {'lines': ['3241']}
+Lvov, Ukraine; Rivne, Ukraine; {'lines': ['CUA017', 'CUA018', 'CUA021', 'K3303', 'N3200', 'N3201', 'N3202', 'N3203', 'N3300']}
+Bordeaux, France; Paris, France; {'lines': ['783', 'N1793']}
+Bordeaux, France; Le Passage, France; {'lines': ['1922', '721', 'N701']}
+Bordeaux, France; Madrid, Spain; {'lines': ['793']}
+Bordeaux, France; Vitoria-Gasteiz, Spain; {'lines': ['N1793']}
+Auxerre, France; Paris, France; {'lines': ['759', 'N759']}
+Anafartalar Mahallesi, Turkey; Akhisar, Turkey; {'lines': ['TR0144', 'TR0175', 'TR0178', 'TR0181', 'TR0191', 'TR0192', 'TR0194', 'TR0505', 'TRN0103', 'TRN0107', 'TRN0109', 'TRN0138', 'TRN0178', 'TRN0181', 'TRN0190', 'TRN0515']}
+Anafartalar Mahallesi, Turkey; Turgutlu, Turkey; {'lines': ['TR0178', 'TRN0178', 'TRN0315']}
+Patnos, Turkey; Ercis, Turkey; {'lines': ['TRN0409', 'TRN0431', 'TRN0490']}
+Cernavoda, Romania; Medgidia, Romania; {'lines': ['1941']}
+Schaerbeek - Schaarbeek, Belgium; Amsterdam, Netherlands; {'lines': ['810']}
+Schaerbeek - Schaarbeek, Belgium; Leuven, Belgium; {'lines': ['1929']}
+Schaerbeek - Schaarbeek, Belgium; Anderlecht, Belgium; {'lines': ['N1153', 'N800']}
+Freiburg, Germany; Titisee-Neustadt, Germany; {'lines': ['K997']}
+Khmelnytskyi, Ukraine; Vinnytsia, Ukraine; {'lines': ['N3277']}
+Vilar Formoso, Portugal; Viseu, Portugal; {'lines': ['N1150']}
+Vilar Formoso, Portugal; Salamanca, Spain; {'lines': ['N1150', 'N1152', 'N1155', 'N1156']}
+Vilar Formoso, Portugal; Burgos, Spain; {'lines': ['N1151']}
+Stockholm, Sweden; Vasteras, Sweden; {'lines': ['600']}
+Braga, Portugal; Bonfim, Portugal; {'lines': ['1001', '1004', '783']}
+Le Mans, France; Angers, France; {'lines': ['N723']}
+Belfort, France; Besancon, France; {'lines': ['720']}
+Zebrzydowice, Poland; Jastrzebie-Zdroj, Poland; {'lines': ['1369']}
+Zebrzydowice, Poland; Cesky Tesin, Czech Republic; {'lines': ['1369']}
+St. Gallen, Switzerland; Innsbruck, Austria; {'lines': ['1921']}
+St. Gallen, Switzerland; Zurich, Switzerland; {'lines': ['1921', 'K1914', 'N953']}
+St. Gallen, Switzerland; Villach, Austria; {'lines': ['N953']}
+Le Havre, France; Paris, France; {'lines': ['732']}
+Bozen, Italy; Trento, Italy; {'lines': ['486', 'N95']}
+Bozen, Italy; Innsbruck, Austria; {'lines': ['N95']}
+Jihlava, Czech Republic; Prague, Czech Republic; {'lines': ['K810']}
+Jihlava, Czech Republic; Znojmo, Czech Republic; {'lines': ['CCZ057']}
+Jihlava, Czech Republic; Pardubice, Czech Republic; {'lines': ['CCZ057', 'K818']}
+Jihlava, Czech Republic; Tabor, Czech Republic; {'lines': ['K818']}
+Avignon, France; Marseille, France; {'lines': ['K903', 'N1155']}
+Avignon, France; Nimes, France; {'lines': ['1922', 'N1155', 'N1156']}
+Burgos, Spain; Salamanca, Spain; {'lines': ['N1152', 'N1156']}
+Burgos, Spain; Vitoria-Gasteiz, Spain; {'lines': ['N1153', 'N1158', 'N1793']}
+Burgos, Spain; Bilbao, Spain; {'lines': ['N1156', 'N1157', 'N1155']}
+Burgos, Spain; Madrid, Spain; {'lines': ['N1158', 'N1793']}
+Burgos, Spain; Tordesillas, Spain; {'lines': ['N1150']}
+Burgos, Spain; Leon, Spain; {'lines': ['N1153', 'N1154']}
+Burgos, Spain; Valladolid, Spain; {'lines': ['N1155', 'N1157']}
+Greenville, USA; Chamblee, USA; {'lines': ['CUS063']}
+Sultanhisar, Turkey; Isabeyli, Turkey; {'lines': ['TR0907']}
+Sultanhisar, Turkey; Kosk, Turkey; {'lines': ['TR0907']}
+Uluborlu, Turkey; Senirkent, Turkey; {'lines': ['TRN0571']}
+Banja Luka, Bosnia and Herzegovina; Jablanica, Bosnia and Herzegovina; {'lines': ['K1950', 'K946', 'K983', 'K985']}
+Coquelles, France; Calais, France; {'lines': ['080', '700', '828']}
+Coquelles, France; Shepway, UK; {'lines': ['080', '700', '828']}
+Lublin, Poland; Warsaw, Poland; {'lines': ['3241', '1243']}
+Akcay, Turkey; Avcilar, Turkey; {'lines': ['TR0203', 'TR0514', 'TR0602', 'TR1104', 'TRN0203', 'TRN0262', 'TRN0425', 'TRN0427', 'TRN0429', 'TRN0508', 'TRN0602', 'TRN0801', 'TRN1057']}
+Akcay, Turkey; Cangallar, Turkey; {'lines': ['TRN0738', 'TRN0761', 'TRN0764', 'TRN0800', 'TRN0801', 'TRN0804', 'TRN0816', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0842', 'TRN0866', 'TRN0882', 'TRN0887', 'TRN0888', 'TRN0890']}
+Krakow, Poland; Zakopane, Poland; {'lines': ['N1261', '1261A']}
+Krakow, Poland; Kielce, Poland; {'lines': ['1261A', 'N1261']}
+Krakow, Poland; Olomouc, Czech Republic; {'lines': ['N3277']}
+Krakow, Poland; Katowice, Poland; {'lines': ['CUA017', 'CUA018', 'K314']}
+Krakow, Poland; Dresden, Germany; {'lines': ['N3201']}
+Nimes, France; Lyon, France; {'lines': ['788', 'N748']}
+Usak, Turkey; Banaz, Turkey; {'lines': ['TR0300', 'TR0304', 'TR0315', 'TR0335', 'TR0338', 'TR0339', 'TR0340', 'TR0342', 'TR0370', 'TR0371', 'TR0375', 'TR0560', 'TR0837', 'TRN0138b', 'TRN0300', 'TRN0301', 'TRN0304', 'TRN0315', 'TRN0338', 'TRN0405', 'TRN0833', 'TRN0837', 'TRN0842']}
+Arac, Turkey; Safranbolu, Turkey; {'lines': ['TRN0190', 'TRN0243', 'TRN1242']}
+Vakfikebir, Turkey; Akcaabat, Turkey; {'lines': ['TRN0738', 'TRN0764', 'TRN0801', 'TRN0804', 'TRN0816', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0842', 'TRN0866', 'TRN0887', 'TRN0888', 'TRN0890']}
+Vakfikebir, Turkey; Carsibasi, Turkey; {'lines': ['TRN0490', 'TRN0761', 'TRN0800', 'TRN0882']}
+Vakfikebir, Turkey; Besikduzu, Turkey; {'lines': ['TRN0490', 'TRN0738', 'TRN0761', 'TRN0764', 'TRN0800', 'TRN0801', 'TRN0804', 'TRN0816', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0842', 'TRN0866', 'TRN0882', 'TRN0887', 'TRN0888', 'TRN0890']}
+Jonkoping, Sweden; Ljungby, Sweden; {'lines': ['602']}
+Jonkoping, Sweden; Mjolby, Sweden; {'lines': ['607', '606']}
+Reggio nell'Emilia, Italy; Parma, Italy; {'lines': ['N436', 'N583']}
+Reggio nell'Emilia, Italy; Rimini, Italy; {'lines': ['N583']}
+Innsbruck, Austria; Munich, Germany; {'lines': ['N95']}
+Innsbruck, Austria; Linz (Stadt), Austria; {'lines': ['1921', 'CBG003']}
+Soganliyuruk, Turkey; Kozlu, Turkey; {'lines': ['TR0192', 'TR0635', 'TR0646', 'TR0671', 'TRN0103', 'TRN0635', 'TRN0646', 'TRN0890', 'TRN1240']}
+Cemil Mahallesi, Turkey; Ekinhisar, Turkey; {'lines': ['TRN0151', 'TRN1201']}
+Cemil Mahallesi, Turkey; Dinar, Turkey; {'lines': ['TRN0900']}
+Cemil Mahallesi, Turkey; Bucak, Turkey; {'lines': ['TR0500', 'TR0531', 'TR1201', 'TR1244', 'TRN0481', 'TRN0500', 'TRN0531', 'TRN0533', 'TRN0734', 'TRN0900', 'TRN1201', 'TRN1206', 'TRN1207', 'TRN1241', 'TRN1242', 'TRN1244']}
+Cemil Mahallesi, Turkey; Isparta, Turkey; {'lines': ['TRN0481']}
+Mirandela, Portugal; Murca, Portugal; {'lines': ['N1157']}
+Mirandela, Portugal; Pedras Salgadas, Portugal; {'lines': ['N1153']}
+Gorlitz, Germany; Prague, Czech Republic; {'lines': ['852']}
+Barlad, Romania; Vaslui, Romania; {'lines': ['1943']}
+Devrek, Turkey; Mengen, Turkey; {'lines': ['TR0191', 'TR0242', 'TR0637', 'TR0642', 'TR0702', 'TR0704', 'TR0705', 'TR0706', 'TRN0105', 'TRN0109', 'TRN0242', 'TRN0637', 'TRN0642', 'TRN0704', 'TRN1241']}
+Kulu, Turkey; Ankara, Turkey; {'lines': ['TR0242', 'TR0243', 'TR0765', 'TR1202', 'TRN0242', 'TRN0243', 'TRN0764', 'TRN0765', 'TRN1030', 'TRN1202']}
+Kakanj, Bosnia and Herzegovina; Visoko, Bosnia and Herzegovina; {'lines': ['K943', 'K946', 'N1971', 'N1972']}
+Napoli, Italy; Caserta, Italy; {'lines': ['556', '581', '1518']}
+Albergaria-a-Velha, Portugal; Viseu, Portugal; {'lines': ['N1152']}
+Albergaria-a-Velha, Portugal; Sao Joao da Madeira, Portugal; {'lines': ['N1152']}
+Yenisakran Mahallesi, Turkey; Altinova, Turkey; {'lines': ['TRN0141']}
+Yenisakran Mahallesi, Turkey; Candarli, Turkey; {'lines': ['TRN0304']}
+Alaca, Turkey; Corum, Turkey; {'lines': ['TRN0761']}
+Beziers, France; Narbonne, France; {'lines': ['1922']}
+Kumanovo, Makedonija; Firenze, Italy; {'lines': ['K1902']}
+Kumanovo, Makedonija; Skopje, Makedonija; {'lines': ['992', 'K1902', 'K1905', 'K1914', 'K1920']}
+Kumanovo, Makedonija; Zurich, Switzerland; {'lines': ['K1914']}
+Kumanovo, Makedonija; Dresden, Germany; {'lines': ['K1920']}
+Kumanovo, Makedonija; Augsburg, Germany; {'lines': ['K1905']}
+Kumanovo, Makedonija; Belgrad, Serbia; {'lines': ['992']}
+Rosiorii de Vede, Romania; Alexandria, Romania; {'lines': ['1948']}
+Bezannes, France; Paris, France; {'lines': ['1756', '1923', 'K904', 'K946', 'N1152']}
+Bezannes, France; Metzingen, France; {'lines': ['1923', 'K904', 'K946', 'N1152']}
+Zory, Poland; Katowice, Poland; {'lines': ['1369']}
+Zory, Poland; Jastrzebie-Zdroj, Poland; {'lines': ['1369']}
+Porec, Croatia; Rovinj, Croatia; {'lines': ['K939']}
+Porec, Croatia; Umag, Croatia; {'lines': ['K939']}
+Rossano, Italy; Bologna, Italy; {'lines': ['N581']}
+Rossano, Italy; Mormanno, Italy; {'lines': ['581', 'N588', 'N589']}
+Rossano, Italy; Potenza, Italy; {'lines': ['589', 'N1526']}
+Rossano, Italy; Rimini, Italy; {'lines': ['N583']}
+Rossano, Italy; Falerna, Italy; {'lines': ['A587', '582', 'N1526']}
+Friedrichshafen, Germany; Constance, Germany; {'lines': ['K997']}
+Heilbronn, Germany; Nuremberg, Germany; {'lines': ['1925']}
+Heilbronn, Germany; Mannheim, Germany; {'lines': ['1925']}
+Ercis, Turkey; Van, Turkey; {'lines': ['TRN0431']}
+Seefeld in Tirol, Austria; Garmisch-Partenkirchen, Germany; {'lines': ['486']}
+Sarpinkavak, Turkey; Kosen, Turkey; {'lines': ['TRN0285']}
+Valencia, Spain; Tui, Spain; {'lines': ['N1154']}
+Kurucasile, Turkey; Cide, Turkey; {'lines': ['TR0642']}
+Utrecht, Netherlands; Amsterdam, Netherlands; {'lines': ['817', 'N800']}
+Malmo, Sweden; Kobenhavn, Denmark; {'lines': ['602', '613', 'N613', '602', 'N613', '603']}
+Borova, Croatia; Vukovar, Croatia; {'lines': ['K928']}
+Gelibolu, Turkey; Canakkale, Turkey; {'lines': ['TRN0603']}
+Timisoara, Romania; Arad, Romania; {'lines': ['1921', '1922', '1923', '1925', '1926', '1929']}
+Timisoara, Romania; Budapest, Hungary; {'lines': ['1922', 'N959']}
+Timisoara, Romania; Wien, Austria; {'lines': ['1923', '1929']}
+Kayseri, Turkey; Yozgat, Turkey; {'lines': ['TRN0761']}
+Kayseri, Turkey; Mucur, Turkey; {'lines': ['TR0240', 'TR0260', 'TR0262', 'TR0275', 'TR0450', 'TRN0260', 'TRN0261', 'TRN0262', 'TRN0275b', 'TRN0372', 'TRN0425', 'TRN0450', 'TRN0452', 'TRN0466']}
+Kayseri, Turkey; Sarkisla, Turkey; {'lines': ['TRN0402', 'TRN0409', 'TRN0480', 'TRN0481']}
+Kayseri, Turkey; Gurun, Turkey; {'lines': ['TRN0466']}
+Bayburt, Turkey; Gumusseren, Turkey; {'lines': ['TRN0490']}
+Cesky Krumlov, Czech Republic; Ceske Budejovice, Czech Republic; {'lines': ['853', 'K817']}
+Plitviska Jezera, Croatia; Karlovac, Croatia; {'lines': ['975']}
+Plitviska Jezera, Croatia; Bihac, Bosnia and Herzegovina; {'lines': ['975', 'N975']}
+Selimiye, Turkey; Milas, Turkey; {'lines': ['TR0335', 'TRN0303']}
+Selimiye, Turkey; Soke, Turkey; {'lines': ['TR0335', 'TRN0303']}
+Madrid, Spain; Toledo, Spain; {'lines': ['N793']}
+Uddevalla, Sweden; Sarpsborg, Norway; {'lines': ['N613']}
+Karabulak, Turkey; Manavgat, Turkey; {'lines': ['TR1202', 'TRN1202', 'TRN1290']}
+Hildesheim, Germany; Hanover, Germany; {'lines': ['N1962', 'N1972']}
+Hildesheim, Germany; Gottingen, Germany; {'lines': ['N1962', 'N1972']}
+Parma, Italy; Bologna, Italy; {'lines': ['1518', 'N1526']}
+De Panne, Belgium; Brugge, Belgium; {'lines': ['080']}
+De Panne, Belgium; Calais, France; {'lines': ['080']}
+Garmisch-Partenkirchen, Germany; Munich, Germany; {'lines': ['486']}
+Cluj, Romania; Gherla, Romania; {'lines': ['1949']}
+Venedig, Italy; Venezia, Italy; {'lines': ['402']}
+Venedig, Italy; Trieste, Italy; {'lines': ['402']}
+Filiasi, Romania; Craiova, Romania; {'lines': ['1948']}
+Filiasi, Romania; Kladovo, Serbia; {'lines': ['1948']}
+Kosk, Turkey; Umurlu, Turkey; {'lines': ['TR0907']}
+Lons-le-Saunier, France; Geneve, Switzerland; {'lines': ['759']}
+Vinkovci, Croatia; Zupanja, Croatia; {'lines': ['N952', 'K928']}
+Vinkovci, Croatia; Vukovar, Croatia; {'lines': ['CHR007', 'N952']}
+Vinkovci, Croatia; Nustar, Croatia; {'lines': ['K928']}
+Coimbra, Portugal; Lisboa, Portugal; {'lines': ['CES014']}
+Coimbra, Portugal; Bonfim, Portugal; {'lines': ['1001', '1010', 'CES014']}
+Coimbra, Portugal; Viseu, Portugal; {'lines': ['N1150']}
+Coimbra, Portugal; Pombal, Portugal; {'lines': ['N1150', 'N1156']}
+Coimbra, Portugal; Mouronho, Portugal; {'lines': ['N1156']}
+Coimbra, Portugal; Salamanca, Spain; {'lines': ['N795']}
+Yassihuyuk, Turkey; Korkuteli, Turkey; {'lines': ['TR0514']}
+Arakli, Turkey; Ortahisar, Turkey; {'lines': ['TRN0738', 'TRN0761', 'TRN0800', 'TRN0804', 'TRN0816', 'TRN0836', 'TRN0842', 'TRN0866', 'TRN0882', 'TRN0887', 'TRN0888', 'TRN0890']}
+Arakli, Turkey; Surmene, Turkey; {'lines': ['TRN0738', 'TRN0761', 'TRN0800', 'TRN0804', 'TRN0816', 'TRN0836', 'TRN0842', 'TRN0866', 'TRN0882', 'TRN0887', 'TRN0888', 'TRN0890']}
+Suwalki, Poland; Kaunas, Lithuania; {'lines': ['N1229']}
+Siauliai, Lithuania; Kaunas, Lithuania; {'lines': ['N1229']}
+Memmingen, Germany; Munich, Germany; {'lines': ['K997']}
+Chamblee, USA; Durham, USA; {'lines': ['CUS064']}
+Tordesillas, Spain; Salamanca, Spain; {'lines': ['N1150']}
+Tordesillas, Spain; Valladolid, Spain; {'lines': ['N1157']}
+Tordesillas, Spain; Braganca, Portugal; {'lines': ['N1157']}
+Canakkale, Turkey; Lapseki, Turkey; {'lines': ['TR0204', 'TR0209', 'TR0514', 'TR0603', 'TR1056', 'TR1104', 'TRN0209', 'TRN0227', 'TRN0261', 'TRN0263', 'TRN0431', 'TRN0508', 'TRN0800', 'TRN0813', 'TRN1056']}
+Yesilyurt, Turkey; Elazig, Turkey; {'lines': ['TRN0401', 'TRN0405', 'TRN0425', 'TRN0452', 'TRN0466']}
+Grenoble, France; Lyon, France; {'lines': ['1921', '720', '726', '730', 'K900', 'N724', '1776', '724', '776', '777']}
+Grenoble, France; Chambery, France; {'lines': ['739', 'K900', 'N1156']}
+Grenoble, France; Le Passage, France; {'lines': ['N709']}
+Potsdam, Germany; Magdeburg, Germany; {'lines': ['N1325']}
+Fethiye, Turkey; Kas, Turkey; {'lines': ['TR0151', 'TRN0151']}
+Fethiye, Turkey; Cavdir, Turkey; {'lines': ['TRN0151', 'TRN0314', 'TRN0832']}
+Fethiye, Turkey; Korkuteli, Turkey; {'lines': ['TRN0401']}
+Belgrad, Serbia; Wien, Austria; {'lines': ['990', 'N990']}
+Belgrad, Serbia; Trieste, Italy; {'lines': ['994']}
+Belgrad, Serbia; Veliko Gradiste, Serbia; {'lines': ['CHR043']}
+Isabeyli, Turkey; Nazilli, Turkey; {'lines': ['TR0907']}
+Ljungby, Sweden; Kobenhavn, Denmark; {'lines': ['602']}
+Valdemarsviks kommun, Sweden; Soderkoping, Sweden; {'lines': ['612']}
+Valdemarsviks kommun, Sweden; Gamleby, Sweden; {'lines': ['612']}
+Shumen, Bulgaria; Warna, Bulgaria; {'lines': ['1940']}
+Mannheim, Germany; Karlsruhe, Germany; {'lines': ['900', 'CBG002', 'K1905', 'K1950', 'K1957', 'K1958a', 'K1958b', 'K1959', 'N1961', 'N1971', 'N3202', 'N948', 'N950', 'N952', 'N971']}
+Gherla, Romania; Dej, Romania; {'lines': ['1949']}
+Trogir, Croatia; Sibenik, Croatia; {'lines': ['941', 'K997', 'N948']}
+Bosanski Samac, Bosnia and Herzegovina; Zupanja, Croatia; {'lines': ['K928']}
+Poznan, Poland; Warsaw, Poland; {'lines': ['N1325']}
+Caserta, Italy; Firenze, Italy; {'lines': ['N1526']}
+Caserta, Italy; Potenza, Italy; {'lines': ['N1526']}
+Caserta, Italy; Sora, Italy; {'lines': ['556']}
+Rotterdam, Netherlands; Den Haag, Netherlands; {'lines': ['813', 'K1959', 'N1325']}
+Polatli, Turkey; Ankara, Turkey; {'lines': ['TR0202', 'TR0203', 'TR0204', 'TR0206', 'TR0207', 'TR0209', 'TR0211', 'TR0213', 'TR0260', 'TR0262', 'TR0269', 'TR0300', 'TR0300b', 'TR0301', 'TR0304', 'TR0307', 'TR0315', 'TR0375', 'TR0808', 'TR0837', 'TR1200', 'TR1201', 'TR1244', 'TRN0203', 'TRN0206', 'TRN0209', 'TRN0213', 'TRN0227', 'TRN0260', 'TRN0261', 'TRN0262', 'TRN0263', 'TRN0300', 'TRN0301', 'TRN0303', 'TRN0304', 'TRN0314', 'TRN0315', 'TRN0372', 'TRN0406', 'TRN0425', 'TRN0426', 'TRN0427', 'TRN0429', 'TRN0431', 'TRN0734', 'TRN0738', 'TRN0800', 'TRN0804', 'TRN0813', 'TRN0816', 'TRN0819', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0837', 'TRN0840', 'TRN0842', 'TRN1200', 'TRN1201', 'TRN1206', 'TRN1207', 'TRN1241', 'TRN1242', 'TRN1244']}
+Polatli, Turkey; seker Mahallesi, Turkey; {'lines': ['TR0202', 'TR0203', 'TR0204', 'TR0206', 'TR0207', 'TR0209', 'TR0211', 'TR0213', 'TR0260', 'TR0262', 'TR0269', 'TR0808', 'TRN0203', 'TRN0206', 'TRN0209', 'TRN0213', 'TRN0227', 'TRN0260', 'TRN0261', 'TRN0262', 'TRN0263', 'TRN0425', 'TRN0426', 'TRN0427', 'TRN0429', 'TRN0431', 'TRN0800', 'TRN0813', 'TRN0819']}
+Polatli, Turkey; Babadat, Turkey; {'lines': ['TRN0738', 'TRN0804', 'TRN0816', 'TRN0842']}
+Baklaci, Turkey; Sarigol, Turkey; {'lines': ['TRN0560']}
+Beylerce, Turkey; Tekkekoy, Turkey; {'lines': ['TR0765', 'TR0837', 'TR0858', 'TR0880', 'TRN0490', 'TRN0738', 'TRN0761', 'TRN0764', 'TRN0765', 'TRN0800', 'TRN0801', 'TRN0804', 'TRN0813', 'TRN0816', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0837', 'TRN0842', 'TRN0858', 'TRN0866', 'TRN0880', 'TRN0882', 'TRN0887', 'TRN0888', 'TRN0890']}
+Beylerce, Turkey; Cangallar, Turkey; {'lines': ['TR0837', 'TR0858', 'TR0880', 'TRN0490', 'TRN0738', 'TRN0761', 'TRN0764', 'TRN0800', 'TRN0801', 'TRN0804', 'TRN0813', 'TRN0816', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0837', 'TRN0842', 'TRN0858', 'TRN0866', 'TRN0880', 'TRN0882', 'TRN0887', 'TRN0888', 'TRN0890']}
+Manavgat, Turkey; Serik, Turkey; {'lines': ['TR0500', 'TR0531', 'TR0900', 'TR1244', 'TR1290', 'TRN0480', 'TRN0500', 'TRN0508', 'TRN0515', 'TRN0531', 'TRN0734', 'TRN1206', 'TRN1207', 'TRN1241', 'TRN1244', 'TRN1290']}
+Yenicaga, Turkey; Mengen, Turkey; {'lines': ['TR0242', 'TR0637', 'TR0642', 'TR0702', 'TR0704', 'TR0705', 'TRN0105', 'TRN0109', 'TRN0242', 'TRN0637', 'TRN0642', 'TRN0704', 'TRN1241']}
+Yenicaga, Turkey; Ankara, Turkey; {'lines': ['TR0242', 'TR0702', 'TR0704', 'TR0705', 'TR0706', 'TRN0105', 'TRN0242', 'TRN0704', 'TRN1241']}
+Troisdorf, Germany; Leverkusen, Germany; {'lines': ['1925', 'K1905']}
+Corum, Turkey; Sungurlu, Turkey; {'lines': ['TR0204', 'TR0276', 'TR0276b', 'TR0762', 'TR0765', 'TR0808', 'TR0837', 'TR0858', 'TRN0227', 'TRN0276', 'TRN0318', 'TRN0734', 'TRN0738', 'TRN0764', 'TRN0765', 'TRN0800', 'TRN0804', 'TRN0813', 'TRN0816', 'TRN0819', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0837', 'TRN0840', 'TRN0842', 'TRN0844', 'TRN0858', 'TRN0866', 'TRN1206', 'TRN1207']}
+Graz, Austria; Munich, Germany; {'lines': ['K1958a', 'K1958b', 'N950']}
+Graz, Austria; Wien, Austria; {'lines': ['885']}
+Graz, Austria; Linz (Stadt), Austria; {'lines': ['N881']}
+Graz, Austria; Salzburg, Austria; {'lines': ['950']}
+Graz, Austria; Gemeinde Wiener Neustadt, Austria; {'lines': ['K845']}
+Senirkent, Turkey; Yalvac, Turkey; {'lines': ['TRN0571']}
+Firenze, Italy; Bologna, Italy; {'lines': ['1518', '466', '520', '994', 'N1526', 'N520', '537', 'N528']}
+Firenze, Italy; Perugia, Italy; {'lines': ['466']}
+Firenze, Italy; Arezzo, Italy; {'lines': ['K1902']}
+Firenze, Italy; Lucca, Italy; {'lines': ['N589']}
+Munich, Germany; Rosenheim, Germany; {'lines': ['N900', 'N971', 'K985', '1923']}
+Munich, Germany; Salzburg, Austria; {'lines': ['1929', '944', '950', 'N948', 'N981']}
+Munich, Germany; Augsburg, Germany; {'lines': ['1929', '900', 'K1950', 'K1958a', 'K1958b', 'K1959', 'K985', 'N1971', 'N948', 'N971', 'N3203']}
+Munich, Germany; Jablanica, Bosnia and Herzegovina; {'lines': ['K1950']}
+Munich, Germany; Karlovac, Croatia; {'lines': ['K1957']}
+Munich, Germany; Neu-Ulm, Germany; {'lines': ['K1957', 'N1961']}
+Munich, Germany; Leipzig, Germany; {'lines': ['N95']}
+Munich, Germany; Stuttgart, Germany; {'lines': ['N950', 'N952']}
+Umag, Croatia; Trieste, Italy; {'lines': ['K939']}
+Duisburg, Germany; Essen, Germany; {'lines': ['1925', 'CBG002', 'K1950', 'K1957', 'K1958a', 'K1958b', 'N1961', 'N3200']}
+Gamleby, Sweden; Vastervik, Sweden; {'lines': ['612']}
+Karlovy Vary, Czech Republic; Lubenec, Czech Republic; {'lines': ['854']}
+Salou, Spain; Barcelona, Spain; {'lines': ['N1131']}
+Salou, Spain; Castello de la Plana, Spain; {'lines': ['N1131']}
+Cannes, France; Marseille, France; {'lines': ['N719', 'N728']}
+Vastervik, Sweden; Verkeback, Sweden; {'lines': ['612']}
+Didim, Turkey; Soke, Turkey; {'lines': ['TR0136', 'TRN0109', 'TRN0372', 'TRN0136']}
+Aarhus, Denmark; Odense, Denmark; {'lines': ['620', '621', '632']}
+Aarhus, Denmark; Holstebro, Denmark; {'lines': ['K638']}
+Vila Real, Portugal; Bonfim, Portugal; {'lines': ['CES013']}
+Vila Real, Portugal; Amarante, Portugal; {'lines': ['N1157']}
+Vila Real, Portugal; Murca, Portugal; {'lines': ['N1157']}
+Bellevue, USA; SeaTac, USA; {'lines': ['CUS039']}
+Onesti, Romania; Brasov, Romania; {'lines': ['1944']}
+Mus, Turkey; Solhan, Turkey; {'lines': ['TRN0401', 'TRN0405', 'TRN0425', 'TRN0452', 'TRN0466']}
+Hacihamza, Turkey; Kosen, Turkey; {'lines': ['TR0880', 'TRN0801', 'TRN0888', 'TRN0890']}
+Verona, Italy; Bologna, Italy; {'lines': ['486']}
+Verona, Italy; Trento, Italy; {'lines': ['486']}
+Perugia, Italy; Skopje, Makedonija; {'lines': ['K1903']}
+Besikduzu, Turkey; Gorele, Turkey; {'lines': ['TRN0761', 'TRN0764', 'TRN0800', 'TRN0801', 'TRN0804', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0882', 'TRN0888', 'TRN0890']}
+Espiye, Turkey; Yolagzi, Turkey; {'lines': ['TRN0490']}
+Duzce, Turkey; Istanbul, Turkey; {'lines': ['TR0636', 'TR0637']}
+Duzce, Turkey; Hanli, Turkey; {'lines': ['TR0194', 'TR0277b', 'TR0291', 'TR0638', 'TR0647', 'TR0648', 'TRN0190', 'TRN0467', 'TRN0648', 'TRN0801', 'TRN0887', 'TRN0888', 'TRN1240']}
+Duzce, Turkey; Dongelli, Turkey; {'lines': ['TR0192', 'TR0646', 'TR0671', 'TR0701', 'TR1244', 'TRN0103', 'TRN0635', 'TRN0701', 'TRN1240', 'TRN1244']}
+Derepazari, Turkey; Rize, Turkey; {'lines': ['TRN0738', 'TRN0761', 'TRN0800', 'TRN0804', 'TRN0816', 'TRN0836', 'TRN0842', 'TRN0866', 'TRN0882', 'TRN0887', 'TRN0888', 'TRN0890']}
+Derepazari, Turkey; Iyidere, Turkey; {'lines': ['TRN0761', 'TRN0800', 'TRN0836', 'TRN0882']}
+Gdansk, Poland; Warsaw, Poland; {'lines': ['K322']}
+Stuttgart, Germany; Augsburg, Germany; {'lines': ['900']}
+Stuttgart, Germany; Karlsruhe, Germany; {'lines': ['1929', '900', 'CBG002', 'K1905', 'K1957', 'N948', 'N950', 'N952', 'K1950', 'K1958a', 'K1958b', 'K1959', 'N1961', 'N1971', 'N971']}
+Stuttgart, Germany; Neu-Ulm, Germany; {'lines': ['1929', 'CBG002', 'K1905', 'K1957', 'K1958a', 'K1958b', 'N1961', 'N1971', 'N3203', 'N948', 'N971']}
+Stuttgart, Germany; Metzingen, Germany; {'lines': ['K1950', 'K1959', 'K985']}
+Peshastin, USA; Wenatchee, USA; {'lines': ['CUS039']}
+Amsterdam, Netherlands; Eindhoven, Netherlands; {'lines': ['080']}
+Amsterdam, Netherlands; Gent, Belgium; {'lines': ['802']}
+Amsterdam, Netherlands; Den Haag, Netherlands; {'lines': ['K1959', 'N1325']}
+Marienberg, Germany; Prague, Czech Republic; {'lines': ['858']}
+Yigittasi, Turkey; Yakutiye, Turkey; {'lines': ['TRN0490']}
+Katowice, Poland; Olomouc, Czech Republic; {'lines': ['CUA017', 'CUA018']}
+Altinova, Turkey; Salihler Mahallesi, Turkey; {'lines': ['TR0143']}
+Lourosa, Portugal; Bonfim, Portugal; {'lines': ['N1152']}
+Lourosa, Portugal; Sao Joao da Madeira, Portugal; {'lines': ['N1152']}
+Akdagmadeni, Turkey; Dogankent, Turkey; {'lines': ['TR0451', 'TRN0400', 'TRN0406', 'TRN0426', 'TRN0427', 'TRN0429', 'TRN0431', 'TRN0451', 'TRN0465b', 'TRN0467', 'TRN0467b']}
+Akdagmadeni, Turkey; Sivas Belediyesi, Turkey; {'lines': ['TRN0400', 'TRN0406', 'TRN0426']}
+Pilsen, Czech Republic; Prague, Czech Republic; {'lines': ['N3277']}
+Vasteras, Sweden; Orebro, Sweden; {'lines': ['600']}
+Lubenec, Czech Republic; Prague, Czech Republic; {'lines': ['854']}
+Vinnytsia, Ukraine; Uman, Ukraine; {'lines': ['N3277']}
+Civitanova Marche, Italy; Ancona, Italy; {'lines': ['556', '551']}
+Kusadasi, Turkey; Soke, Turkey; {'lines': ['TR0136', 'TRN0109', 'TRN0136']}
+Akhisar, Turkey; Balikesir, Turkey; {'lines': ['TR0144', 'TR0175', 'TR0178', 'TR0181', 'TR0191', 'TR0192', 'TR0194', 'TR0505', 'TRN0103', 'TRN0107', 'TRN0109', 'TRN0138', 'TRN0178', 'TRN0181', 'TRN0190', 'TRN0515', 'TRN0560']}
+Puebla de Sanabria, Spain; Verin, Portugal; {'lines': ['N1153']}
+Puebla de Sanabria, Spain; Benavente, Spain; {'lines': ['N1153']}
+Crikvenica, Croatia; Rijeka, Croatia; {'lines': ['944', '941']}
+Forbach, France; Metzingen, France; {'lines': ['790', 'N1152']}
+Forbach, France; Luxembourg, Luxembourg; {'lines': ['N1152', '1929']}
+Brugge, Belgium; Tourcoing, France; {'lines': ['N702']}
+Luxembourg, Luxembourg; Leuven, Belgium; {'lines': ['1929']}
+Piacenza, Italy; Bologna, Italy; {'lines': ['N424']}
+Kosen, Turkey; Karabuk, Turkey; {'lines': ['TRN0890']}
+Benavente, Spain; Leon, Spain; {'lines': ['N1153']}
+Skopje, Makedonija; Bologna, Italy; {'lines': ['K1901']}
+Vejle, Denmark; Holstebro, Denmark; {'lines': ['K638']}
+Sivas Belediyesi, Turkey; Sarkisla, Turkey; {'lines': ['TRN0402', 'TRN0409', 'TRN0480', 'TRN0481']}
+Sivas Belediyesi, Turkey; Hafik, Turkey; {'lines': ['TRN0465b']}
+Santarem, Portugal; Lisboa, Portugal; {'lines': ['N1155']}
+Ortahisar, Turkey; Akcaabat, Turkey; {'lines': ['TRN0490', 'TRN0738', 'TRN0761', 'TRN0764', 'TRN0800', 'TRN0801', 'TRN0804', 'TRN0816', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0842', 'TRN0866', 'TRN0882', 'TRN0887', 'TRN0888', 'TRN0890']}
+Vilobi d'Onyar, Spain; Perpignan, France; {'lines': ['721']}
+Vilobi d'Onyar, Spain; Barcelona, Spain; {'lines': ['721', 'CES028']}
+Vilobi d'Onyar, Spain; Vilobi� d'Onyar, Spain; {'lines': ['CES028', 'CES026', 'CES027']}
+Soke, Turkey; Milas, Turkey; {'lines': ['TR0135', 'TR1152', 'TRN0135', 'TRN0409']}
+Yozgat, Turkey; Ankara, Turkey; {'lines': ['TRN0400', 'TRN0426']}
+Perpignan, France; Barcelona, Spain; {'lines': ['788', 'N707', 'N740', 'N788']}
+Rijeka, Croatia; Zadar, Croatia; {'lines': ['938', 'CHR033', 'N948']}
+Karlovac, Croatia; Bihac, Bosnia and Herzegovina; {'lines': ['K1957']}
+Karlovac, Croatia; Zadar, Croatia; {'lines': ['K997']}
+Ankara, Turkey; Karabuk, Turkey; {'lines': ['TR0240', 'TR0243', 'TR0700', 'TRN0243', 'TRN0700', 'TRN0703', 'TRN1242']}
+Gemlik, Turkey; Orhangazi, Turkey; {'lines': ['TR0181', 'TR0191', 'TR0192', 'TR0194', 'TR0556', 'TR0560', 'TR0600', 'TR0601', 'TR0603', 'TR0604', 'TR0609', 'TR0610', 'TR0671', 'TR0808', 'TRN0103', 'TRN0107', 'TRN0138', 'TRN0138b', 'TRN0178', 'TRN0190', 'TRN0530', 'TRN0609', 'TRN0801']}
+Safranbolu, Turkey; Karabuk, Turkey; {'lines': ['TR0194', 'TR0240', 'TR0243', 'TR0636', 'TR0648', 'TR0700', 'TRN0107', 'TRN0190', 'TRN0243', 'TRN0638', 'TRN0648', 'TRN0700', 'TRN0703', 'TRN0890', 'TRN1242']}
+Safranbolu, Turkey; Toprakcuma, Turkey; {'lines': ['TR0243', 'TR0648', 'TRN0638']}
+Babadat, Turkey; seker Mahallesi, Turkey; {'lines': ['TR0213', 'TRN0804', 'TRN0816']}
+Ilgin, Turkey; Adsiz, Turkey; {'lines': ['TR0370', 'TR0371', 'TR1030', 'TR1055', 'TR1056', 'TRN0370', 'TRN0374', 'TRN0402', 'TRN0405', 'TRN0409', 'TRN1056', 'TRN1057']}
+Kladovo, Serbia; Negotin, Serbia; {'lines': ['1950']}
+Augsburg, Germany; Neu-Ulm, Germany; {'lines': ['1929', 'CBG002', 'K1905', 'K1950', 'K1958a', 'K1958b', 'K1959', 'K985', 'N1971', 'N3203', 'N948', 'N971']}
+Augsburg, Germany; Sofia, Bulgaria; {'lines': ['CBG002']}
+Rosenheim, Germany; Wien, Austria; {'lines': ['1923']}
+Rosenheim, Germany; Salzburg, Austria; {'lines': ['K985']}
+Ruzomberok, Slovensko; zilina, Slovensko; {'lines': ['CCZ061']}
+Ruzomberok, Slovensko; okres Nitra, Slovensko; {'lines': ['CCZ058', 'K811']}
+Belek, Turkey; Serik, Turkey; {'lines': ['TR0500', 'TRN1206']}
+Rouen, France; Paris, France; {'lines': ['722', '742', 'N709']}
+Rouen, France; Caen, France; {'lines': ['722']}
+Fatsa, Turkey; Presembe, Turkey; {'lines': ['TR0837', 'TR0858', 'TR0880', 'TRN0490', 'TRN0738', 'TRN0761', 'TRN0764', 'TRN0800', 'TRN0801', 'TRN0804', 'TRN0832', 'TRN0833', 'TRN0836', 'TRN0837', 'TRN0842', 'TRN0858', 'TRN0880', 'TRN0882', 'TRN0888', 'TRN0890']}
+Annecy, France; Geneve, Switzerland; {'lines': ['739']}
+Annecy, France; Chambery, France; {'lines': ['739', 'K900', 'N1156', '766']}
+Monopoli, Italy; Brindisi, Italy; {'lines': ['573', 'N425', 'N436', 'N573']}
+Monopoli, Italy; Polignano a Mare, Italy; {'lines': ['N573']}
+Hanli, Turkey; Istanbul, Turkey; {'lines': ['TR0642']}
+Hanli, Turkey; Izmit, Turkey; {'lines': ['TR0191', 'TR0192', 'TR0194', 'TR0276b', 'TR0277b', 'TR0291', 'TR0530', 'TR0531', 'TR0638', 'TR0647', 'TR0648', 'TR0671', 'TR0880', 'TRN0103', 'TRN0107', 'TRN0109', 'TRN0151', 'TRN0190', 'TRN0275b', 'TRN0465b', 'TRN0466', 'TRN0467', 'TRN0467b', 'TRN0468', 'TRN0531', 'TRN0532', 'TRN0533', 'TRN0558', 'TRN0571', 'TRN0635', 'TRN0637', 'TRN0642', 'TRN0647', 'TRN0648', 'TRN0801', 'TRN0880', 'TRN0882', 'TRN0887', 'TRN0888']}
+Hanli, Turkey; Sakarya, Turkey; {'lines': ['TRN0151', 'TRN0558']}
+Hanli, Turkey; Bilecik, Turkey; {'lines': ['TR0531', 'TRN0531', 'TRN0533', 'TRN0571', 'TRN1240']}
+Gumusseren, Turkey; Yakutiye, Turkey; {'lines': ['TRN0400', 'TRN0409', 'TRN0426', 'TRN0431', 'TRN0468', 'TRN0481', 'TRN0490']}
+Prague, Czech Republic; Wien, Austria; {'lines': ['N958']}
+Prague, Czech Republic; Znojmo, Czech Republic; {'lines': ['903']}
+Prague, Czech Republic; Brno, Czech Republic; {'lines': ['1926', 'CUA017', 'CUA018', 'CUA021', 'N3277', '850']}
+Prague, Czech Republic; Dresden, Germany; {'lines': ['1926']}
+Prague, Czech Republic; Pardubice, Czech Republic; {'lines': ['CUA019', 'CUA020']}
+Sarigol, Turkey; Buldan, Turkey; {'lines': ['TRN0560']}
+Milas, Turkey; Yatagan, Turkey; {'lines': ['TRN0105', 'TRN0402', 'TRN0836', 'TRN0840']}
+Toledo, Spain; Badajoz, Spain; {'lines': ['N793']}
+Ceske Budejovice, Czech Republic; Tabor, Czech Republic; {'lines': ['853', 'K817', 'K818']}
+Potenza, Italy; Mormanno, Italy; {'lines': ['581']}
+Potenza, Italy; Falerna, Italy; {'lines': ['N528']}
+Dinar, Turkey; Ekinhisar, Turkey; {'lines': ['TRN0105']}
+Dinar, Turkey; Isparta, Turkey; {'lines': ['TR0900', 'TRN0370b']}
+Dinar, Turkey; Bozkurt, Turkey; {'lines': ['TR0900', 'TRN0370b', 'TRN0374', 'TRN0402', 'TRN0409', 'TRN0836']}
+Lecce, Italy; Brindisi, Italy; {'lines': ['573', 'N425', 'N436', 'N573']}
+Leipzig, Germany; Dresden, Germany; {'lines': ['N3201']}
+Akcaabat, Turkey; Carsibasi, Turkey; {'lines': ['TRN0490', 'TRN0761', 'TRN0800', 'TRN0882']}
+Macon, France; Paris, France; {'lines': ['N1131']}
+Macon, France; Lyon, France; {'lines': ['730', 'N1131']}
+Olomouc, Czech Republic; Brno, Czech Republic; {'lines': ['CUA017', 'CUA018', 'N3277']}
+Chambery, France; Lyon, France; {'lines': ['729', 'N729', '766']}
+Chambery, France; Oulx, Italy; {'lines': ['N729']}
+Bochum, Germany; Essen, Germany; {'lines': ['1925', 'K1905', 'K1950', 'K1957', 'K1958a', 'K1958b', 'N1961']}
+Oradea, Romania; Budapest, Hungary; {'lines': ['N963']}
+Figueira da foz, Portugal; Lisboa, Portugal; {'lines': ['1005']}
+Salamanca, Spain; Valladolid, Spain; {'lines': ['N1155']}
+Angers, France; Paris, France; {'lines': ['1704']}
+Kobenhavn, Denmark; Odense, Denmark; {'lines': ['620', '621', '632']}
+Oliveira do Hospital e Sao Paio de Gramacos, Portugal; Mouronho, Portugal; {'lines': ['N1156']}
+Istanbul, Turkey; Izmit, Turkey; {'lines': ['TR0530', 'TRN0532', 'TRN0637', 'TRN0642', 'TR0276b', 'TR0277b', 'TR0291', 'TR0531', 'TR0638', 'TR0647', 'TR0648', 'TR0880', 'TRN0151', 'TRN0275b', 'TRN0285', 'TRN0465b', 'TRN0466', 'TRN0467', 'TRN0467b', 'TRN0468', 'TRN0531', 'TRN0533', 'TRN0558', 'TRN0571', 'TRN0635', 'TRN0647', 'TRN0648', 'TRN0880', 'TRN0882', 'TRN0887', 'TRN0888', 'TR0191', 'TR0192', 'TR0194', 'TR0671', 'TRN0107', 'TRN0109', 'TRN0190', 'TRN0801']}
+Istanbul, Turkey; Orhangazi, Turkey; {'lines': ['TR0181', 'TR0556', 'TR0560', 'TR0600', 'TR0601', 'TR0603', 'TR0604', 'TR0609', 'TR0610', 'TRN0138', 'TRN0138b', 'TRN0178', 'TRN0530', 'TRN0609', 'TR0191', 'TR0192', 'TR0194', 'TR0612', 'TR0671', 'TR0808', 'TRN0103', 'TRN0107', 'TRN0190', 'TRN0801']}
+Istanbul, Turkey; Sakarya, Turkey; {'lines': ['TR0555', 'TR0570', 'TR1030']}
+Istanbul, Turkey; Karamursel, Turkey; {'lines': ['TRN0103']}
+Venezia, Italy; Bologna, Italy; {'lines': ['466']}
+Venezia, Italy; Trieste, Italy; {'lines': ['994']}
+Venezia, Italy; Vicenza, Italy; {'lines': ['994']}
+Venezia, Italy; Udine, Italy; {'lines': ['537']}
+Sibenik, Croatia; Zadar, Croatia; {'lines': ['K997', 'N948']}
+Sibenik, Croatia; Bihac, Bosnia and Herzegovina; {'lines': ['975', 'N975']}
+Badajoz, Spain; Malagueira e Horta das Figueiras, Portugal; {'lines': ['793']}
+Constance, Germany; Singen (Hohentwiel), Germany; {'lines': ['K997']}
+Borcka, Turkey; Artvin, Turkey; {'lines': ['TRN0738', 'TRN0816', 'TRN0842', 'TRN0866', 'TRN0887']}
+Sofia, Bulgaria; Wien, Austria; {'lines': ['CBG003']}
+Paris, France; Calais, France; {'lines': ['700', 'N700']}
+Paris, France; Lyon, France; {'lines': ['729', 'N729']}
+Paris, France; Metzingen, France; {'lines': ['790']}
+Paris, France; Caen, France; {'lines': ['1774']}
+Tarbes, France; Pau, France; {'lines': ['N1155']}
+Van, Turkey; Muradiye, Turkey; {'lines': ['TRN0409', 'TRN0490']}
+Murcia, Spain; Alacant / Alicante, Spain; {'lines': ['N1131']}
+Lyon, France; Marseille, France; {'lines': ['N719']}
+Lyon, France; Barcelona, Spain; {'lines': ['N1131']}
+Lyon, France; Geneve, Switzerland; {'lines': ['1921', 'N788', 'N953']}
+Lyon, France; Le Passage, France; {'lines': ['N709']}
+Sarikoy, Turkey; Beysehir, Turkey; {'lines': ['TRN0401', 'TRN0481']}
+Ancona, Italy; Bologna, Italy; {'lines': ['K1901']}
+Bihac, Bosnia and Herzegovina; Zadar, Croatia; {'lines': ['K927']}
+Toprakcuma, Turkey; Karabuk, Turkey; {'lines': ['TR0638', 'TR0647', 'TRN0647']}
+Buldan, Turkey; Saraykoy, Turkey; {'lines': ['TRN0560']}
+Serik, Turkey; Isparta, Turkey; {'lines': ['TR0900']}
+Villach, Austria; Salzburg, Austria; {'lines': ['944', 'N981']}
+Villach, Austria; Udine, Italy; {'lines': ['944']}
+Michalovce, Slovensko; Kosice, Slovensko; {'lines': ['CCZ058']}
+Gottingen, Germany; Hanover, Germany; {'lines': ['N881']}
+Bologna, Italy; Vicenza, Italy; {'lines': ['994']}
+Kucukkuyu, Turkey; Avcilar, Turkey; {'lines': ['TR0203', 'TR0514', 'TR0602', 'TR1104', 'TRN0203', 'TRN0262', 'TRN0427', 'TRN0429', 'TRN0508', 'TRN0602', 'TRN1057']}
+Elazig, Turkey; Kovancilar, Turkey; {'lines': ['TRN0401', 'TRN0405', 'TRN0425', 'TRN0452', 'TRN0466']}
+A Coruna, Spain; Oviedo, Spain; {'lines': ['783']}
+Narbonne, France; Barcelona, Spain; {'lines': ['1728']}
+Znojmo, Czech Republic; Wien, Austria; {'lines': ['903']}
+Znojmo, Czech Republic; Brno, Czech Republic; {'lines': ['CCZ057']}
+Vilobi� d'Onyar, Spain; Barcelona, Spain; {'lines': ['N708']}
+Trieste, Italy; Udine, Italy; {'lines': ['944']}
+Egirdir, Turkey; Isparta, Turkey; {'lines': ['TRN0370b', 'TRN0401', 'TRN0481']}
+Gemeinde Wiener Neustadt, Austria; Wien, Austria; {'lines': ['K983', 'K845']}
+Gemeinde Wiener Neustadt, Austria; Jablanica, Bosnia and Herzegovina; {'lines': ['K983']}
+Viana do Castelo, Portugal; Bonfim, Portugal; {'lines': ['CES014']}
+Salzburg, Austria; Wien, Austria; {'lines': ['1929']}
+Salzburg, Austria; Jablanica, Bosnia and Herzegovina; {'lines': ['K985']}
+Metzingen, Germany; Neu-Ulm, Germany; {'lines': ['K1950', 'K1959', 'K985']}
+Saraykoy, Turkey; Nazilli, Turkey; {'lines': ['TR0300b', 'TR0301', 'TR0505', 'TR0514', 'TR0900', 'TR0904', 'TRN0138b', 'TRN0370b', 'TRN0409', 'TRN0515', 'TRN0836', 'TRN0840']}
+Orebro, Sweden; Karlskoga, Sweden; {'lines': ['600']}
+Catania, Italy; Taormina, Italy; {'lines': ['582']}
+Chemnitz, Germany; Dresden, Germany; {'lines': ['N3202', 'N3203']}
+Calais, France; Shepway, UK; {'lines': ['N700']}
+Spisska Nova Ves, Slovensko; Kosice, Slovensko; {'lines': ['CCZ058']}
+Izmit, Turkey; Karamursel, Turkey; {'lines': ['TRN0103']}
+Balikesir, Turkey; Orta Mahallesi, Turkey; {'lines': ['TR0141', 'TR0144', 'TR0178', 'TR0181', 'TR0191', 'TR0192', 'TR0194', 'TR0203', 'TR0207', 'TR0262', 'TR0269', 'TR0602', 'TR0610', 'TR1055', 'TRN0103', 'TRN0107', 'TRN0109', 'TRN0138', 'TRN0178', 'TRN0181', 'TRN0190', 'TRN0203', 'TRN0262', 'TRN0425', 'TRN0426', 'TRN0429', 'TRN0515', 'TRN0560', 'TRN0602', 'TRN0801', 'TRN0819', 'TRN1057']}
+Lamezia Terme, Italy; Falerna, Italy; {'lines': ['582']}
+Bilecik, Turkey; Sakarya, Turkey; {'lines': ['TR0555', 'TR0570', 'TR1030', 'TRN0558']}
+Bonfim, Portugal; Lisboa, Portugal; {'lines': ['1004']}
+Budapest, Hungary; Wien, Austria; {'lines': ['902', 'N3300', 'N959', 'N963']}

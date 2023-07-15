@@ -38,20 +38,6 @@ with open("nodes_coord", 'r', encoding="utf-8") as f:
         nodes[nr]=stop
 
 nx.set_node_attributes(G, nodes)
-write_nodelist_coordinates(G, 'nodes_coord')
-
-'''
-map1 = folium.Map(
-    location=[51.0, 10.0],
-    tiles='cartodbpositron',
-    zoom_start=4,
-)
-
-print([G.nodes["1569"]["lat"], G.nodes["1569"]["long"]])
-folium.CircleMarker(location=[G.nodes["1569"]["lat"], G.nodes["1569"]["long"]]).add_to(map1)
-
-map1.show_in_browser()
-
-'''
+#write_nodelist_coordinates(G, 'nodes_coord1')
 
 

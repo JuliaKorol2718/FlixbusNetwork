@@ -1,5 +1,3 @@
-from typing import List, Dict, Any
-
 from bs4 import BeautifulSoup
 import requests
 import networkx as nx
@@ -61,12 +59,10 @@ def addRoute(G, route):
         G = addNode(G, stops[0])
 
     i = 0
-
     while i < len(stops)-1:
 
         stop_from = stops[i]
         stop_to = stops[i+1]
-
         if not stop_to['nr'] in G:
             G = addNode(G, stop_to)
 

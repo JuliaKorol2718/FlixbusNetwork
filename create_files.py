@@ -22,6 +22,8 @@ def write_merged_from_df(df, file_):
     with open(file_, 'w', encoding="utf-8") as f:
         for index, stop in df.iterrows():
             f.write(str(stop['adress'])+str("; "))
+            f.write(str(stop['city']) + str("; "))
+            f.write(str(stop['country']) + str("; "))
             f.write(str(stop['nr_list'])+str("; "))
             f.write(str(stop['lat'])+str("; "))
             f.write(str(stop['long']))

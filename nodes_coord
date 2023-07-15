@@ -22,7 +22,7 @@
 890, FOCA (Terminal Folkestone-Calais), Shepway, UK, 51.05774845, 1.0060720698429628
 993, Victoria Coach Station, London, UK, 51.5073359, -0.12765
 1561, Eurolines Coach Check-in, Shepway, UK, 51.05774845, 1.0060720698429628
-1935, Lisboa (Oriente), Karlovy Vary, Czech Republic, 50.2306216, 12.8701437
+1935, Lisboa (Oriente), Lisboa, Portugal, 38.76791135532439, -9.099300074636238
 1844, Fatima, Fatima, Portugal, 39.59427865, -8.640103206816452
 2033, Porto, Bonfim, Portugal, 41.1510697, -8.5939568
 1847, Figueira da foz, Figueira da foz, Portugal, 40.1485808, -8.855655
@@ -39,7 +39,7 @@
 2524, Porto - Aeroporto Sa Carneiro (IC), Vila Nova da Telha, Portugal, 41.2472504, -8.6731499
 2146, Viana do Castelo, Viana do Castelo, Portugal, 41.8803257, -8.523255293554344
 4126, Porto, Bonfim, Portugal, 41.1510697, -8.5939568
-3802, Lourosa, Sao Joao de Madeira, Portugal, 32.6529027, -16.922665
+3802, Lourosa, Lourosa, Portugal, 40.988045123858804, -8.554646599972406
 3871, Povoa do Varzim, Povoa do Varzim, Portugal, 41.3787075, -8.766180409965257
 2021, Penafiel, Penafiel, Portugal, 41.203919400000004, -8.292240964931633
 2154, Viseu, Viseu, Portugal, 40.6574713, -7.913866
@@ -74,7 +74,7 @@
 600, Jeremenkova, Olomouc, Czech Republic, 49.5940567, 17.251143
 1331, Rivne, Rivne, Ukraine, 51.2074112, 26.5208033
 676, Metro Mlociny, Warsaw, Poland, 52.2319581, 21.0067249
-1291, Brest, Brest, France, 48.3905283, -4.4860088
+1291, Mickiewicza, Brest, Belarus, 52.098446207212945, 23.691118993460545
 369, Busbahnhof, Katowice, Poland, 50.2598987, 19.0215852
 2892, Zory Dworzec Autobusowy, Zory, Poland, 50.0388902, 18.680612383121996
 4162, Krakow, Krakow, Poland, 50.0619474, 19.9368564
@@ -425,7 +425,7 @@
 2283, Pitesti (Autogara), Pitesti, Romania, 44.8572343, 24.8719422
 2225, Gaesti, Ploiesti, Romania, 44.9417468, 26.0236504
 2316, Targoviste, Ploiesti, Romania, 44.9417468, 26.0236504
-2168, Alexandria (Autogara), Alessandria, Italy, 44.83495335, 8.745030418605868
+2168, Alexandria (Autogara), Alexandria, Romania, 43.97495425180922, 25.325217714216933
 2293, Rosiorii de Vede (Autogara), Rosiorii de Vede, Romania, 44.1083489, 24.9952094
 2196, Caracal (Autogara), Caracal, Romania, 44.1123292, 24.3463095
 2306, Slatina (Lidl Steaua), Slatina, Romania, 44.4299971, 24.3631837
@@ -459,7 +459,7 @@
 2274, Orsova, Kladovo, Serbia, 44.6093983, 22.6136517
 2216, Drobeta-Turnu Severin, Kladovo, Serbia, 44.6093983, 22.6136517
 3112, Calafat, Negotin, Serbia, 44.2271199, 22.530892
-2593, Vidin, Vidin, Serbia, 44.826966, 20.4517417
+2593, Negotin, Negotin, Serbia, 44.23285314378968, 22.501333137885304
 2479, Montana, Montana, Bulgaria, 43.480152000000004, 23.116076731505338
 2599, Vratsa, Sofia, Bulgaria, 42.6977028, 23.3217359
 1443, Pazardzhik, Pazardzhik, Bulgaria, 42.1487425, 24.153175862220515
@@ -482,8 +482,8 @@
 3336, Perusis, Bihac, Bosnia and Herzegovina, 44.8146563, 15.86896
 1279, Slavonski Brod, Slavonski Brod, Croatia, 45.1665803, 18.0121385
 2092, Skradin, Sibenik, Croatia, 43.7338436, 15.8961863
-1995, Novska, Jablanica, Bosnia and Herzegovina, 43.6617485, 17.7618471
-2028, Plitviska Jezera, Bihac, Bosnia and Herzegovina, 44.8146563, 15.86896
+1995, Novska, Novska, Croatia, 45.34050513872255, 16.981219861969947
+2028, Plitviska Jezera, Plitviska Jezera, Croatia, 45.11053477886049, 15.56247510464816
 1009, Opatija, Opatija, Croatia, 45.3349238, 14.3067834
 1592, Buje, Umag, Croatia, 45.4323587, 13.5224098
 969, Lingotto, Torino, Italy, 45.0677551, 7.6824892
@@ -556,7 +556,7 @@
 3034, Reggio Calabria, Messina, Italy, 38.1937571, 15.5542082
 1146, Taormina, Taormina, Italy, 37.8517921, 15.2856523
 1223, Catania, Catania, Italy, 37.5023612, 15.0873718
-1908, Karlstad, Karlovac, Croatia, 45.4892522, 15.5486303
+1908, Karlstad, Karlstadt, Sweden, 59.40266220415804, 13.509093244413696
 1917, Kristinehamn, Kristinehamn, Sweden, 59.3113619, 14.11176
 1907, Karlskoga, Karlskoga, Sweden, 59.3291667, 14.5176911
 2008, Orebro, Orebro, Sweden, 59.2747287, 15.215118
@@ -589,7 +589,7 @@
 1643, Lund, Malmo, Sweden, 55.6052931, 13.0001566
 1766, Boras, Goteborg, Sweden, 57.7072326, 11.9670171
 2132, Uppsala, Stockholm, Sweden, 59.3251172, 18.0710935
-2872, Valdemarsvik, Valdemarsviks kommun, Sweden, 58.2, 16.6
+2872, Valdemarsvik, Valdemarsviks kommun, Sweden, 58.2122, 16.9043
 2689, Gamleby, Gamleby, Sweden, 57.8998238, 16.4082564
 2873, Vastervik, Vastervik, Sweden, 57.799722, 16.383056
 2875, Verkebacksbron, Verkeback, Sweden, 57.7280478, 16.5207659
@@ -621,7 +621,7 @@
 1362, Girona (Plaza Espana), Vilobi� d'Onyar, Spain, 41.8882291, 2.7423246
 3104, Dijon, Dijon, France, 47.3215806, 5.0414701
 1749, Beaune, Dijon, France, 47.3215806, 5.0414701
-3856, La Roche Sur Foron, Genf, Switzerland, 46.2017559, 6.1466014
+3856, La Roche Sur Foron, La Roche Sur Foron, France, 46.06809781084102, 6.340052586458098
 3848, International Interconnection Hub, Burgos, Spain, 42.343926, -3.696977
 1760, Bilbao (Termibus station), Bilbao, Spain, 43.2630018, -2.9350039
 1898, Irun Estacion de autobuses, Saint-Jean-de-Luz, France, 43.3870763, -1.6635695
@@ -650,7 +650,7 @@
 4361, Lisov, Ceske Budejovice, Czech Republic, 48.9747357, 14.47428
 877, autobusove nadrazi, Cesky Krumlov, Czech Republic, 48.805114950000004, 14.316197791106362
 3943, Cerna v Posumavi, Cesky Krumlov, Czech Republic, 48.805114950000004, 14.316197791106362
-1943, Lubenec, Karlovy Vary, Czech Republic, 50.2306216, 12.8701437
+1943, Lubenec, Lubenec, Czech Republic, 50.13233429084065, 13.316550568795742
 3012, Louny, Prague, Czech Republic, 50.0874654, 14.4212535
 846, Terminal, Karlovy Vary, Czech Republic, 50.2306216, 12.8701437
 3037, Chomutov, Marienberg, Germany, 50.6507279, 13.163188
@@ -735,7 +735,7 @@
 3139, Potpoletnica, Imotski, Croatia, 43.4471115, 17.2179703
 3090, Zadvarje, Imotski, Croatia, 43.4471115, 17.2179703
 3076, Sestanovac, Imotski, Croatia, 43.4471115, 17.2179703
-1752, Belgrade East (Pansevo), Belgrad/Nis, Serbia, 44.7901749, 20.425112123702718
+1752, Belgrade East (Pansevo), Belgrad, Serbia, 44.7901749, 20.425112123702718
 1199, Novi Sad, Novi Sad, Serbia, 45.2551338, 19.8451756
 4360, Golubac, Golubac, Serbia, 44.6531108, 21.6305205
 1172, Tetovo, Tetovo, Makedonija, 42.0068297, 20.9728556
@@ -830,11 +830,11 @@
 2879, Vrpolje, Bosanski Samac, Bosnia and Herzegovina, 45.0606892, 18.4693465
 1139, Vukovar, Vukovar, Croatia, 45.3444116, 19.0023817
 1342, Valpovo, Osijek, Croatia, 45.5548793, 18.6953685
-1252, Vinkovci, Vukovar, Croatia, 45.3444116, 19.0023817
-3413, Borovo, Vukovar, Croatia, 45.3444116, 19.0023817
+1252, Vinkovci, Vinkovci, Croatia, 45.28703652938096, 18.801635782218735
+3413, Borovo, Borova, Croatia, 45.402060383617545, 18.971414797804147
 3338, Vukovar, Vukovar, Croatia, 45.3444116, 19.0023817
 1870, Gradiste, Zupanja, Croatia, 45.0723677, 18.694355
-1998, Nustar, Vukovar, Croatia, 45.3444116, 19.0023817
+1998, Nustar, Nustar, Croatia, 45.332257068900766, 18.841844219742878
 4100, Pussine, Varazdin, Croatia, 46.312673149999995, 16.351019097087267
 4254, Bisag, Zlatar, Croatia, 46.0927547, 16.0773351
 4265, Komin, Zlatar, Croatia, 46.0927547, 16.0773351
@@ -896,8 +896,8 @@
 4188, Debar, Kicevo, Makedonija, 41.5089037, 20.9585155
 1200, Kicevo, Kicevo, Makedonija, 41.5089037, 20.9585155
 4150, Rieti, L'Aquila, Italy, 42.1368853, 13.610341022538911
-4273, Tirana, Tirana, Shqiperi, 41.3085403, 19.840069
-1153, Durres, Tirana, Shqiperi, 41.3085403, 19.840069
+4273, Tirana, Tirana, Albania, 41.3085403, 19.840069
+1153, Durres, Tirana, Albania, 41.3085403, 19.840069
 811, ZOB, Brunswick, Germany, 52.2646577, 10.5236066
 1055, Hindenburgplatz, Hildesheim, Germany, 52.1521636, 9.9513046
 815, Bahnhof/ZOB, Gottingen, Germany, 51.5328328, 9.9351811
@@ -955,11 +955,11 @@
 1825, Derventa (bus st. NAS), Slavonski Brod, Croatia, 45.1665803, 18.0121385
 3424, Leoben, Sankt Michael in Obersteiermark, Austria, 47.3378642, 15.0210982
 2594, Vienna Meidling, Wien, Austria, 48.2083537, 16.3725042
-1775, Brsadin, Vukovar, Croatia, 45.3444116, 19.0023817
-3362, Lovas, Vukovar, Croatia, 45.3444116, 19.0023817
-3389, Ilok, Vukovar, Croatia, 45.3444116, 19.0023817
-3414, Ilok, Vukovar, Croatia, 45.3444116, 19.0023817
-3335, Ilok, Vukovar, Croatia, 45.3444116, 19.0023817
+1775, Brsadin, Brsadin, Croatia, 45.3618979385102, 18.910103804109497
+3362, Lovas, Lovas, Croatia, 45.22652385990528, 19.166537868842358
+3389, Ilok, Ilok, Croatia, 45.22234136411038, 19.37640636082451
+3414, Ilok, Ilok, Croatia, 45.22234136411038, 19.37640636082451
+3335, Ilok, Ilok, Croatia, 45.22234136411038, 19.37640636082451
 855, Liezen, Liezen, Austria, 47.5070965, 14.212568375549036
 1193, Dubrovnik, Dubrovnik, Croatia, 42.64873625, 18.094680152605108
 1136, Metkovic, Capljina, Bosnia and Herzegovina, 43.1133536, 17.705039
@@ -1079,7 +1079,7 @@
 4277, Soke, Soke, Turkey, 37.7519762, 27.4056294
 4154, Selimiye, Selimiye, Turkey, 40.676125, 35.460869
 4040, Yatagan, Yatagan, Turkey, 37.3416697, 28.139511
-4297, Izmir, Isikkent, Turkey, 37.7638111, 30.5249762
+4297, Izmir, Izmir, Turkey, 38.4270307033353, 27.13950623150871
 4197, Kusadasi, Kusadasi, Turkey, 37.8632398, 27.266873
 4052, Didim, Didim, Turkey, 37.3769167, 27.2668129
 4028, Didim, Didim, Turkey, 37.3769167, 27.2668129
@@ -1109,7 +1109,7 @@
 4251, Taytem rest station, Hamitli, Turkey, 41.787056, 33.0663039
 4135, Duzce, Duzce, Turkey, 40.8774545, 31.2009618
 4235, Sakarya, Hanli, Turkey, 39.4628374, 36.6637741
-4322, Bolu, Gelibolu, Turkey, 40.4054063, 26.6722539
+4322, Bolu, Bolu, Turkey, 40.7326087512775, 31.60827369127477
 4195, Istanbul, Istanbul, Turkey, 41.0091982, 28.9662187
 4147, Unova, Elmalik, Turkey, 40.729687, 31.4523877
 1168, Istanbul, Istanbul, Turkey, 41.0091982, 28.9662187
@@ -1123,7 +1123,7 @@
 4176, Musla, Musla, Turkey, 41.2616558, 33.7297591
 4020, Ula, Gokova, Turkey, 37.0556312, 28.365121
 4160, Koycegiz, Koycegiz, Turkey, 40.6236468, 35.502738
-4207, Kale, Kalesija, Bosnia and Herzegovina, 44.4429857, 18.8756758
+4207, Kale, Kale, Turkey, 37.4528175765316, 28.852720587624326
 4063, Marmaris, Marmaris, Turkey, 36.8522547, 28.2742661
 4226, Datca, Datca, Turkey, 36.7263403, 27.6873855
 4298, Burhaniye, Burhaniye, Turkey, 39.503059, 26.9807755
@@ -1139,13 +1139,13 @@
 4222, Bergama, Bergama, Turkey, 39.1191544, 27.1777296
 4085, Fethiye, Fethiye, Turkey, 36.6221019, 29.1153234
 4129, Dalaman, Dalaman, Turkey, 36.7672142, 28.8002737
-4118, Kalkan, Tetovo, Makedonija, 42.0068297, 20.9728556
+4118, Kalkan, Kas, Turkey, 36.261858414062644, 29.415706343890594
 4173, Fethiye, Fethiye, Turkey, 36.6221019, 29.1153234
 4201, Cavdir, Cavdir, Turkey, 37.154989, 29.6900028
 4342, Korkuteli, Korkuteli, Turkey, 37.0666523, 30.1970497
 3969, Ortaca, Ortaca, Turkey, 36.8388775, 28.7654688
 4146, Salihli, Salihli, Turkey, 38.4860588, 28.1390032
-4141, Kas, Dubrovnik, Croatia, 42.64873625, 18.094680152605108
+4141, Kas, Kas, Turkey, 36.199851220165094, 29.639960834587946
 4057, Nazilli, Isabeyli, Turkey, 37.9114241, 28.2595811
 3980, Denizli, Pamukkale, Turkey, 37.9175091, 29.1197589
 4384, Corlu, Corlu, Turkey, 41.114126150000004, 27.751715247805304
@@ -1160,7 +1160,7 @@
 4050, Gokcebey, Gokcebey, Turkey, 41.3056431, 32.1429562
 4314, Devrek, Devrek, Turkey, 41.2188823, 31.9558348
 3958, Zonguldak, Zonguldak, Turkey, 41.250324, 31.8389738
-4001, Mengen, Mengen, Germany, 48.049796, 9.3316096
+4001, Mengen, Mengen, Turkey, 40.93958808902658, 32.07259160887575
 4170, Yenicaga, Yenicaga, Turkey, 40.7703852, 32.033640
 4048, Karabuk, Karabuk, Turkey, 41.1955402, 32.6231154
 4013, Ankara, Ankara, Turkey, 39.9207886, 32.8540482
@@ -1180,7 +1180,7 @@
 4155, Boyabat, Dayli, Turkey, 39.3514586, 37.4418958
 4292, Kastamonu, Kastamonu, Turkey, 41.3680217, 33.7619177
 4122, Taskopru, Taskopru, Turkey, 41.5092008, 34.2124908
-4131, Arac, Caracal, Romania, 44.1123292, 24.3463095
+4131, Arac, Arac, Turkey, 41.2427147383004, 33.32851006671555
 4245, Igdir, Igdir, Turkey, 39.8945292, 43.942745
 4196, Toprakcuma, Toprakcuma, Turkey, 41.2021251, 32.9099057
 4328, Bandirma, Bandirma, Turkey, 40.34879, 27.9755587
@@ -1203,11 +1203,11 @@
 4249, Altinoluk, Avcilar, Turkey, 40.9799389, 28.7216689
 3966, Kucukkuyu, Kucukkuyu, Turkey, 39.5465429, 26.6045282
 4315, Ezine, Ezine, Turkey, 39.80194375000001, 26.304249777300804
-4294, sorum, Augsburg, Germany, 48.3668041, 10.8986971
+4294, Corum, Corum, Turkey, 40.550095442146144, 34.95289278571773
 4090, Sungurlu, Sungurlu, Turkey, 40.1652438, 34.3787827
 4338, Merzifon, Merzifon, Turkey, 40.8721392, 35.4635383
 4418, Mecitozu, Mecitozu, Turkey, 40.5205856, 35.2953447
-4317, Alaca, Alicante, Spain, 38.3436365, -0.4881708
+4317, Alaca, Alaca, Turkey, 40.16950677146998, 34.84231574479469
 3950, Sungurlu, Sungurlu, Turkey, 40.1652438, 34.3787827
 4123, Kirsehir, Asikpasa Mahallesi, Turkey, 39.1530011, 34.163935423198936
 4142, Mavikent rest station, Kizilca, Turkey, 40.5162707, 35.7619356
@@ -1217,7 +1217,7 @@
 3949, Canakkale, Canakkale, Turkey, 40.0549886, 26.9278292
 4000, Canakkale, Canakkale, Turkey, 40.0549886, 26.9278292
 4334, Tavsanli, Tavsanli, Turkey, 40.2143415, 28.3580303
-3987, Emet, Clermont-Ferrand, France, 45.7774551, 3.0819427
+3987, Emet, Emet, Turkey, 39.34461181224453, 29.258274012168467
 3961, Banaz, Banaz, Turkey, 38.7399733, 29.7531896
 4093, Sandikli, Ekinhisar, Turkey, 38.530533, 30.225002
 4252, Yenice, Yenice, Turkey, 40.430603, 34.8252381
@@ -1243,11 +1243,11 @@
 4224, Irmak rest station, Hacihamza, Turkey, 39.856986, 40.6390626
 4164, Sandikli, Sandikli, Turkey, 38.4647643, 30.272542
 4250, Cay, Caycuma, Turkey, 41.4269456, 32.072821
-4291, Kula, Liptovsky Mikulas, Slovensko, 49.0835785, 19.612785
+4291, Kula, Manisa, Turkey, 38.79304747139153, 28.6167354449805
 4256, Civril, Civril, Turkey, 38.228160700000004, 29.850513372290017
 4137, Sivasli, Pinarbasi, Turkey, 38.7214464, 36.3941324
 4287, Alasehir, Baklaci, Turkey, 41.062799, 29.1602813
-4241, Dinar, Dinard, France, 48.6320379, -2.0580178
+4241, Dinar, Dinar, Turkey, 38.067122705407236, 30.16791868183949
 4236, Burdur, Cemil Mahallesi, Turkey, 37.7208817, 30.2956152
 4346, Isparta, Isparta, Turkey, 37.9465412, 30.9602093
 4158, Keciborlu, Keciborlu, Turkey, 37.9448799, 30.3003582
@@ -1264,7 +1264,7 @@
 4095, Akdagmadeni, Akdagmadeni, Turkey, 39.6626502, 35.882023
 4202, Yildizeli, Yildizeli, Turkey, 39.8667215, 36.6016346
 4248, Sivas, Sivas Belediyesi, Turkey, 39.7503572, 37.0145185
-4087, Zara, Novi Pazar, Serbia, 43.1363535, 20.5112273
+4087, Zara, Zara, Turkey, 39.89859565977037, 37.754213643199684
 4267, Hafik, Hafik, Turkey, 39.8545854, 37.3889604
 4340, Alanya, Alanya, Turkey, 36.5436517, 32.0019211
 4053, Manavgat, Manavgat, Turkey, 36.7870124, 31.4406667
@@ -1274,11 +1274,11 @@
 4246, Kemer, Kemer, Turkey, 40.417786, 27.067106
 4282, Tefenni, Tefenni, Turkey, 37.3132492, 29.7759765
 3964, Egirdir, Egirdir, Turkey, 37.8741257, 30.849041
-4407, Yenisehir, Yenisehir, Greece, 39.6383092, 22.4160706
+4407, Yenisehir, Yenisehir, Turkey, 40.26375437161618, 29.65776847722882
 4264, Kurucasile, Kurucasile, Turkey, 41.7819965, 32.6702125872549
 4323, Cide, Cide, Turkey, 41.8915711, 33.003712
-4421, Saray, Sarajevo, Bosnia and Herzegovina, 43.8519774, 18.3866868
-4423, Vize, Viseu, Portugal, 40.6574713, -7.913866
+4421, Saray, Saray, Turkey, 41.45230599272625, 27.934367952953387
+4423, Vize, Vize, Turkey, 41.57293522609286, 27.766168243395533
 4022, Suluova, Suluova, Turkey, 40.8364128, 35.6455569
 4054, Havza, Havza, Turkey, 40.9660605, 35.6653476
 4148, Osmancik, Osmancik, Turkey, 40.9780582, 34.8062245
@@ -1293,8 +1293,8 @@
 4312, Cnye, Burunucu Mahallesi, Turkey, 41.1409814, 37.2914781
 4329, Zorlu Park rest station, Akcay, Turkey, 38.0187106, 40.6707564
 4109, Fatsa, Fatsa, Turkey, 41.0308808, 37.500221
-4279, Persembe, Boztepe, Turkey, 36.976032, 38.4829975
-4165, Ordu, Cordoba, Spain, 37.8845813, -4.7760138
+4279, Persembe, Presembe, Turkey, 41.06658293183593, 37.7991512108343
+4165, Ordu, Ordu, Turkey, 40.98704797392935, 37.87699626869394
 4220, Piraziz, Piraziz, Turkey, 40.9525735, 38.124757
 4084, Husem rest station, Gulyali, Turkey, 40.9662509, 38.0585763
 4345, Bulancak, Bulancak, Turkey, 40.9389231, 38.2318776
@@ -1323,14 +1323,14 @@
 4301, Refahiye, Refahiye, Turkey, 39.9027528, 38.7681749
 3983, Imranli, Toklucak, Turkey, 39.0477621, 31.4560198
 4343, Imranli, Imranli, Turkey, 39.8760006, 38.1129304
-4225, Van, Sesto San Giovanni, Italy, 45.5357218, 9.2376549
+4225, Van, Van, Turkey, 38.49988062251474, 43.3705683059045
 4190, Gevas, Gevas, Turkey, 38.2952862, 43.108271
 3959, Muradiye, Muradiye, Turkey, 38.9902954, 43.7611745
 4128, Ercis, Ercis, Turkey, 39.0289887, 43.3591059
 4032, Tatvan, Tatvan, Turkey, 38.4931961, 42.2878112
 4144, Bitlis, Bitlis, Turkey, 38.4950867, 42.1678372
 4008, Guroymak, Guroymak, Turkey, 38.574172, 42.0253272
-4139, Mus, Palermo, Italy, 38.1112268, 13.3524434
+4139, Mus, Mus, Turkey, 38.7804445722998, 41.48565892164077
 4238, Solhan, Solhan, Turkey, 38.9659351, 41.0518147
 4349, Yukseller rest station, Ekinyolu, Turkey, 38.9076459, 40.5751016
 4185, Bingol, Bingol, Turkey, 39.073803, 40.7296181
@@ -1371,10 +1371,10 @@
 4237, Arhavi, Arhavi, Turkey, 41.3520702, 41.3093534
 3991, Findikli, Findikli, Turkey, 40.7159958, 35.7920695
 3951, Ardesen, Ardesen, Turkey, 41.191875, 40.9894178
-4092, Pazar, Novi Pazar, Serbia, 43.1363535, 20.5112273
+4092, Pazar, Rize, Turkey, 41.180181207431296, 40.89394048331898
 4112, Cayeli, Rize, Turkey, 41.0248249, 40.519914
-4004, Rize, Paris, France, 48.8534951, 2.3483915
+4004, Rize, Rize, Turkey, 41.0248249, 40.519914
 4151, Derepazari, Derepazari, Turkey, 41.0267665, 40.4240257
-4120, Of, Sofia, Bulgaria, 42.6977028, 23.3217359
+4120, Of, Of, Turkey, 40.943343380877856, 40.26337687124678
 4274, Iyidere, Iyidere, Turkey, 40.514992, 40.851017
 4319, Surmene, Surmene, Turkey, 40.9127715, 40.1134808

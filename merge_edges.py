@@ -3,30 +3,29 @@ import networkx as nx
 def connected(u, v, G):
     return u in G.neighbors(v)
 
-G = nx.parse_edgelist('edges', create_using=nx.MultiGraph)
-print(G.edges())
+with open("edges", 'r', encoding="utf-8") as f:
+    G = nx.parse_edgelist(f.readlines(), create_using=nx.MultiGraph)
+
 nodes = {}
-
-
 with open("nodes_coord", 'r', encoding="utf-8") as f:
     lines = f.readlines()
     for line in lines:
         nr, name, city, country, lat, long = line[:-3].split(', ')
         nodes[nr]= city + str(', ') + country
 
-G_merged = nx.MultiGraph()
+G_merged = nx.Graph()
 G_merged.add_nodes_from(set(nodes.values()))
 
 for u,v,data in G.edges(data=True):
-    m1 = nodes[u]
-    m2 = nodes[v]
-    G.edges(u,v)
-    if m1!=m2:
-        if not connected(m1,m2,G_merged):
-            G_merged.add_edge(m1,m2, lines = data['line'])
-            print(G_merged.edges(m1,m2))
-        else:
-            G_merged.edges[m1,m2,'lines'].append(data['line'])
+    ad1 = nodes[u]
+    ad2 = nodes[v]
 
-nx.write_edgelist(G, 'merged_edges')
+    if ad1!=ad2:
+        if not connected(ad1,ad2,G_merged):
+            G_merged.add_edge(ad1,ad2, lines = [data['line']])
+
+        else:
+            G_merged.edges[ad1,ad2]["lines"].append(data['line'])
+
+nx.write_edgelist(G_merged, 'merged_edges', delimiter = '; ')
 
