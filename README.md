@@ -5,6 +5,7 @@ Because of the quality of the data, files "nodes1" and "nodes_coord" where corre
 an edge with the line name, if this line connects directly those two stations.
 
 In the project is done:
+
 -> scrapping the data into a Multigraph, storing Flixbus stations and it's adresses   
 
 -> merging multiedges into simple ones   
